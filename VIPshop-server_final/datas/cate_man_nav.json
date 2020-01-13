@@ -1,0 +1,67 @@
+{
+  "code": 1,
+  "data": {
+    "items": [{
+        "brand_store_sn": "10007920",
+        "name": "骆驼"
+      },
+      {
+        "brand_store_sn": "10020427",
+        "name": "HLA海澜之家"
+      },
+      {
+        "brand_store_sn": "10001179",
+        "name": "罗蒙"
+      },
+      {
+        "brand_store_sn": "10014925",
+        "name": "铁狮丹顿"
+      },
+      {
+        "brand_store_sn": "10026664",
+        "name": "富铤"
+      },
+      {
+        "brand_store_sn": "10012394",
+        "name": "雅戈尔"
+      },
+      {
+        "brand_store_sn": "10001160",
+        "name": "GXG"
+      },
+      {
+        "brand_store_sn": "10001155",
+        "name": "太平鸟"
+      },
+      {
+        "brand_store_sn": "10004433",
+        "name": "波司登"
+      },
+      {
+        "brand_store_sn": "10004116",
+        "name": "森马"
+      },
+      {
+        "brand_store_sn": "10003448",
+        "name": "九牧王"
+      },
+      {
+        "brand_store_sn": "10000466",
+        "name": "金利来"
+      },
+      {
+        "brand_store_sn": "10000498",
+        "name": "凯撒"
+      },
+      {
+        "brand_store_sn": "10001125",
+        "name": "G2000"
+      },
+      {
+        "brand_store_sn": "10004390",
+        "name": "BOSSSUNWEN"
+      }
+    ]
+  },
+  "msg": "success"
+}

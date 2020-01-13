@@ -1,0 +1,1441 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "brand_nav_text": "精选品牌",
+    "current_node": {
+      "categoryId": 75044,
+      "name": "男女内衣",
+      "hierarchyId": "107",
+      "image": "",
+      "children": [{
+          "children": [{
+              "children": null,
+              "categoryId": "52040828",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040828",
+                "jump_word": "52040828",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040828&extra_title=å¥³å£«ç\u009d¡è¡£",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "女士睡衣",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/08/34/15679306088197.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52339115",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52339115",
+                "jump_word": "52339115",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52339115&extra_title=å¥³å£«ä¿\u009dæ\u009a\u0096",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "女士保暖",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/185/15693226172741.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52339116",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52339116",
+                "jump_word": "52339116",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52339116&extra_title=ç\u0094·å£«ä¿\u009dæ\u009a\u0096",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "男士保暖",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/55/15693226573565.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040840",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040840",
+                "jump_word": "52040840",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040840&extra_title=ç\u0083\u00adå\u008d\u0096æ\u0096\u0087è\u0083¸",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "热卖文胸",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/74/15693272316708.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040826",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040826",
+                "jump_word": "52040826",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040826&extra_title=æ\u0096\u0087è\u0083¸å¥\u0097è£\u0085",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "文胸套装",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/111/15692887064286.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040822",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040822",
+                "jump_word": "52040822",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040822&extra_title=å¥³å£«å\u0086\u0085è£¤",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "女士内裤",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/5/15692887445876.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040824",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040824",
+                "jump_word": "52040824",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040824&extra_title=ç\u0094·å£«ç\u009d¡è¡£",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "男士睡衣",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/08/20/15679306328564.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040823",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040823",
+                "jump_word": "52040823",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040823&extra_title=ç\u0094·å£«å\u0086\u0085è£¤",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "男士内裤",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/167/15692887962707.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040827",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040827",
+                "jump_word": "52040827",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040827&extra_title=ç\u0094·å¥³è¢\u009cå\u00ad\u0090",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "男女袜子",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/143/15693127782117.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040831",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040831",
+                "jump_word": "52040831",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040831&extra_title=ç\u0088±æ\u0085\u0095é\u009b\u0086å\u009b¢",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "爱慕集团",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/98/15692888562791.gif",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52180924",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52180924",
+                "jump_word": "52180924",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52180924&extra_title=68æ\u0096°å\u0085¥é©»",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "68新入驻",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/26/32/15694618867975.gif",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52343443",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52343443",
+                "jump_word": "52343443",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52343443&extra_title=ç\u0083\u00adé\u0094\u0080ç\u0088\u0086æ¬¾",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "热销爆款",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/104/15693225986928.png",
+              "flag": 0,
+              "url": ""
+            }
+          ],
+          "categoryId": "52047387",
+          "attribute_individuation": {
+            "source_from": "",
+            "ranking_list.name": "热销榜",
+            "jump_word": "",
+            "is_warmup": "0",
+            "group_parent_id": "52047387",
+            "show_type": "0",
+            "product_type": "0",
+            "ranking_list.show": "1",
+            "ranking_list.url": "https://mst.vip.com/RnEFTzzHCVvBKYMgM1Taww.php?wapid=mst_100000286&_src=mst&extra_banner=115000286&nova=1&mst_page_type=guide",
+            "directory_type": "group_goods",
+            "jump_type": "4"
+          },
+          "name": "秋冬热卖",
+          "image": "",
+          "flag": 0,
+          "url": ""
+        },
+        {
+          "children": [{
+              "children": null,
+              "categoryId": "52340688",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52340688",
+                "jump_word": "52340688",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52340688&extra_title=å¥³å£«ç¾\u008aç»\u0092è%A",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "女羊绒衫",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/73/15692889918557.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52340706",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52340706",
+                "jump_word": "52340706",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52340706&extra_title=å¥³ç¾\u008aæ¯\u009bè¡«",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "女羊毛衫",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/22/188/15691371897184.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52340707",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52340707",
+                "jump_word": "52340707",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52340707&extra_title=å¥³å¼\u008få¤§è¡£",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "女式大衣",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/22/134/15691372775750.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52340708",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52340708",
+                "jump_word": "52340708",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52340708&extra_title=ç\u0094·ç¾\u008aç»\u0092è¡«",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "男羊绒衫",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/22/104/15691374194303.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52340709",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52340709",
+                "jump_word": "52340709",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52340709&extra_title=å\u008a ç»\u0092ä¿\u009dæ\u009a\u0096",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "加绒保暖",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/22/19/15691376051569.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52340710",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52340710",
+                "jump_word": "52340710",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52340710&extra_title=ç\u008f\u008aç\u0091\u009aç»\u0092ç\u009d¡è%A",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "加绒睡衣",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/22/165/15691377315648.jpg",
+              "flag": 0,
+              "url": ""
+            }
+          ],
+          "categoryId": "52340711",
+          "attribute_individuation": {
+            "source_from": "",
+            "jump_word": "",
+            "is_warmup": "0",
+            "group_parent_id": "52340711",
+            "show_type": "0",
+            "product_type": "0",
+            "directory_type": "group_goods",
+            "jump_type": "4"
+          },
+          "name": "秋冬热销",
+          "image": "",
+          "flag": 0,
+          "url": ""
+        },
+        {
+          "children": [{
+              "children": null,
+              "categoryId": "52339117",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52339117",
+                "jump_word": "52339117",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52339117&extra_title=è£¤è¢\u009c/æ\u0089\u0093åº\u0095%E",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "裤袜/打底裤",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/142/15693234457999.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040842",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040842",
+                "jump_word": "52040842",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040842&extra_title=ç\u009d¡è¡£å®¶å±\u0085æ%9",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "睡衣家居服",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/122/15692897279188.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040843",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040843",
+                "jump_word": "52040843",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040843&extra_title=çº¯æ£\u0089ç\u009d¡è¡£",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "纯棉睡衣",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/129/15692897946897.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040821",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040821",
+                "jump_word": "52040821",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040821&extra_title=è\u0081\u009aæ\u008b¢æ\u0096\u0087è\u0083¸",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "聚拢文胸",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/93/15693394571630.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040825",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040825",
+                "jump_word": "52040825",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040825&extra_title=æ\u0097 é\u0092¢å\u009c\u0088æ\u0096\u0087è%8",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "无钢圈文胸",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/28/15693258065391.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040847",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040847",
+                "jump_word": "52040847",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040847&extra_title=è\u0096\u0084æ\u009d¯æ\u0096\u0087è\u0083¸",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "薄杯文胸",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/2/15692893902549.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040836",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040836",
+                "jump_word": "52040836",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040836&extra_title=è°\u0083æ\u0095´å\u009e\u008bæ\u0096\u0087è%8",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "调整型文胸",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/122/15692896026318.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040846",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040846",
+                "jump_word": "52040846",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040846&extra_title=å°\u0091å¥³æ\u0096\u0087è\u0083¸",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "少女文胸",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/130/15692974036781.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040839",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040839",
+                "jump_word": "52040839",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040839&extra_title=è¿\u0090å\u008a¨æ\u0096\u0087è\u0083¸",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "运动文胸",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/47/15692974224962.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040832",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040832",
+                "jump_word": "52040832",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040832&extra_title=å¥³å£«å\u0086\u0085è£¤",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "女士内裤",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/62/15693272508532.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040833",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040833",
+                "jump_word": "52040833",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040833&extra_title=å¡\u0091èº«å\u0086\u0085è¡£",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "塑身内衣",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/167/15692974947704.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040835",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040835",
+                "jump_word": "52040835",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040835&extra_title=å¥³è¢\u009c/ä¸\u009dè¢\u009c",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "女袜",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/123/15693127911674.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52343353",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52343353",
+                "jump_word": "52343353",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52343353&extra_title=å¥³ä¿\u009dæ\u009a\u0096å¥\u0097è%A",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "女保暖套装",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/113/15693237008207.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52343355",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52343355",
+                "jump_word": "52343355",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52343355&extra_title=å¥³ä¿\u009dæ\u009a\u0096ä¸\u008aè%A",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "女保暖上衣",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/71/15693236595551.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040837",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040837",
+                "jump_word": "52040837",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040837&extra_title=ç\u009d¡è£\u0099/ç\u009d¡è¢\u008d",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "睡裙/睡袍",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/08/93/15679306867743.png",
+              "flag": 0,
+              "url": ""
+            }
+          ],
+          "categoryId": "52047386",
+          "attribute_individuation": {
+            "source_from": "",
+            "ranking_list.name": "热销榜",
+            "jump_word": "",
+            "is_warmup": "0",
+            "group_parent_id": "52047386",
+            "show_type": "0",
+            "product_type": "0",
+            "ranking_list.show": "1",
+            "ranking_list.url": "https://mst.vip.com/o6DfUvVp_T85Qnn7JTb5AQ.php?wapid=mst_100000300&_src=mst&extra_banner=115000300&nova=1&nova_platform=1&mst_page_type=guide",
+            "directory_type": "group_goods",
+            "jump_type": "4"
+          },
+          "name": "女士内衣",
+          "image": "",
+          "flag": 0,
+          "url": ""
+        },
+        {
+          "children": [{
+              "children": null,
+              "categoryId": "52040849",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040849",
+                "jump_word": "52040849",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040849&extra_title=ç\u009d¡è¡£/å®¶å±\u0085%E",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "睡衣/家居服",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/08/5/15679307757565.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040848",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040848",
+                "jump_word": "52040848",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040848&extra_title=ç\u0094·å£«å\u0086\u0085è£¤",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "男士内裤",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/74/15692977719469.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040851",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040851",
+                "jump_word": "52040851",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040851&extra_title=ç\u0094·è¢\u009c",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "男袜",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/54/15692978214865.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52343358",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52343358",
+                "jump_word": "52343358",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52343358&extra_title=ç\u0094·ä¿\u009dæ\u009a\u0096å¥\u0097è%A",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "男保暖套装",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/172/15693246097250.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52343360",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52343360",
+                "jump_word": "52343360",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52343360&extra_title=ç\u0094·ä¿\u009dæ\u009a\u0096ä¸\u008aè%A",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "男保暖上衣",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/54/15693249704580.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52343368",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52343368",
+                "jump_word": "52343368",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52343368&extra_title=ç\u0094·ä¿\u009dæ\u009a\u0096è£¤",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "男保暖裤",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/3/15693250284165.jpg",
+              "flag": 0,
+              "url": ""
+            }
+          ],
+          "categoryId": "52047392",
+          "attribute_individuation": {
+            "source_from": "",
+            "ranking_list.name": "热销榜",
+            "jump_word": "",
+            "is_warmup": "0",
+            "group_parent_id": "52047392",
+            "show_type": "0",
+            "product_type": "0",
+            "ranking_list.show": "1",
+            "ranking_list.url": "https://mst.vip.com/Nca4A_Ate6lkhSaODLEb5w.php?wapid=mst_100000301&_src=mst&extra_banner=115000301&nova=1&mst_page_type=guide",
+            "directory_type": "group_goods",
+            "jump_type": "4"
+          },
+          "name": "男士内衣",
+          "image": "",
+          "flag": 0,
+          "url": ""
+        },
+        {
+          "children": [{
+              "children": null,
+              "categoryId": "52040855",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040855",
+                "jump_word": "52040855",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040855&extra_title=æ\u0083\u0085ä¾£ç\u009d¡è¡£",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "情侣睡衣",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/141/15692979361105.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040854",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040854",
+                "jump_word": "52040854",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040854&extra_title=å¤§ç \u0081æ\u0096\u0087è\u0083¸",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "大码文胸",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/196/15692980323560.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040856",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040856",
+                "jump_word": "52040856",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040856&extra_title=æ\u0083\u0085è¶£å\u0086\u0085è¡£",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "情趣内衣",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/75/15692980534509.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040860",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040860",
+                "jump_word": "52040860",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040860&extra_title=ç\u0094\u009fç\u0090\u0086å\u0086\u0085è£¤",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "生理内裤",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/39/15692979804177.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040858",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040858",
+                "jump_word": "52040858",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040858&extra_title=é\u009a\u0090å½¢è\u0083¸è´´",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "隐形胸贴",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/124/15692980047393.jpg",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52343373",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52343373",
+                "jump_word": "52343373",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52343373&extra_title=çº¢å\u0093\u0081å\u0086\u0085è¡£",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "红品内衣",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/122/15693250654648.png",
+              "flag": 0,
+              "url": ""
+            }
+          ],
+          "categoryId": "52047388",
+          "attribute_individuation": {
+            "source_from": "",
+            "jump_word": "",
+            "is_warmup": "0",
+            "group_parent_id": "52047388",
+            "show_type": "0",
+            "product_type": "0",
+            "directory_type": "group_goods",
+            "jump_type": "4"
+          },
+          "name": "特色专区",
+          "image": "",
+          "flag": 0,
+          "url": ""
+        },
+        {
+          "children": [{
+              "children": null,
+              "categoryId": "52040862",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040862",
+                "jump_word": "52040862",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040862&extra_title=ç\u0088±æ\u0085\u0095",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "爱慕",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/149/15693084032729.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040861",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040861",
+                "jump_word": "52040861",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040861&extra_title=é»\u009bå®\u0089è\u008a¬",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "黛安芬",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/131/15693086003825.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040876",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040876",
+                "jump_word": "52040876",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040876&extra_title=å\u008d\u008eæ\u00ad\u008cå°\u0094",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "华歌尔",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/93/15693107258675.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040864",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040864",
+                "jump_word": "52040864",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040864&extra_title=å®\u0089è\u008e\u0089è\u008a³",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "安莉芳",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/164/15693086701038.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040865",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040865",
+                "jump_word": "52040865",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040865&extra_title=æ\u009b¼å¦®è\u008a¬",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "曼妮芬",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/169/15693087075691.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040866",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040866",
+                "jump_word": "52040866",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040866&extra_title=æ¬§è¿ªè\u008a¬",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "欧迪芬",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/164/15693087219448.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040863",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040863",
+                "jump_word": "52040863",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040863&extra_title=æ\u00ad\u008cç\u0091\u009eå°\u0094",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "歌瑞尔",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/46/15693089506287.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040887",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040887",
+                "jump_word": "52040887",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040887&extra_title=å\u008a ä¸\u0080å°\u009aå\u0093\u0081",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "加一尚品",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/71/15693089631189.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040867",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040867",
+                "jump_word": "52040867",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040867&extra_title=é\u0083½å¸\u0082ä¸½äºº",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "都市丽人",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/128/15693090332785.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040868",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040868",
+                "jump_word": "52040868",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040868&extra_title=æ¶¦å¾®",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "润微",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/183/15693091164263.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040869",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040869",
+                "jump_word": "52040869",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040869&extra_title=ç\u0088±ç¾\u008eä¸½",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "爱美丽",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/84/15693107409601.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040870",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040870",
+                "jump_word": "52040870",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040870&extra_title=è\u008a¬è\u0085¾",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "芬腾",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/160/15693091543101.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040895",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040895",
+                "jump_word": "52040895",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040895&extra_title=çº¢è±\u0086",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "红豆",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/177/15693091718319.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040872",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040872",
+                "jump_word": "52040872",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040872&extra_title=æ\u009e\u009cå£³",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "果壳",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/169/15693091831008.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040905",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040905",
+                "jump_word": "52040905",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040905&extra_title=US POLO",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "US POLO",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/8/15693091978921.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040877",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040877",
+                "jump_word": "52040877",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040877&extra_title=é¡¶ç\u0093\u009cç\u0093\u009c",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "顶瓜瓜",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/117/15693092408237.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040880",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040880",
+                "jump_word": "52040880",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040880&extra_title=æµªè\u008e\u008e",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "浪莎",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/71/15693092574301.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040893",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040893",
+                "jump_word": "52040893",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040893&extra_title=ä¸\u0089æ\u009eª",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "三枪",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/37/15693092695031.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040892",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040892",
+                "jump_word": "52040892",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040892&extra_title=ç¾\u008eæ \u0087",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "美标",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/153/15693093255493.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040886",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040886",
+                "jump_word": "52040886",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040886&extra_title=æ·³åº¦",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "淳度",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/39/15693093527652.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040889",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040889",
+                "jump_word": "52040889",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040889&extra_title=å¤\u009aæ\u008b\u0089ç¾\u008e",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "多拉美",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/50/15693094108344.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040878",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040878",
+                "jump_word": "52040878",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040878&extra_title=é\u009bªä¿\u0090",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "雪俐",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/154/15693094325061.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040871",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040871",
+                "jump_word": "52040871",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040871&extra_title=çº¢è±\u0086å±\u0085å®¶",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "红豆居家",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/1/15693094452618.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040881",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040881",
+                "jump_word": "52040881",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040881&extra_title=è\u008a±è\u008a±å\u0085¬å\u00ad\u0090",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "花花公子",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/5/15693094623535.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040874",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040874",
+                "jump_word": "52040874",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040874&extra_title=ä¸\u0083å\u008c¹ç\u008b¼",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "七匹狼",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/167/15693094877294.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040873",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040873",
+                "jump_word": "52040873",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040873&extra_title=ä¿\u009eå\u0085\u0086æ\u009e\u0097",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "俞兆林",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/42/15693095158500.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040890",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040890",
+                "jump_word": "52040890",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040890&extra_title=ç\u008c«äºº",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "猫人",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/25/15693111656340.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040896",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040896",
+                "jump_word": "52040896",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040896&extra_title=é\u0084\u0082å°\u0094å¤\u009aæ\u0096¯",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "鄂尔多斯",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/156/15693095364822.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040897",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040897",
+                "jump_word": "52040897",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040897&extra_title=ç±³ç\u009a\u0087",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "米皇",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/181/15693095514875.png",
+              "flag": 0,
+              "url": ""
+            },
+            {
+              "children": null,
+              "categoryId": "52040898",
+              "attribute_individuation": {
+                "source_from": "",
+                "group_sub_id": "52040898",
+                "jump_word": "52040898",
+                "is_warmup": "0",
+                "jump_url": "https://mst.vip.com/d3d4GeNXQpNa1fYJVYdNPQ.php?wapid=mst_10000287&_src=mst&extra_banner=25000287&special_id=5000224&nova=1&mst_page_type=guide&extra_landing_abtest_id=1812&extra_landing_rule_id=52040898&extra_title=æ\u0080\u009dè¯ºè\u008a\u0099å¾·",
+                "product_type": "0",
+                "jump_type": "4"
+              },
+              "name": "思诺芙德",
+              "image": "http://a.vpimg3.com/upload/goadmin/2019/09/24/28/15693111877188.png",
+              "flag": 0,
+              "url": ""
+            }
+          ],
+          "categoryId": "52047393",
+          "attribute_individuation": {
+            "source_from": "",
+            "ranking_list.name": "热销榜",
+            "jump_word": "",
+            "is_warmup": "0",
+            "group_parent_id": "52047393",
+            "show_type": "0",
+            "product_type": "0",
+            "ranking_list.show": "1",
+            "ranking_list.url": "https://mst.vip.com/2eWvLcEsHsKlsfqMAfaRrA.php?wapid=mst_100013252&_src=mst&extra_banner=115013252&nova=1&nova_platform=1&mst_page_type=guide",
+            "directory_type": "group_goods",
+            "jump_type": "4"
+          },
+          "name": "精选品牌",
+          "image": "",
+          "flag": 0,
+          "url": ""
+        }
+      ],
+      "attribute_individuation": {
+        "child_channel.show": "1",
+        "child_channel.type": "1",
+        "child_channel.pos": "-1",
+        "child_channel.image": "",
+        "child_channel.text": "进入男女内衣频道",
+        "is_warmup": "0",
+        "product_type": "0",
+        "child_channel.code": "neiyi",
+        "child_channel.href": ""
+      },
+      "source_from": "gos-category-v2"
+    },
+    "brand_store": [],
+    "cache_time": "2019-12-27 23:31:05",
+    "release_version": "20171102",
+    "buried_point_data": {
+      "hierarchy_id": 107,
+      "sub_hierarchy_id_category": 1046,
+      "province_id": "101101",
+      "source_from": "go.api"
+    },
+    "current_time": 1577460665,
+    "data_from": "normal",
+    "delete_nodes": []
+  },
+  "_info": {
+    "tid": "-8389255484909997057",
+    "etime": 0.045305013656616
+  },
+  "h2config": {
+    "h2switch": true,
+    "h2data": "//h2.appsimg.com"
+  }
+}

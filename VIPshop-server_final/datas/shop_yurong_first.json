@@ -1,0 +1,354 @@
+{
+  "code": 1,
+  "msg": "success",
+  "data": {
+    "product": {
+      "productIdStr": "6918079277848704521",
+      "brandIdStr": "1710614633",
+      "spuId": "1298802226675617797",
+      "productId": 6918079277848704521,
+      "brandId": 1710614633,
+      "title": "LALABOBO 可爱萌兔连帽羽绒服女",
+      "vipshopPrice": "463",
+      "marketPrice": "1658",
+      "agio": "2.8折",
+      "smallImage": "/upload/merchandise/pdcvis/2019/12/06/108/8b125fdd-29a0-41ec-86bc-377230a26dec.jpg",
+      "salesFlagType": 0,
+      "merchandiseSn": "L02D-WWYW60-45",
+      "productColor": [{
+          "id": 1,
+          "color": "绿色",
+          "image": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/108/8b125fdd-29a0-41ec-86bc-377230a26dec_720x909_70.jpg!85.webp"
+        },
+        {
+          "id": 2,
+          "color": "浅玫粉色",
+          "image": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/84/712eed24-5c28-422d-9757-6879df2c37df_720x909_70.jpg!85.webp"
+        }
+      ],
+      "productSize": ["S", "M", "L"],
+      "previewImages": [{
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/108/8b125fdd-29a0-41ec-86bc-377230a26dec_720x909_70.jpg!85.webp",
+          "imageIndex": 1
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/129/df3a103c-42f5-407b-9771-94a3d0b9fd32_720x909_70.jpg!85.webp",
+          "imageIndex": 2
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/164/ac00aa17-8a73-42bc-b2c1-bfbbe36a5d12_720x909_70.jpg!85.webp",
+          "imageIndex": 3
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/61/52f5c15b-318e-4abc-92c9-9f664964f772_720x909_70.jpg!85.webp",
+          "imageIndex": 4
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/21/33cd5963-9d24-41cd-afac-97ea5a987e51_720x909_70.jpg!85.webp",
+          "imageIndex": 15
+        }
+      ],
+      "specialPrice": "",
+      "favPrice": "",
+      "isPresell": "0",
+      "saleStyle": "3",
+      "uv": 0,
+      "is3d": 0,
+      "pointDescribe": "",
+      "goodsPoint": "185",
+      "itemDetailModules": [{
+        "name": "洗涤说明",
+        "value": "轻柔手洗，建议洗涤温度不超30度 图案位置不宜用力揉搓"
+      }],
+      "areaOutput": "中国",
+      "vendorProductId": 1298802226675617797,
+      "subTitle": "",
+      "catId": 0,
+      "newCatId": 324,
+      "customerServiceUrl": "http://400.vip.com/WebChat/chat/wapchat.jsp?scheduleid={brandid}&productid={productid}",
+      "itemDetail": {
+        "description": "",
+        "accessoryInfo": "图片中的各种配件均为拍摄搭配之用，是不包含在所售商品中的。",
+        "saleService": "此商品有多批次，请以实物为主",
+        "videoCode": ""
+      },
+      "sellTimeFrom": "1537906377",
+      "sellTimeTo": "1577721600",
+      "detailImages": [{
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/67/285e4e0f-bfe9-42cc-be86-43494754c333.jpg!85.webp",
+          "imageIndex": 601
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/165/6d94a57d-5bde-43b7-a4e4-09e487534937.jpg!85.webp",
+          "imageIndex": 602
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/164/35212071-1a95-46c2-8ef7-535ee0607fd2.jpg!85.webp",
+          "imageIndex": 603
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/35/40896c5e-bab4-4ba4-b7b1-d9ad6102168d.jpg!85.webp",
+          "imageIndex": 604
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/116/d584da3a-58a5-4ba5-a65f-7071bab1a13d.jpg!85.webp",
+          "imageIndex": 605
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/127/1586f0e9-d117-4001-8501-666d6b4bfb74.jpg!85.webp",
+          "imageIndex": 606
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/57/508035ee-2362-486b-be6b-217b08e72b4d.jpg!85.webp",
+          "imageIndex": 607
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/173/31cb279a-a529-4d8a-a8fa-2fa5655d025b.jpg!85.webp",
+          "imageIndex": 608
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/3/96f6f5e0-50d5-4ff0-aa53-1285ee10c907.jpg!85.webp",
+          "imageIndex": 609
+        },
+        {
+          "imageUrl": "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/06/28/e69fae49-5410-4d11-9998-4f6232175257.jpg!85.webp",
+          "imageIndex": 610
+        }
+      ],
+      "attrSpecProps": [{
+          "attriuteId": 71,
+          "attributeName": "弹性",
+          "dataType": "Option",
+          "values": [{
+            "optionName": "无弹"
+          }]
+        },
+        {
+          "attriuteId": 977,
+          "attributeName": "款式",
+          "dataType": "Option",
+          "values": [{
+            "optionName": "连帽可脱卸"
+          }]
+        },
+        {
+          "attriuteId": 986,
+          "attributeName": "填充物含量",
+          "dataType": "Option",
+          "values": [{
+            "optionName": "80%~89%"
+          }]
+        },
+        {
+          "attriuteId": 1703,
+          "attributeName": "充绒量",
+          "dataType": "Option",
+          "values": [{
+            "optionName": "150g（含）-200g（不含）"
+          }]
+        },
+        {
+          "attriuteId": 2266,
+          "attributeName": "适用性别",
+          "dataType": "Option",
+          "values": [{
+            "optionName": "女"
+          }]
+        }
+      ],
+      "isGift": 0,
+      "isGiving": "0",
+      "isSupplier": 0,
+      "itemProperties": [{
+        "name": "充绒量",
+        "value": "80%",
+        "propIndex": 0
+      }],
+      "brandStoreSn": "10022273",
+      "brandStoreName": "LALABOBO",
+      "isMakeUp": 0,
+      "sizeMeasurePic": "http://a.vpimg4.com/upload/category/2016/07/01/190/572ae2c9-a3d5-4a6e-8bff-57b8a2794465.jpg",
+      "categoryId": 324,
+      "certificationUrl": "",
+      "sizeTableId": "34649441",
+      "deliveryTime": "",
+      "sendTime": "",
+      "craneRate": "",
+      "isIndependent": 0,
+      "overseasCode": "0",
+      "vendorId": 600696,
+      "coverImage": "",
+      "isShowAuth": "1",
+      "isHaiTao": 0,
+      "isPreSale": 0,
+      "active_price": "",
+      "min_vipshop_price": "463",
+      "max_vipshop_price": "463",
+      "min_market_price": "1658",
+      "max_market_price": "1658",
+      "send_by_vendor": 0,
+      "state": 1,
+      "weight": "0",
+      "isLuxury": "0",
+      "isFinanceVip": "0",
+      "exchangeDescUrl": "http://viva.vip.com/act/m/staic-page-policy/ilishe?wapid=vivac_313",
+      "ptype": 0,
+      "vendorCode": "600696",
+      "suiteTagStr": "",
+      "detailStatus": 0,
+      "isDeleted": 0,
+      "isCjcLarge": "0",
+      "isShoe": 0,
+      "saleAreaId": 0,
+      "saleAreaIdType": 1,
+      "is_device": 0,
+      "vipSelection": 0,
+      "volume": "0",
+      "rectangleType": "s",
+      "staticProduct": 1,
+      "isNuke": 0,
+      "promotion_price_type": 0,
+      "promotion_price": "",
+      "promotion_price_suff": "",
+      "promotion_price_tips": "",
+      "vendorName": "",
+      "allowShowReputation": "1",
+      "showAsk": "1",
+      "isSupportYouthElite": "1",
+      "isAllowedPresent": "0",
+      "anti_click_farming": "0",
+      "goodsPointTips": "银卡会员购买最多可获得185个唯品币",
+      "salePrice": "463",
+      "saleSavePrice": "",
+      "salePriceType": "",
+      "salePriceTips": "",
+      "discount": "2.8折",
+      "iconURL": "",
+      "iconMsg": "",
+      "priceIconMsg": "",
+      "priceIconURL": "",
+      "vipDiscount": "2.8折",
+      "shortVideoUrl": "",
+      "isTextColor": "0",
+      "brandStoreLogo": "http://a.vpimg3.com/upload/brandcool/0/be1cf66324bf40e9bb4c186ffffd69b0/10022273/primary.png",
+      "brandStoreSlogan": "美式休闲服饰中的高端品牌，甜美混搭奢华",
+      "brandStory": "时尚脉搏，引领消费潮流，走快时尚之路",
+      "allowHideSize": "0",
+      "brandSource": "",
+      "isVipLuxury": 0,
+      "isMedicine": 0,
+      "markUpPurchase": 1,
+      "isUppriceBuy": 0,
+      "dutyfree": 0,
+      "promotionDiscount": "",
+      "promotionMarketPrice": "",
+      "minMarketPriceOfMinSkuVipshopPrice": "1658",
+      "vipshopPriceSuff": "",
+      "crazyPriceFlag": 0,
+      "canReturn": 1,
+      "canExchange": 1,
+      "commitmentImages": [{
+        "type": "defaultItem",
+        "imageUrl": "http://b.appsimg.com/2017/08/11/161/1502443448261.png",
+        "jumpUrl": "https://viva.vip.com/act/m/staic-page-zpbz?wapid=vivac_312",
+        "jumpTitle": "正品保证"
+      }],
+      "longTitle": "LALABOBO | 可爱萌兔连帽羽绒服女",
+      "supportServices": [{
+          "iconType": "1",
+          "title": "唯品会自营",
+          "description": "本商品由唯品会安排发货，并提供售后服务。"
+        },
+        {
+          "iconType": "1",
+          "title": "7天无理由退货",
+          "description": "该商品支持7天无理由退货，请放心购买！",
+          "jumpUrl": "https://mst.vip.com/1hjJunDXljRKtYe4ewUAtw.php?wapid=mst_100011808&_src=mst&extra_banner=115011808&nova=1&nova_platform=1&mst_page_type=guide&type=return"
+        },
+        {
+          "iconType": "1",
+          "title": "退货返10元唯品币",
+          "description": "任何原因产生的订单退货邮费，唯品会都将补贴10元唯品币（1000个）。",
+          "jumpUrl": "https://mst.vip.com/1hjJunDXljRKtYe4ewUAtw.php?wapid=mst_100011808&_src=mst&extra_banner=115011808&nova=1&nova_platform=1&mst_page_type=guide&type=return"
+        },
+        {
+          "iconType": "1",
+          "title": "7天可换",
+          "description": "该商品支持换货，订单签收7天内可申请换货",
+          "jumpUrl": "https://mst.vip.com/1hjJunDXljRKtYe4ewUAtw.php?wapid=mst_100011808&_src=mst&extra_banner=115011808&nova=1&nova_platform=1&mst_page_type=guide"
+        }
+      ],
+      "isXStore": "0"
+    },
+    "brand": {
+      "is_login_add_cart": 0,
+      "channel_source_describe": "",
+      "visUrl": null,
+      "countdown_type": 2,
+      "country_code": "",
+      "country_flag": "",
+      "country_name": "",
+      "area_freight_id": 0,
+      "prepay_first_endtime": 0,
+      "prepay_first_begintime": 0,
+      "is_prepay": 0,
+      "brand_id": "1710614633",
+      "brand_name": "唯品会好货精选",
+      "logo": "",
+      "sell_time_from": "1537906377",
+      "sell_time_to": "1577721600",
+      "agio": "<span class=\"salebg2\">1.4</span>折起",
+      "warehouse": "VIP_BJ",
+      "brand_store_sn": "10022273",
+      "is_supplier": "0",
+      "supplier_name": "",
+      "sale_style": "3",
+      "freight": "0",
+      "channel_id": "",
+      "banner_image_url": "",
+      "mobile_image_one": "",
+      "mobile_image_two": "",
+      "preHeat": 0,
+      "mobile_show_from": "1537906377",
+      "mobile_show_to": "1577721600",
+      "channel_ids": "",
+      "vis": "",
+      "visType": 2,
+      "brand_source_type": 3,
+      "flash_purchase": 0,
+      "brand_story_show": "",
+      "is_oxo": 0,
+      "is_long_product_name": 0,
+      "is_mobile_purchase": 0,
+      "oxo_style": "0",
+      "oxo_sale_area": "0",
+      "is_hook": 0,
+      "brandStoryImage": null,
+      "c3_brand_status": 0,
+      "flagshipUrl": "",
+      "isMedicine": 0,
+      "isMixSaleStyle": 1,
+      "store": false,
+      "brandId": "1710614633",
+      "isMobilePurchase": 0,
+      "sellTimeFrom": "1537906377",
+      "sellTimeTo": "1577721600"
+    },
+    "isSameStyle": 0,
+    "uiSettings": {
+      "newKf": "1",
+      "newShare": "1",
+      "videoDisplayStyle": "1"
+    },
+    "kf": {
+      "pageButtons": [{
+        "jumpType": "COMMON_WEBVIEW",
+        "jumpUrl": "https://400.vip.com/h5/index.page?&productId=6918079277848704521&saleSite=VIP_BJ&orderSn=&appVersion=4.0&openIdSessionKey=&appMid=1577433912035_c8884e90b4146af11f74b3ac5de254e1&channel=1&entrance=2&accessToken=3834972FFD17DD579A1FF35988B9DF7E775E0D19&applyid=",
+        "buttonId": "VIP_COMMON",
+        "buttonCode": "1:2:1:VIP_COMMON",
+        "buttonText": "购买咨询",
+        "icon": "https://vos.vipstatic.com/vchat/cbce22d3-8213-4206-9ab6-2a4c3a5de4aa.png"
+      }]
+    }
+  }
+}

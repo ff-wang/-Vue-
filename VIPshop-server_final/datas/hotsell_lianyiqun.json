@@ -1,0 +1,3368 @@
+{
+  "code": 1,
+  "data": {
+    "goodsBubbleShareList": [],
+    "goodsList": [
+      "6918444518421743693",
+      "6918488005052235996",
+      "6918357645062308166",
+      "6918062008407422019",
+      "6918131675394520336",
+      "6918276577756389719",
+      "6918408559658284548",
+      "6917925523350086864",
+      "6918473540603144087",
+      "6918374936068182100",
+      "6918508439425017375",
+      "6917925798432040010",
+      "6918151804740896415",
+      "6917927047109551299",
+      "6918311183002730568",
+      "6918324098206286918",
+      "6917925119117522128",
+      "6917924970734629974",
+      "6918367734514448276",
+      "6918062004894536515",
+      "6918388027863291487",
+      "6917924063124280394",
+      "6917925911674688720",
+      "6917925910415078608",
+      "6917926273967498448",
+      "6917917122741379654",
+      "6917917377535632069",
+      "6918051917967951312",
+      "6917925912971011158",
+      "6917925769291658448",
+      "6917924600118920278",
+      "6918367734497531796",
+      "6918006867265164992",
+      "6918373258867205213",
+      "6918418688842826052",
+      "6917919571551318797",
+      "6917926200624170009",
+      "6918250439515779415",
+      "6917926734917547216",
+      "6918478248522064735",
+      "6917918949773701919",
+      "6918396556326167711",
+      "6918485345530630282",
+      "6918325766012195980",
+      "6917919825558697090",
+      "6918392520772911764",
+      "6917919565357826637",
+      "6918171883247792594",
+      "6918008421143844759",
+      "6918189524416902150",
+      "6917924674272785616",
+      "6918373519668753501",
+      "6917935780223094941",
+      "6918317074394760406",
+      "6917923003441620042",
+      "6917921606261129864",
+      "6917925767052993731",
+      "6917925494027682900",
+      "6917926019521938054",
+      "6918066186693362816",
+      "6918418180721824068",
+      "6917920602217657423",
+      "6918118622667240070",
+      "6918415845502760902",
+      "6918213808162587782",
+      "6918323953089090589",
+      "6917924641146442906",
+      "6917926299795797200",
+      "6918383613378326597",
+      "6918485345866367114",
+      "6917923776734659658",
+      "6918228289616819353",
+      "6918392521948598932",
+      "6917916906641134478",
+      "6918463411926155351",
+      "6917926734027936976",
+      "6918393548390596703",
+      "6918175817615193155",
+      "6918030174302573391",
+      "6918406912588583700",
+      "6917923249632804994",
+      "6918311181892978451",
+      "6918377718202553999",
+      "6918392521796809364",
+      "6918406968484979855",
+      "6917986212682937679",
+      "6918427143948772167",
+      "6918405510239741330",
+      "6918219601495131273",
+      "6918041838420516932",
+      "6918388195562840842",
+      "6918438489084395871",
+      "6918054847070511311",
+      "6918092488171431366",
+      "6917937049010951234",
+      "6918392521796797076",
+      "6917917129569342238",
+      "6918154636405733257",
+      "6917917533310792794"
+    ],
+    "goodsRecommendList": [],
+    "items": [{
+        "brandStoreId": "10014501",
+        "brandStoreName": "YZC",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710614605",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710614605",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10014501&brand_id=1710614605",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918444518421743693",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918444518421743693",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/09/19/172/32f2e1fb-075e-4113-a078-f76517795e0a_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/5f37f494153e45588dcf22c7569a87f6/10014501/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/09/19/33/60bf08a5-6edb-447e-a970-cc5577a423df.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "女款学院风休闲减龄撞色波点印花娃娃领灯笼袖假两件连衣裙",
+        "goodsPriceTag": {
+          "discount": "1.0折",
+          "fallingTagDiscount": "",
+          "marketPrice": "699",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "86",
+          "salePrice": "69",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/124/150598471282.png",
+            "msg": "17733054095",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "还可以，款式好看，面料也不错，合身",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "97",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710614605",
+        "spuId": "1523700841262612498",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10031465",
+        "brandStoreName": "MSAY",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613372",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613372",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10031465&brand_id=1710613372",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918488005052235996",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918488005052235996",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00605790/10031465/896805753-528968285226000395-528968285226000447-50_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b3d2018c218249bbaed603db8df7a8d8/10031465/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00605790/10031465/385074392-528968285226000395-528968285226000447-1.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "甜美系淑女风花瓣图案减龄针织裙木耳边可爱设计连衣裙女",
+        "goodsPriceTag": {
+          "discount": "1.2折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1188",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "",
+          "priceSuffix": "",
+          "referPrice": "",
+          "salePrice": "139",
+          "tag": "ordinaryPrice"
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/82/150598479779.png",
+            "msg": "zqchenj@qq.com",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "毛衣穿起很舒服，款式简单大方。",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "91",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710613372",
+        "spuId": "528968285226000395",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10007290",
+        "brandStoreName": "伊芙丽",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710615494",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710615494",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10007290&brand_id=1710615494",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918357645062308166",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918357645062308166",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/07/26/98/3ad6cc22-510f-42f7-9a3b-851496a3e6d1_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/01a5640ca8ec4e17b22b945dc90768a8/10007290/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/07/26/191/8023f69f-1fd5-41d4-8e4f-fe3236e5747f.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "连帽长袖宽松休闲连衣裙",
+        "goodsPriceTag": {
+          "discount": "1.0折",
+          "fallingTagDiscount": "",
+          "marketPrice": "798",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "折后价",
+          "priceSuffix": "",
+          "referPrice": "215",
+          "salePrice": "79",
+          "tag": "exclusivePrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/128/150598475525.png",
+            "msg": "13813990902",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "很满意的一次购物，超级喜欢唯品会的产品",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "83",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710615494",
+        "spuId": "531501528630997000",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10011806",
+        "brandStoreName": "迹憶",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710659939",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710659939",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10011806&brand_id=1710659939",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918062008407422019",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918062008407422019",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/11/23/95/5c3cb99c-6ee6-4b02-a39d-7cde439aab7f_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/eb223c75280d47c7840e86e66b9429c5/10011806/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/11/23/22/ccfccbfe-5e3c-4298-96fd-2c7d5e81bd7b.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "秋款淑女风韩版时尚中长款长袖圆领纯色显瘦针织连衣裙",
+        "goodsPriceTag": {
+          "discount": "1.1折",
+          "fallingTagDiscount": "",
+          "marketPrice": "859",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "",
+          "priceSuffix": "",
+          "referPrice": "",
+          "salePrice": "91",
+          "tag": "ordinaryPrice"
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/82/150598479779.png",
+            "msg": "22217789@qq.com",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "给我妈买的，她挺瘦穿上合适，颜色没有图片亮反而挺好的，就是稍有点显肚子，但是挺时尚的，特别是袖子和裙摆很有味道，要是瘦的小姑娘穿那就更美美哒了。我妈挺喜欢的，用个围巾披着遮肚子效果挺好哒。",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "46",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710659939",
+        "spuId": "1095014360840192012",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10005711",
+        "brandStoreName": "ZIMMUR",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10005711&brand_id=1710613328",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918131675394520336",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918131675394520336",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/02/27/152/14caed6a-80eb-4268-a210-16f74b854f61_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/d06b9f7c1a78427fb370a781048b5094/10005711/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/02/27/100/95c17d51-982c-4e66-98ee-177a5a6962f9.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "性感优雅蕾丝透视拼接荷叶摆优雅包臀鱼尾连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.8折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1290",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "210",
+          "salePrice": "99",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/156/150598466775.png",
+            "msg": "18748448844",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "挺不错的，很合身，质量也行，还没有尝试过这种颜色",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "98",
+          "showStock": 7,
+          "type": 0
+        },
+        "salesId": "1710613328",
+        "spuId": "589203836223258672",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10000957",
+        "brandStoreName": "恩裳",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613943",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613943",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10000957&brand_id=1710613943",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918276577756389719",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918276577756389719",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00612292/10000957/1374016406-897700454534111232-897700454534111234-50_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/db12f67e61bb4ac5b9959a5c44958fee/10000957/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00612292/10000957/707105719-897700454534111232-897700454534111234-1.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "影儿恩裳2019夏季新款短袖收腰撞色条纹修身中长款v领连衣裙",
+        "goodsPriceTag": {
+          "discount": "1.0折",
+          "fallingTagDiscount": "",
+          "marketPrice": "2190",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "折后价",
+          "priceSuffix": "",
+          "referPrice": "438",
+          "salePrice": "217",
+          "tag": "exclusivePrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/156/150598466775.png",
+            "msg": "15252247865",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "衣服很喜欢，这质量这价格性价比超高，刚穿着试了试，美美的",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "99",
+          "showStock": 9,
+          "type": 0
+        },
+        "salesId": "1710613943",
+        "spuId": "897700454534111232",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10003348",
+        "brandStoreName": "皑如",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710986628",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710986628",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10003348&brand_id=1710986628",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918408559658284548",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918408559658284548",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/08/30/116/c4cf9dc8-c990-4153-b279-1fd4b7b17e5f_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/71/1567393747484.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/110b3db9eca148d0b7e32fa5cd3b8b4c/10003348/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/08/30/174/b4fe534c-ae5f-4b9d-8b17-b9767c7afb28.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "皑如【秋新款】文艺雪纺连衣裙长袖直筒过膝网纱长裙",
+        "goodsPriceTag": {
+          "discount": "0.5折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1299",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "199",
+          "salePrice": "67",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/124/150598471282.png",
+            "msg": "13266649651",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "衣服已经收到了，非常的合身，非常喜欢面料和描述的一模一样，没有半点色差，高端大气上档次，不管是出去或者郊游都可以穿一个很不错的平台，值得信赖。",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "98",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710986628",
+        "spuId": "1248699784422535248",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10005711",
+        "brandStoreName": "ZIMMUR",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10005711&brand_id=1710613328",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917925523350086864",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917925523350086864",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/106864/2019/1118/66/b6493469-8c36-495b-96fc-d43494545457_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/d06b9f7c1a78427fb370a781048b5094/10005711/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/09/04/16/a5134d2f-f8ad-46b2-9da1-6ada94d9fded.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "19冬季新款黑色魔镜绣花修身包臀鱼尾明线优雅气质连衣裙女",
+        "goodsPriceTag": {
+          "discount": "0.6折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1690",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "367",
+          "salePrice": "99",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {},
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 1,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "99",
+          "showStock": 1,
+          "type": 0
+        },
+        "salesId": "1710613328",
+        "spuId": "444807115859140681",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10000812",
+        "brandStoreName": "衣香丽影",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710615863",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710615863",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10000812&brand_id=1710615863",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918473540603144087",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918473540603144087",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/11/05/192/1b02a9dc-217e-402f-b8a9-c02fed674fb6_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/384e592693fe4cf8960a30b1a601c7f0/10000812/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/11/05/115/05b86eab-59d1-4f5e-9f76-4e983b9c3606.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【2019冬装新品】衣香丽影字母连帽套头连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.7折",
+          "fallingTagDiscount": "",
+          "marketPrice": "2699",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "折后价",
+          "priceSuffix": "",
+          "referPrice": "759",
+          "salePrice": "179",
+          "tag": "exclusivePrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/128/150598475525.png",
+            "msg": "13735715958",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "料子不错，而且不显胖，今冬流行浅色系的，果断留下，唯品会，停不下来的节奏",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "47",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710615863",
+        "spuId": "1233500150590595084",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10029224",
+        "brandStoreName": "super.natural",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710751220",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710751220",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10029224&brand_id=1710751220",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918374936068182100",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918374936068182100",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/08/08/5/bd55d22f-80ac-4c8b-9190-c75affd1d1c6_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/a5e7ac61dc264e9fbd98e5524cacbdf4/10029224/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "multiColor": {
+            "group": "rightLower",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/21/92bccb6b20574816096e8aafd910c37c-itemlist_color_icon@2x.png",
+            "sort": 1,
+            "tag": "multiColor"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/09/24/44/2ee5aa32-dc16-42ab-b5c3-ad41af8ad171.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【光泽丝绒印花】浪漫花朵气质及膝收腰显瘦女士连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.8折",
+          "fallingTagDiscount": "",
+          "marketPrice": "778",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "149",
+          "salePrice": "59",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/124/150598471282.png",
+            "msg": "13905161080",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "系统推荐的是M号，看尺寸买的是S号，正好合身，一点都不能胖了。不过价格便宜。夏天买过一件短袖是L号，太大又没尺码可换因为喜欢那个颜色所以就留下了，所以这次买的S号。",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "83",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710751220",
+        "spuId": "517427782620647470",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10012320",
+        "brandStoreName": "丝柏舍",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613695",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613695",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10012320&brand_id=1710613695",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918508439425017375",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918508439425017375",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/110057/2019/1110/194/ec8d5e62-a94f-4608-abf5-e2aeeb2a557b_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/69bb5648d5634d6ba0ea5c84910c2143/10012320/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/11/09/117/5569b909-aa56-4b8e-8d10-bd4c8b0aeb80.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【2019冬装新款】女士时尚圆领长袖宽松遮肉套头中长款连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.7折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1198",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "198",
+          "salePrice": "79",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/156/150598466775.png",
+            "msg": "13560799001",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "搞活动买的，之间还好，面料舒服，厚度一般。",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "95",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710613695",
+        "spuId": "226382693423562799",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10010265",
+        "brandStoreName": "衣品天成",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710614314",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710614314",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10010265&brand_id=1710614314",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917925798432040010",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917925798432040010",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/08/24/175/4c3c8844-e505-447b-90f3-933a1e208f0f_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/ca9de187a2c14e1c8eebfa39c2fc61b6/10010265/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/08/24/157/a35272b3-3da1-46f2-931f-277a4bcfa626.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "连衣裙女中长款2019秋冬新款时尚V领碎花雪纺裙女士连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.7折",
+          "fallingTagDiscount": "",
+          "marketPrice": "949",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "209",
+          "salePrice": "68",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/50/150598461051.png",
+            "msg": "15816120292",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "还蛮不错的，价格还便宜，很漂亮",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "65",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710614314",
+        "spuId": "444244166859653126",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10012320",
+        "brandStoreName": "丝柏舍",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613695",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613695",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10012320&brand_id=1710613695",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918151804740896415",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918151804740896415",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/05/05/184/eae65e15-48e5-412a-b690-545a7ac3e7f9_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/69bb5648d5634d6ba0ea5c84910c2143/10012320/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/05/05/80/06a41639-d114-4678-adf0-275e7017db4e.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【春装新款】女士时尚简约拼色圆领七分袖修身套头连衣裙",
+        "goodsPriceTag": {
+          "discount": "1.7折",
+          "fallingTagDiscount": "",
+          "marketPrice": "798",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "169",
+          "salePrice": "135",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/82/150598479779.png",
+            "msg": "18946819967",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "唯品会常买东西，家里用的，宝宝用的，都是在唯品会买的，已成为唯品会会员，这次购物还算满意，尺码合适，面料挺舒服的，但是色差大，如果没有色差将是完美的一次购物。",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "99",
+          "showStock": 4,
+          "type": 0
+        },
+        "salesId": "1710613695",
+        "spuId": "179094787967590415",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10005417",
+        "brandStoreName": "敦奴",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710618883",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710618883",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10005417&brand_id=1710618883",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917927047109551299",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917927047109551299",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/07/23/37/c47c6581-d5e1-4e52-8060-d2dc0ae6f20d_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/274f15437a8e48d7a4ca5c262686fd3d/10005417/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/07/23/51/eaf2cafb-0329-4278-a79b-6470840d7544.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "敦奴时尚简约气质连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.6折",
+          "fallingTagDiscount": "",
+          "marketPrice": "2180",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "折后价",
+          "priceSuffix": "",
+          "referPrice": "218",
+          "salePrice": "134",
+          "tag": "exclusivePrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/156/150598466775.png",
+            "msg": "13639930896",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "衣服质量非常好，式样是我喜欢的，实物和图片一样，尺码很标准，上身效果非常好，就是包装袋有些简陋",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "87",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710618883",
+        "spuId": "80015552289918987",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10007678",
+        "brandStoreName": "俞兆林",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710614184",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710614184",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10007678&brand_id=1710614184",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918311183002730568",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918311183002730568",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/604017/2019/0917/100/e0d4a476-f56b-458c-b4be-9de7591d2d8c_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/3b697c8ce3224a20a69b3db3815117d8/10007678/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "multiColor": {
+            "group": "rightLower",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/21/92bccb6b20574816096e8aafd910c37c-itemlist_color_icon@2x.png",
+            "sort": 1,
+            "tag": "multiColor"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/604017/2019/0917/49/36401621-a8ae-4b1f-824b-bb1edacb7d5d.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "经典百搭修身黑色打底内搭裙子 针织连衣裙吊带连衣裙子",
+        "goodsPriceTag": {
+          "discount": "0.8折",
+          "fallingTagDiscount": "",
+          "marketPrice": "578",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "59",
+          "salePrice": "45",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/50/150598461051.png",
+            "msg": "13078526298",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "感觉还是可以的，质量还可以，下次还会购买。",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "13",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710614184",
+        "spuId": "249182115325837357",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10007290",
+        "brandStoreName": "伊芙丽",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710615494",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710615494",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10007290&brand_id=1710615494",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918324098206286918",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918324098206286918",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/07/03/98/439949f3-2d49-44b0-b26d-891a06e874ea_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/01a5640ca8ec4e17b22b945dc90768a8/10007290/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/07/03/142/dc9774b7-45ee-4f1b-a7ac-13e78aee7fae.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "高领针织连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.9折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1080",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "折后价",
+          "priceSuffix": "",
+          "referPrice": "199",
+          "salePrice": "99",
+          "tag": "exclusivePrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/124/150598471282.png",
+            "msg": "1628352577",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "很喜欢，办了会员卡，就一直买的停不下来了，唯品会的东西质量好，价格亲民，会一直支持下去",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "99",
+          "showStock": 8,
+          "type": 0
+        },
+        "salesId": "1710615494",
+        "spuId": "380349434254979160",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10005711",
+        "brandStoreName": "ZIMMUR",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10005711&brand_id=1710613328",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917925119117522128",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917925119117522128",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/08/04/3/b8c75032-ecd7-44dd-89a7-58322ab5ef71_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/d06b9f7c1a78427fb370a781048b5094/10005711/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/08/04/62/97a53ab5-59ec-4c80-9cc9-1ccf39879a76.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "简约通勤大方格绑带前排扣衬衫式连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.7折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1490",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "269",
+          "salePrice": "97",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/156/150598466775.png",
+            "msg": "13601103603",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "合身舒适，质量好，时尚美观，穿着舒服时尚",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "88",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710613328",
+        "spuId": "219345649880690707",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10015063",
+        "brandStoreName": "evona",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710616726",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710616726",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10015063&brand_id=1710616726",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917924970734629974",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917924970734629974",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/113386/2018/1113/89/e514dcc8-7036-41e3-95fd-4d7db5b7c8d3_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "image3": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2017/11/08/148/42aec540-4935-4faa-b026-10db11b23ac9.jpg",
+            "sort": 1,
+            "tag": "image3"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/49a9a4f8aab944b1ac66823b89911396/10015063/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "multiColor": {
+            "group": "rightLower",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/21/92bccb6b20574816096e8aafd910c37c-itemlist_color_icon@2x.png",
+            "sort": 1,
+            "tag": "multiColor"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/113386/2018/1113/55/03f44114-a800-453b-8f65-9030ba868684.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "伊沃纳新款性感V领优雅收腰显瘦长袖连衣裙女",
+        "goodsPriceTag": {
+          "discount": "0.4折",
+          "fallingTagDiscount": "",
+          "marketPrice": "2260",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "折后价",
+          "priceSuffix": "",
+          "referPrice": "295",
+          "salePrice": "101",
+          "tag": "exclusivePrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/128/150598475525.png",
+            "msg": "13694302560",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "裙子宽松版，可以买小一号，系个腰带好看，穿上效果挺好看",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "96",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710616726",
+        "spuId": "18935355012325378",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10029224",
+        "brandStoreName": "super.natural",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710751220",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710751220",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10029224&brand_id=1710751220",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918367734514448276",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918367734514448276",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/10/31/37/4c412fb7-f008-428f-978b-e18ff868d749_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/a5e7ac61dc264e9fbd98e5524cacbdf4/10029224/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/614795/2019/1031/7/da273838-3f18-408f-8369-ec00de46dad7.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【初剪绵羊毛 经典格纹毛呢】过膝百褶裙女式a字半身裙",
+        "goodsPriceTag": {
+          "discount": "1.0折",
+          "fallingTagDiscount": "",
+          "marketPrice": "998",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "209",
+          "salePrice": "97",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/50/150598461051.png",
+            "msg": "15522945016",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "这件裙子性价比很高，平时我都是买两个穿的衣服，可是拿来之后太肥了，换个一件，唯品会上换货太方便了。在家等着，把合适的尺码给你送来，把不合适的拿走，唯品会点赞。",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "58",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710751220",
+        "spuId": "1153561228916580354",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10011806",
+        "brandStoreName": "迹憶",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710659939",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710659939",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10011806&brand_id=1710659939",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918062004894536515",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918062004894536515",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/09/24/34/7afce347-1a83-4b4c-a86e-39c97480b3c4_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/eb223c75280d47c7840e86e66b9429c5/10011806/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/09/24/58/46f6b598-38b1-4ee1-8b8d-39b0be7eb425.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "时尚日韩简约中长款长袖休闲半高领设计女款气质连衣裙",
+        "goodsPriceTag": {
+          "discount": "1.1折",
+          "fallingTagDiscount": "",
+          "marketPrice": "899",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "",
+          "priceSuffix": "",
+          "referPrice": "",
+          "salePrice": "97",
+          "tag": "ordinaryPrice"
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/82/150598479779.png",
+            "msg": "15804212349",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "衣服质量非常好，款式新颖，时尚美观，穿上减龄显瘦，面料柔软舒适，就是本人胳膊比较粗，穿着稍微有点瘦，一抬胳膊衣服容易往上串，需要经常整理，太喜欢这个衣服了，瘦点也留下了，以后还会关注这家店铺的，好评！",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "87",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710659939",
+        "spuId": "234826833411321875",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10012320",
+        "brandStoreName": "丝柏舍",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613695",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613695",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10012320&brand_id=1710613695",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918388027863291487",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918388027863291487",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/110057/2019/0821/46/448ee4e9-d7f0-47a2-970b-c7d64e825190_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/69bb5648d5634d6ba0ea5c84910c2143/10012320/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/08/16/192/31a8897d-f933-4ee8-8de4-51454cf1274a.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【2019秋装新款】女时尚纯色简约半高领修身中长款针织连衣裙",
+        "goodsPriceTag": {
+          "discount": "1.0折",
+          "fallingTagDiscount": "",
+          "marketPrice": "998",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "129",
+          "salePrice": "99",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/50/150598461051.png",
+            "msg": "15938811649",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "毛衣挺好看的，柔软度不够，性价比高，还不错",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "98",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710613695",
+        "spuId": "468451138088914944",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10010265",
+        "brandStoreName": "衣品天成",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710614314",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710614314",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10010265&brand_id=1710614314",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917924063124280394",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917924063124280394",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00107361/10010265/1572718176-82548814415994886-82548814415994906-50_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/ca9de187a2c14e1c8eebfa39c2fc61b6/10010265/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00107361/10010265/1220657608-82548814415994886-82548814415994906-1.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "女装牛仔裙子连衣裙2019新款字母印花气质荷叶边连衣裙",
+        "goodsPriceTag": {
+          "discount": "1.0折",
+          "fallingTagDiscount": "",
+          "marketPrice": "749",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "172",
+          "salePrice": "72",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/128/150598475525.png",
+            "msg": "13816742548",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "牛仔裙比较宽松，穿上去，遮肉肉，料子也很好，价格非常实惠。",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "88",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710614314",
+        "spuId": "82548814415994886",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10005711",
+        "brandStoreName": "ZIMMUR",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10005711&brand_id=1710613328",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917925911674688720",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917925911674688720",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/08/04/133/5e6228cf-b8d3-4077-88a9-04cadbc8f9c2_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/d06b9f7c1a78427fb370a781048b5094/10005711/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/08/04/143/592a43d4-f293-4e30-beb3-994121ffc080.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "休闲百搭简约通勤长袖纯色连帽抽绳装饰包臀开叉舒适卫衣连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.6折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1490",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "249",
+          "salePrice": "89",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/128/150598475525.png",
+            "msg": "15188751201",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "挺好的，衣服很合适！唯品会值得信赖！",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "97",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710613328",
+        "spuId": "226382524298457104",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10005711",
+        "brandStoreName": "ZIMMUR",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10005711&brand_id=1710613328",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917925910415078608",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917925910415078608",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/08/29/20/eb038bda-ee89-433c-9280-d75326c108b4_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/d06b9f7c1a78427fb370a781048b5094/10005711/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/08/29/163/5ac01efa-bd98-4ebf-8f48-5c3d4dce7309.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "印花喇叭袖V领修身丝绒弹力长袖气质显瘦连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.6折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1790",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "287",
+          "salePrice": "111",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {},
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "95",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710613328",
+        "spuId": "298158643024429150",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10005711",
+        "brandStoreName": "ZIMMUR",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10005711&brand_id=1710613328",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917926273967498448",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917926273967498448",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/106864/2019/0325/44/62b124ad-de90-488a-abbf-3b9545bac9fc_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/d06b9f7c1a78427fb370a781048b5094/10005711/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/106864/2019/0325/140/aab38517-ecee-46f4-9657-d476b7ccbf5c.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "通勤时尚大方印花织带拼接休闲舒适气质显瘦直筒连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.7折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1290",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "229",
+          "salePrice": "85",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {},
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "98",
+          "showStock": 7,
+          "type": 0
+        },
+        "salesId": "1710613328",
+        "spuId": "321802541068132356",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10007612",
+        "brandStoreName": "妖精的口袋",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710614150",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710614150",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10007612&brand_id=1710614150",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917917122741379654",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917917122741379654",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/106600/2018/1012/57/8f8214f7-c2dc-4dab-a2b6-812b7d29b6c5_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/5d433892da0648eeb38cc94381f67156/10007612/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "multiColor": {
+            "group": "rightLower",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/21/92bccb6b20574816096e8aafd910c37c-itemlist_color_icon@2x.png",
+            "sort": 1,
+            "tag": "multiColor"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/09/04/170/da0717b3-ab37-4635-ae47-80bcf0ba165b.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "秋冬长袖连衣裙格子宽松直筒V领针织休闲包臀a字裙",
+        "goodsPriceTag": {
+          "discount": "0.7折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1299",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "99",
+          "salePrice": "89",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/82/150598479779.png",
+            "msg": "15985362205",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "感觉尺码偏大了些，我165身高，100斤买s码穿都还大 不过也很好看的就是宽松型的那种，料子很舒服柔软不起毛不起球，还不退色，故意穿了一段时间才来评价的，活动价也不贵，真的物有所值，喜欢这个风格的亲们可以试试欧，可以单穿也可以外边穿一件大衣这个冬天刚好😊",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 1,
+          "min": 1,
+          "ptype": 1,
+          "saledPercent": "100",
+          "showStock": 0,
+          "type": 2
+        },
+        "salesId": "1710614150",
+        "spuId": "29912998359293973",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10024895",
+        "brandStoreName": "LISA.LISA",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710614373",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710614373",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10024895&brand_id=1710614373",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917917377535632069",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917917377535632069",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/11/19/111/68a44c40-dca6-46fa-af08-2817686f72be_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "image3": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2017/10/09/198/984fd576-74ca-4a23-9a13-169322c3cb83.jpg",
+            "sort": 1,
+            "tag": "image3"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/57e8d27d0b8f401c8b1ce4bb1e6f137c/10024895/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "multiColor": {
+            "group": "rightLower",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/21/92bccb6b20574816096e8aafd910c37c-itemlist_color_icon@2x.png",
+            "sort": 1,
+            "tag": "multiColor"
+          },
+          "image7": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2017/10/09/133/79dc8795-3bba-43f2-8132-c93fe9afc6a6.jpg",
+            "sort": 1,
+            "tag": "image7"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/11/19/186/d1915706-a32e-481f-b166-67d996cad662.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          }
+        },
+        "goodsName": "【2018秋冬新款】简约气质高领系带腰针织口袋秋冬连衣裙",
+        "goodsPriceTag": {
+          "discount": "1折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1399",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "",
+          "priceSuffix": "",
+          "referPrice": "",
+          "salePrice": "139",
+          "tag": "ordinaryPrice"
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/82/150598479779.png",
+            "msg": "17756656181",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "因为质量非常好所以留下了，本人臀围宽有点绷，但弹力大，内搭还行，面料没话说很喜欢价格也不贵就留下了。一直在唯品会买太多了，实在忍不住花了不少钱。相信唯品会的质量，缺点就是物流太慢太慢了，希望改进",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "81",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710614373",
+        "spuId": "311387867638427648",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10004900",
+        "brandStoreName": "花花公子",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710615216",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710615216",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10004900&brand_id=1710615216",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918051917967951312",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918051917967951312",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/12/31/161/08b1ca19-fa61-4de7-a97c-ef3ee111a7dc_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/e0bb9c5d13884214b9e6d59c2282437c/10004900/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/12/31/129/9cc45980-263a-4003-b7e0-0653ab05d55c.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "秋冬新品女款时尚夹色条纹宽松大下摆气质圆领羊毛衫秋冬连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.7折",
+          "fallingTagDiscount": "",
+          "marketPrice": "2690",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "折后价",
+          "priceSuffix": "",
+          "referPrice": "249",
+          "salePrice": "199",
+          "tag": "exclusivePrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/124/150598471282.png",
+            "msg": "1727735976@qq.com",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "推介大了，换小一码正合适。非常喜欢。",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "91",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710615216",
+        "spuId": "1028586265193447429",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10015063",
+        "brandStoreName": "evona",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710616726",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710616726",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10015063&brand_id=1710616726",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917925912971011158",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917925912971011158",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/03/22/137/fc31145a-9f0f-497c-b912-983d536fe9e6_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/49a9a4f8aab944b1ac66823b89911396/10015063/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/03/22/41/9e24bd78-9c20-4c0c-8443-02fdb603d66c.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "伊沃纳新款\n小香风镂空蕾丝高\n腰连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.6折",
+          "fallingTagDiscount": "",
+          "marketPrice": "2260",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "折后价",
+          "priceSuffix": "",
+          "referPrice": "299",
+          "salePrice": "145",
+          "tag": "exclusivePrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {},
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "81",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710616726",
+        "spuId": "237078578784739328",
+        "status": "1"
+      },
+      {
+        "brandStoreId": "10005711",
+        "brandStoreName": "ZIMMUR",
+        "categoryId": "334",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710613328",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10005711&brand_id=1710613328",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6917925769291658448",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6917925769291658448",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/106864/2018/0929/9/e9d7d5c3-2058-4a35-9cc7-27574a39ca2b_5t.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/d06b9f7c1a78427fb370a781048b5094/10005711/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/08/23/103/74af834e-525f-441e-98c6-ca87ecea0712.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "黑色印花A摆优雅气质百搭修身显瘦连衣裙",
+        "goodsPriceTag": {
+          "discount": "0.7折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1590",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "疯抢价",
+          "priceSuffix": "",
+          "referPrice": "209",
+          "salePrice": "107",
+          "tag": "finallyPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "commentator": {
+            "group": "comment",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mcp/2017/09/21/82/150598479779.png",
+            "msg": "dldxx@126.com",
+            "sort": 20,
+            "tag": "commentator"
+          },
+          "comment": {
+            "group": "comment",
+            "image": "",
+            "msg": "尺码偏小，因为没有中号选的大号尺寸，但是肩袖那里也就刚合适，质量还行",
+            "sort": 10,
+            "tag": "comment"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 2,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "98",
+          "showStock": 7,
+          "type": 0
+        },
+        "salesId": "1710613328",
+        "spuId": "463384464322043954",
+        "status": "1"
+      }
+    ]
+  },
+  "msg": "success"
+}

@@ -1,0 +1,3305 @@
+{
+  "code": 1,
+  "msg": "success",
+  "data": {
+    "data": {
+      "load_more_method": "post",
+      "load_more_token": "eyJjaGFubmVsX2lkIjoiNDkiLCJ0c2lmdCI6IjEiLCJicmFuZF9vZmZzZXQiOiIzMCIsImJyYW5kX3JlZmVyX2luZGV4IjoiOSIsInRvcGljX2dyb3VwIjoiMCJ9",
+      "floor_list": [{
+        "floor_type": "brand",
+        "unique_id": "100488547_2",
+        "data": {
+          "brand": {
+            "brand_id": "100488547",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/26/129/ias_157734657818532_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/26/158/ias_157734658295962_1135x545_85.jpg",
+            "title": "爱步ECCO男女鞋专场-品牌矩献",
+            "pms_text": "部分商品折上3.1折起",
+            "discount": "2.9折起",
+            "remain_days": "剩3时",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/de389374097641a7ae8d26b32b2b79ba/10000246/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100488547",
+              "target_type": "1",
+              "target_id": "100488547",
+              "brand_form": "2",
+              "brandpic": "168869645"
+            },
+            "st_ctx_expose": "0_100488547_-99_-99_-99_-99_168869645_-99",
+            "href": "viprouter://productlist/brand?brand_id=100488547&brand_name=%E7%88%B1%E6%AD%A5ECCO%E7%94%B7%E5%A5%B3%E9%9E%8B%E4%B8%93%E5%9C%BA-%E5%93%81%E7%89%8C%E7%9F%A9%E7%8C%AE",
+            "wormhole": {
+              "brand_id": "100488547",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100482090_2",
+        "data": {
+          "brand": {
+            "brand_id": "100482090",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/19/171/ias_157672036276943_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/31/96/ias_157775580655477_1135x545_85.jpg",
+            "title": "玖姿JUZUI女装专场",
+            "pms_text": "部分商品折上3.4折起",
+            "discount": "4.9折封顶",
+            "remain_days": "剩1天",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100482090",
+              "target_type": "1",
+              "target_id": "100482090",
+              "brand_form": "2",
+              "brandpic": "169609363"
+            },
+            "st_ctx_expose": "0_100482090_-99_-99_-99_-99_169609363_-99",
+            "href": "viprouter://productlist/brand?brand_id=100482090&brand_name=%E7%8E%96%E5%A7%BFJUZUI%E5%A5%B3%E8%A3%85%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100482090",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100528235_2",
+        "data": {
+          "brand": {
+            "brand_id": "100528235",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/30/115/ias_157771383025852_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/25/91/ias_157723927927210_1135x545_85.jpg",
+            "title": "伊芙丽集团女装专场",
+            "pms_text": "部分商品折上1.8折起",
+            "discount": "0.4折起",
+            "remain_days": "剩1天",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100528235",
+              "target_type": "1",
+              "target_id": "100528235",
+              "brand_form": "2",
+              "brandpic": "168611219"
+            },
+            "st_ctx_expose": "0_100528235_-99_-99_-99_-99_168611219_-99",
+            "href": "viprouter://productlist/brand?brand_id=100528235&brand_name=%E4%BC%8A%E8%8A%99%E4%B8%BD%E9%9B%86%E5%9B%A2%E5%A5%B3%E8%A3%85%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100528235",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100511260_2",
+        "data": {
+          "brand": {
+            "brand_id": "100511260",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/12/86/ias_157613431190560_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/84/ias_157741645687941_1135x545_85.jpg",
+            "title": "斯凯奇SKECHERS品牌专场",
+            "pms_text": "部分商品折上3.4折起",
+            "discount": "2.3折起",
+            "remain_days": "剩3时",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/3eb8840e18b9476c9117f345daffa16c/10000721/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100511260",
+              "target_type": "1",
+              "target_id": "100511260",
+              "brand_form": "2",
+              "brandpic": "169032239"
+            },
+            "st_ctx_expose": "0_100511260_-99_-99_-99_-99_169032239_-99",
+            "href": "viprouter://productlist/brand?brand_id=100511260&brand_name=%E6%96%AF%E5%87%AF%E5%A5%87SKECHERS%E5%93%81%E7%89%8C%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100511260",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100511798_2",
+        "data": {
+          "brand": {
+            "brand_id": "100511798",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/26/31/ias_157734775871537_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/26/16/ias_157734865531118_1135x545_85.jpg",
+            "title": "菲妮迪FINITY女装专场",
+            "pms_text": "全场折上2.7折起",
+            "discount": "4.8折封顶",
+            "remain_days": "剩2天",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100511798",
+              "target_type": "1",
+              "target_id": "100511798",
+              "brand_form": "2",
+              "brandpic": "168878929"
+            },
+            "st_ctx_expose": "0_100511798_-99_-99_-99_-99_168878929_-99",
+            "href": "viprouter://productlist/brand?brand_id=100511798&brand_name=%E8%8F%B2%E5%A6%AE%E8%BF%AAFINITY%E5%A5%B3%E8%A3%85%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100511798",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100530517_2",
+        "data": {
+          "brand": {
+            "brand_id": "100530517",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/30/100/ias_157771780733921_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/30/12/ias_157771780668884_1135x545_85.jpg",
+            "title": "国际美妆大牌专场",
+            "discount": "3.6折起",
+            "remain_days": "剩17时",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100530517",
+              "target_type": "1",
+              "target_id": "100530517",
+              "brand_form": "2",
+              "brandpic": "169499944"
+            },
+            "st_ctx_expose": "0_100530517_-99_-99_-99_-99_169499944_-99",
+            "href": "viprouter://productlist/brand?brand_id=100530517&brand_name=%E5%9B%BD%E9%99%85%E7%BE%8E%E5%A6%86%E5%A4%A7%E7%89%8C%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100530517",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100530430_2",
+        "data": {
+          "brand": {
+            "brand_id": "100530430",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/31/74/ias_157775810228843_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/30/90/ias_157770577225512_1135x545_85.jpg",
+            "title": "国际轻奢大牌美饰 喜迎新年特卖专场",
+            "pms_text": "部分商品折上3.3折起",
+            "discount": "0.7折起",
+            "remain_days": "剩17时",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100530430",
+              "target_type": "1",
+              "target_id": "100530430",
+              "brand_form": "2",
+              "brandpic": "169482331"
+            },
+            "st_ctx_expose": "0_100530430_-99_-99_-99_-99_169482331_-99",
+            "href": "viprouter://productlist/brand?brand_id=100530430&brand_name=%E5%9B%BD%E9%99%85%E8%BD%BB%E5%A5%A2%E5%A4%A7%E7%89%8C%E7%BE%8E%E9%A5%B0+%E5%96%9C%E8%BF%8E%E6%96%B0%E5%B9%B4%E7%89%B9%E5%8D%96%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100530430",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100451568_2",
+        "data": {
+          "brand": {
+            "brand_id": "100451568",
+            "corner_mark": [],
+            "image": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2018/08/03/184/1533282800983_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/26/183/ias_157733058360662_1135x545_85.jpg",
+            "title": "米皇羊绒精选好货-限时抢购专场",
+            "pms_text": "部分商品折上2.8折起",
+            "discount": "0.8折起",
+            "remain_days": "剩17时",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/44ea885a4a654f658b4d71efb65885ec/10016557/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100451568",
+              "target_type": "1",
+              "target_id": "100451568",
+              "brand_form": "2",
+              "brandpic": ""
+            },
+            "st_ctx_expose": "0_100451568_-99_-99_-99_-99__-99",
+            "href": "viprouter://productlist/brand?brand_id=100451568&brand_name=%E7%B1%B3%E7%9A%87%E7%BE%8A%E7%BB%92%E7%B2%BE%E9%80%89%E5%A5%BD%E8%B4%A7-%E9%99%90%E6%97%B6%E6%8A%A2%E8%B4%AD%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100451568",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100524016_2",
+        "data": {
+          "brand": {
+            "brand_id": "100524016",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/20/24/ias_157681350464781_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/20/112/ias_157682649792357_1135x545_85.jpg",
+            "title": "L'ALPINA阿尔皮纳袋鼠男装专场",
+            "pms_text": "羽绒服低至199元",
+            "discount": "4.2折封顶",
+            "remain_days": "剩2天",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7f4c41c72982408fbe6e339f751dbc56/10021938/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100524016",
+              "target_type": "1",
+              "target_id": "100524016",
+              "brand_form": "2",
+              "brandpic": "167833885"
+            },
+            "st_ctx_expose": "0_100524016_-99_-99_-99_-99_167833885_-99",
+            "href": "viprouter://productlist/brand?brand_id=100524016&brand_name=L%27ALPINA%E9%98%BF%E5%B0%94%E7%9A%AE%E7%BA%B3%E8%A2%8B%E9%BC%A0%E7%94%B7%E8%A3%85%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100524016",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100527730_2",
+        "data": {
+          "brand": {
+            "brand_id": "100527730",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/17/ias_157741184586902_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/100/ias_157744381467530_1135x545_85.jpg",
+            "title": "纳维凯尔Navigare男装专场",
+            "pms_text": "部分商品折上2.8折起",
+            "discount": "4.9折封顶",
+            "remain_days": "剩17时",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/739d8b6f7afd4154a539100d2021607c/10001263/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100527730",
+              "target_type": "1",
+              "target_id": "100527730",
+              "brand_form": "2",
+              "brandpic": "169148866"
+            },
+            "st_ctx_expose": "0_100527730_-99_-99_-99_-99_169148866_-99",
+            "href": "viprouter://productlist/brand?brand_id=100527730&brand_name=%E7%BA%B3%E7%BB%B4%E5%87%AF%E5%B0%94Navigare%E7%94%B7%E8%A3%85%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100527730",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100512629_2",
+        "data": {
+          "brand": {
+            "brand_id": "100512629",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/26/26/ias_157735228610481_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/191/ias_157740959827594_1135x545_85.jpg",
+            "title": "安踏ANTA运动热销爆款鞋服专场",
+            "discount": "1.8折起",
+            "remain_days": "剩2天",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/046de6667221454c995b102f0248fa36/10000269/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100512629",
+              "target_type": "1",
+              "target_id": "100512629",
+              "brand_form": "2",
+              "brandpic": "169001847"
+            },
+            "st_ctx_expose": "0_100512629_-99_-99_-99_-99_169001847_-99",
+            "href": "viprouter://productlist/brand?brand_id=100512629&brand_name=%E5%AE%89%E8%B8%8FANTA%E8%BF%90%E5%8A%A8%E7%83%AD%E9%94%80%E7%88%86%E6%AC%BE%E9%9E%8B%E6%9C%8D%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100512629",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100528817_2",
+        "data": {
+          "brand": {
+            "brand_id": "100528817",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/31/130/ias_157777976016119_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/110/ias_157743976552430_1135x545_85.jpg",
+            "title": "乐町女装精选好货-限时抢购专场",
+            "pms_text": "全场折上5折起",
+            "discount": "1.1折起",
+            "remain_days": "剩17时",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8ea3b19ccdc54cf98b3725262521db7b/10010028/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100528817",
+              "target_type": "1",
+              "target_id": "100528817",
+              "brand_form": "2",
+              "brandpic": "169127069"
+            },
+            "st_ctx_expose": "0_100528817_-99_-99_-99_-99_169127069_-99",
+            "href": "viprouter://productlist/brand?brand_id=100528817&brand_name=%E4%B9%90%E7%94%BA%E5%A5%B3%E8%A3%85%E7%B2%BE%E9%80%89%E5%A5%BD%E8%B4%A7-%E9%99%90%E6%97%B6%E6%8A%A2%E8%B4%AD%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100528817",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100522868_2",
+        "data": {
+          "brand": {
+            "brand_id": "100522868",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/30/63/ias_157769870216200_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/24/178/ias_157717237317040_1135x545_85.jpg",
+            "title": "百丽集团年终清仓特卖专场",
+            "pms_text": "部分商品折上2.5折起",
+            "discount": "1折起",
+            "remain_days": "剩17时",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100522868",
+              "target_type": "1",
+              "target_id": "100522868",
+              "brand_form": "2",
+              "brandpic": "168490056"
+            },
+            "st_ctx_expose": "0_100522868_-99_-99_-99_-99_168490056_-99",
+            "href": "viprouter://productlist/brand?brand_id=100522868&brand_name=%E7%99%BE%E4%B8%BD%E9%9B%86%E5%9B%A2%E5%B9%B4%E7%BB%88%E6%B8%85%E4%BB%93%E7%89%B9%E5%8D%96%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100522868",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100517746_2",
+        "data": {
+          "brand": {
+            "brand_id": "100517746",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/25/23/ias_157725792316490_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/25/107/ias_157725784568776_1135x545_85.jpg",
+            "title": "三彩女装爆款精选专场",
+            "pms_text": "全场折上3.3折起",
+            "discount": "3折封顶",
+            "remain_days": "剩1天",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100517746",
+              "target_type": "1",
+              "target_id": "100517746",
+              "brand_form": "2",
+              "brandpic": "168675397"
+            },
+            "st_ctx_expose": "0_100517746_-99_-99_-99_-99_168675397_-99",
+            "href": "viprouter://productlist/brand?brand_id=100517746&brand_name=%E4%B8%89%E5%BD%A9%E5%A5%B3%E8%A3%85%E7%88%86%E6%AC%BE%E7%B2%BE%E9%80%89%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100517746",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100521808_2",
+        "data": {
+          "brand": {
+            "brand_id": "100521808",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/18/15/ias_157666355827241_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/18/37/ias_157666356160499_1135x545_85.jpg",
+            "title": "安奈儿Annil 0-12岁男女童爆款专场",
+            "pms_text": "部分商品折上3.8折起",
+            "discount": "4.9折封顶",
+            "remain_days": "剩17时",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b475885d312542368b80a59e504bc8e2/10003160/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100521808",
+              "target_type": "1",
+              "target_id": "100521808",
+              "brand_form": "2",
+              "brandpic": "167504072"
+            },
+            "st_ctx_expose": "0_100521808_-99_-99_-99_-99_167504072_-99",
+            "href": "viprouter://productlist/brand?brand_id=100521808&brand_name=%E5%AE%89%E5%A5%88%E5%84%BFAnnil+0-12%E5%B2%81%E7%94%B7%E5%A5%B3%E7%AB%A5%E7%88%86%E6%AC%BE%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100521808",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100482916_2",
+        "data": {
+          "brand": {
+            "brand_id": "100482916",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/26/172/ias_157732711253659_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/30/112/ias_157767136798429_1135x545_85.jpg",
+            "title": "吉芬JEFEN女装秋冬精选-底价狂欢专场",
+            "pms_text": "部分商品折上4.1折起",
+            "discount": "4.9折封顶",
+            "remain_days": "剩17时",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7861b77a210345e8a142fee4a2d5fee2/10010947/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100482916",
+              "target_type": "1",
+              "target_id": "100482916",
+              "brand_form": "2",
+              "brandpic": "169365880"
+            },
+            "st_ctx_expose": "0_100482916_-99_-99_-99_-99_169365880_-99",
+            "href": "viprouter://productlist/brand?brand_id=100482916&brand_name=%E5%90%89%E8%8A%ACJEFEN%E5%A5%B3%E8%A3%85%E7%A7%8B%E5%86%AC%E7%B2%BE%E9%80%89-%E5%BA%95%E4%BB%B7%E7%8B%82%E6%AC%A2%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100482916",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100514750_2",
+        "data": {
+          "brand": {
+            "brand_id": "100514750",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/26/84/ias_157732515889263_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/26/10/ias_157732432810425_1135x545_85.jpg",
+            "title": "美津浓Mizuno官方运动鞋服特卖专场",
+            "pms_text": "限时直降",
+            "discount": "1.6折起",
+            "remain_days": "剩1天",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b15ff2ff831e419f87ec3f78fa8a43cf/10000594/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100514750",
+              "target_type": "1",
+              "target_id": "100514750",
+              "brand_form": "2",
+              "brandpic": "168808081"
+            },
+            "st_ctx_expose": "0_100514750_-99_-99_-99_-99_168808081_-99",
+            "href": "viprouter://productlist/brand?brand_id=100514750&brand_name=%E7%BE%8E%E6%B4%A5%E6%B5%93Mizuno%E5%AE%98%E6%96%B9%E8%BF%90%E5%8A%A8%E9%9E%8B%E6%9C%8D%E7%89%B9%E5%8D%96%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100514750",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100530384_2",
+        "data": {
+          "brand": {
+            "brand_id": "100530384",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/15/49/ias_157379643264338_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/166/ias_157744271111171_1135x545_85.jpg",
+            "title": "鄂尔多斯ERDOS集团男女羊绒衫精选专场",
+            "pms_text": "部分商品折上3.8折起",
+            "discount": "1.4折起",
+            "remain_days": "剩1天",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100530384",
+              "target_type": "1",
+              "target_id": "100530384",
+              "brand_form": "2",
+              "brandpic": "169138539"
+            },
+            "st_ctx_expose": "0_100530384_-99_-99_-99_-99_169138539_-99",
+            "href": "viprouter://productlist/brand?brand_id=100530384&brand_name=%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AFERDOS%E9%9B%86%E5%9B%A2%E7%94%B7%E5%A5%B3%E7%BE%8A%E7%BB%92%E8%A1%AB%E7%B2%BE%E9%80%89%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100530384",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "pcmp",
+        "unique_id": "218114:3",
+        "data": {
+          "dataType": null,
+          "backGroundImage": null,
+          "backGroundColor": "",
+          "alpha": null,
+          "componentId": null,
+          "cornerRadius": null,
+          "layoutAlign": null,
+          "bounds": {
+            "l": "0",
+            "t": "0",
+            "w": "750",
+            "h": "860"
+          },
+          "action": null,
+          "index": null,
+          "zindex": null,
+          "resourceGroupList": [{
+            "dataType": null,
+            "backGroundImage": null,
+            "backGroundColor": null,
+            "alpha": null,
+            "componentId": null,
+            "cornerRadius": null,
+            "layoutAlign": null,
+            "bounds": {
+              "l": "0",
+              "t": "0",
+              "w": "750",
+              "h": "860"
+            },
+            "action": null,
+            "index": null,
+            "zindex": null,
+            "resourceList": [{
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "2",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "1",
+                  "t": "0",
+                  "w": "750",
+                  "h": "860"
+                },
+                "action": {
+                  "targetAction": null,
+                  "targetParam": null,
+                  "burypoint": null,
+                  "coupon": null,
+                  "href": null,
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": null,
+                  "extraInfo": null,
+                  "exposure": null,
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "1",
+                "zindex": "2",
+                "imageUrl": "http://h2.appsimg.com/b.appsimg.com/upload/mst/2019/12/04/191/mst_d17fa1faa1cefc3da9c8a482b7dd8660.jpg",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": "#ffffffff",
+                "alpha": null,
+                "componentId": "4",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "154",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470072",
+                    "title": "女式羽绒服",
+                    "future_mode": "0",
+                    "product_id": "6918427377406550468"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=1&id=7946&code=nbsy-pltj&slotId=3&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470072",
+                    "ext_data": "rule_id=51470072&menu_code=20181203001&material=101&goodsId=6918427377406550468&product_id=6918427377406550468&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D3%26sellingPlaceId%3D",
+                    "obj_id": "4",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470072%22%2C%22title%22%3A%22%E5%A5%B3%E5%BC%8F%E7%BE%BD%E7%BB%92%E6%9C%8D%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918427377406550468%22%7D&floorId=7946&slotId=1",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470072&title=女式羽绒服&product_id=6918427377406550468&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=1&id=7946&code=nbsy-pltj&slotId=3&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470072",
+                    "ext_data": "rule_id=51470072&menu_code=20181203001&material=101&goodsId=6918427377406550468&product_id=6918427377406550468&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D3%26sellingPlaceId%3D",
+                    "obj_id": "4",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "2",
+                "zindex": "4",
+                "imageUrl": "",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "5",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "154",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470072",
+                    "title": "女式羽绒服",
+                    "future_mode": "0",
+                    "product_id": "6918427377406550468"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=1&id=7946&code=nbsy-pltj&slotId=3&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470072",
+                    "ext_data": "rule_id=51470072&menu_code=20181203001&material=103&goodsId=6918427377406550468&product_id=6918427377406550468&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D3%26sellingPlaceId%3D",
+                    "obj_id": "5",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470072%22%2C%22title%22%3A%22%E5%A5%B3%E5%BC%8F%E7%BE%BD%E7%BB%92%E6%9C%8D%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918427377406550468%22%7D&floorId=7946&slotId=1",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470072&title=女式羽绒服&product_id=6918427377406550468&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=1&id=7946&code=nbsy-pltj&slotId=3&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470072",
+                    "ext_data": "rule_id=51470072&menu_code=20181203001&material=103&goodsId=6918427377406550468&product_id=6918427377406550468&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D3%26sellingPlaceId%3D",
+                    "obj_id": "5",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "2",
+                "zindex": "5",
+                "imageUrl": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/12/13/34/6eb6dc3a-8c2a-4e2b-ade0-37cce45986f9.jpg",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "6",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "154",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470072",
+                    "title": "女式羽绒服",
+                    "future_mode": "0",
+                    "product_id": "6918427377406550468"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=1&id=7946&code=nbsy-pltj&slotId=3&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470072",
+                    "ext_data": "rule_id=51470072&menu_code=20181203001&material=101&goodsId=6918427377406550468&product_id=6918427377406550468&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D3%26sellingPlaceId%3D",
+                    "obj_id": "6",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470072%22%2C%22title%22%3A%22%E5%A5%B3%E5%BC%8F%E7%BE%BD%E7%BB%92%E6%9C%8D%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918427377406550468%22%7D&floorId=7946&slotId=1",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470072&title=女式羽绒服&product_id=6918427377406550468&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=1&id=7946&code=nbsy-pltj&slotId=3&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470072",
+                    "ext_data": "rule_id=51470072&menu_code=20181203001&material=101&goodsId=6918427377406550468&product_id=6918427377406550468&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D3%26sellingPlaceId%3D",
+                    "obj_id": "6",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "2",
+                "zindex": "6",
+                "imageUrl": "http://h2.appsimg.com/b.appsimg.com/upload/mst/2019/12/04/185/mst_dd0e858a620ff8b4572c28bf80f44371.png",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "label",
+              "lightArtImage": null,
+              "lightArtLabel": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "7",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "330",
+                  "w": "212",
+                  "h": "36"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470072",
+                    "title": "女式羽绒服",
+                    "future_mode": "0",
+                    "product_id": "6918427377406550468"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=1&id=7946&code=nbsy-pltj&slotId=3&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470072",
+                    "ext_data": "rule_id=51470072&menu_code=20181203001&material=105&product_id=6918427377406550468&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D3%26sellingPlaceId%3D",
+                    "obj_id": "7",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470072%22%2C%22title%22%3A%22%E5%A5%B3%E5%BC%8F%E7%BE%BD%E7%BB%92%E6%9C%8D%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918427377406550468%22%7D&floorId=7946&slotId=1",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470072&title=女式羽绒服&product_id=6918427377406550468&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": null,
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "2",
+                "zindex": "7",
+                "text": "女式羽绒服",
+                "maxLines": "1",
+                "ellipsize": null,
+                "align": "center",
+                "fontSize": "24",
+                "fontFamily": null,
+                "fontColor": "#222222ff",
+                "fontLineHeight": null,
+                "strikethrough": "false",
+                "xgravity": "center",
+                "ygravity": "center"
+              },
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": "#ffffffff",
+                "alpha": null,
+                "componentId": "9",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "154",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470041",
+                    "title": "女靴",
+                    "future_mode": "0",
+                    "product_id": "6918175440881345179"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=2&id=7946&code=nbsy-pltj&slotId=8&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470041",
+                    "ext_data": "rule_id=51470041&menu_code=20181203001&material=101&goodsId=6918175440881345179&product_id=6918175440881345179&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D8%26sellingPlaceId%3D",
+                    "obj_id": "9",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470041%22%2C%22title%22%3A%22%E5%A5%B3%E9%9D%B4%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918175440881345179%22%7D&floorId=7946&slotId=2",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470041&title=女靴&product_id=6918175440881345179&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=2&id=7946&code=nbsy-pltj&slotId=8&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470041",
+                    "ext_data": "rule_id=51470041&menu_code=20181203001&material=101&goodsId=6918175440881345179&product_id=6918175440881345179&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D8%26sellingPlaceId%3D",
+                    "obj_id": "9",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "3",
+                "zindex": "9",
+                "imageUrl": "",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "10",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "154",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470041",
+                    "title": "女靴",
+                    "future_mode": "0",
+                    "product_id": "6918175440881345179"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=2&id=7946&code=nbsy-pltj&slotId=8&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470041",
+                    "ext_data": "rule_id=51470041&menu_code=20181203001&material=103&goodsId=6918175440881345179&product_id=6918175440881345179&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D8%26sellingPlaceId%3D",
+                    "obj_id": "10",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470041%22%2C%22title%22%3A%22%E5%A5%B3%E9%9D%B4%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918175440881345179%22%7D&floorId=7946&slotId=2",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470041&title=女靴&product_id=6918175440881345179&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=2&id=7946&code=nbsy-pltj&slotId=8&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470041",
+                    "ext_data": "rule_id=51470041&menu_code=20181203001&material=103&goodsId=6918175440881345179&product_id=6918175440881345179&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D8%26sellingPlaceId%3D",
+                    "obj_id": "10",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "3",
+                "zindex": "10",
+                "imageUrl": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00603480/10000687/1921562799-90148626026061824-1.jpg",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "11",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "154",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470041",
+                    "title": "女靴",
+                    "future_mode": "0",
+                    "product_id": "6918175440881345179"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=2&id=7946&code=nbsy-pltj&slotId=8&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470041",
+                    "ext_data": "rule_id=51470041&menu_code=20181203001&material=101&goodsId=6918175440881345179&product_id=6918175440881345179&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D8%26sellingPlaceId%3D",
+                    "obj_id": "11",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470041%22%2C%22title%22%3A%22%E5%A5%B3%E9%9D%B4%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918175440881345179%22%7D&floorId=7946&slotId=2",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470041&title=女靴&product_id=6918175440881345179&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=2&id=7946&code=nbsy-pltj&slotId=8&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470041",
+                    "ext_data": "rule_id=51470041&menu_code=20181203001&material=101&goodsId=6918175440881345179&product_id=6918175440881345179&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D8%26sellingPlaceId%3D",
+                    "obj_id": "11",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "3",
+                "zindex": "11",
+                "imageUrl": "http://h2.appsimg.com/b.appsimg.com/upload/mst/2019/12/04/42/mst_a800cd2c3085cc285de22aa6fe650b6b.png",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "label",
+              "lightArtImage": null,
+              "lightArtLabel": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "12",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "330",
+                  "w": "212",
+                  "h": "36"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470041",
+                    "title": "女靴",
+                    "future_mode": "0",
+                    "product_id": "6918175440881345179"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=2&id=7946&code=nbsy-pltj&slotId=8&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470041",
+                    "ext_data": "rule_id=51470041&menu_code=20181203001&material=105&product_id=6918175440881345179&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D8%26sellingPlaceId%3D",
+                    "obj_id": "12",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470041%22%2C%22title%22%3A%22%E5%A5%B3%E9%9D%B4%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918175440881345179%22%7D&floorId=7946&slotId=2",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470041&title=女靴&product_id=6918175440881345179&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": null,
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "3",
+                "zindex": "12",
+                "text": "女靴",
+                "maxLines": "1",
+                "ellipsize": null,
+                "align": "center",
+                "fontSize": "24",
+                "fontFamily": null,
+                "fontColor": "#222222ff",
+                "fontLineHeight": null,
+                "strikethrough": "false",
+                "xgravity": "center",
+                "ygravity": "center"
+              },
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": "#ffffffff",
+                "alpha": null,
+                "componentId": "14",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "154",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470081",
+                    "title": "连衣裙",
+                    "future_mode": "0",
+                    "product_id": "6917916917760357259"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=3&id=7946&code=nbsy-pltj&slotId=13&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470081",
+                    "ext_data": "rule_id=51470081&menu_code=20181203001&material=101&goodsId=6917916917760357259&product_id=6917916917760357259&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D13%26sellingPlaceId%3D",
+                    "obj_id": "14",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470081%22%2C%22title%22%3A%22%E8%BF%9E%E8%A1%A3%E8%A3%99%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226917916917760357259%22%7D&floorId=7946&slotId=3",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470081&title=连衣裙&product_id=6917916917760357259&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=3&id=7946&code=nbsy-pltj&slotId=13&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470081",
+                    "ext_data": "rule_id=51470081&menu_code=20181203001&material=101&goodsId=6917916917760357259&product_id=6917916917760357259&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D13%26sellingPlaceId%3D",
+                    "obj_id": "14",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "4",
+                "zindex": "14",
+                "imageUrl": "",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "15",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "154",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470081",
+                    "title": "连衣裙",
+                    "future_mode": "0",
+                    "product_id": "6917916917760357259"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=3&id=7946&code=nbsy-pltj&slotId=13&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470081",
+                    "ext_data": "rule_id=51470081&menu_code=20181203001&material=103&goodsId=6917916917760357259&product_id=6917916917760357259&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D13%26sellingPlaceId%3D",
+                    "obj_id": "15",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470081%22%2C%22title%22%3A%22%E8%BF%9E%E8%A1%A3%E8%A3%99%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226917916917760357259%22%7D&floorId=7946&slotId=3",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470081&title=连衣裙&product_id=6917916917760357259&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=3&id=7946&code=nbsy-pltj&slotId=13&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470081",
+                    "ext_data": "rule_id=51470081&menu_code=20181203001&material=103&goodsId=6917916917760357259&product_id=6917916917760357259&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D13%26sellingPlaceId%3D",
+                    "obj_id": "15",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "4",
+                "zindex": "15",
+                "imageUrl": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/114756/2019/0720/135/4bc48fc4-7549-47d6-9408-ee4206ee8230.jpg",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "16",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "154",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470081",
+                    "title": "连衣裙",
+                    "future_mode": "0",
+                    "product_id": "6917916917760357259"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=3&id=7946&code=nbsy-pltj&slotId=13&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470081",
+                    "ext_data": "rule_id=51470081&menu_code=20181203001&material=101&goodsId=6917916917760357259&product_id=6917916917760357259&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D13%26sellingPlaceId%3D",
+                    "obj_id": "16",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470081%22%2C%22title%22%3A%22%E8%BF%9E%E8%A1%A3%E8%A3%99%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226917916917760357259%22%7D&floorId=7946&slotId=3",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470081&title=连衣裙&product_id=6917916917760357259&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=3&id=7946&code=nbsy-pltj&slotId=13&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470081",
+                    "ext_data": "rule_id=51470081&menu_code=20181203001&material=101&goodsId=6917916917760357259&product_id=6917916917760357259&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D13%26sellingPlaceId%3D",
+                    "obj_id": "16",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "4",
+                "zindex": "16",
+                "imageUrl": "http://h2.appsimg.com/b.appsimg.com/upload/mst/2019/12/04/75/mst_d3f821375afffa05c17369c17178a236.png",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "label",
+              "lightArtImage": null,
+              "lightArtLabel": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "17",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "330",
+                  "w": "212",
+                  "h": "36"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470081",
+                    "title": "连衣裙",
+                    "future_mode": "0",
+                    "product_id": "6917916917760357259"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=3&id=7946&code=nbsy-pltj&slotId=13&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470081",
+                    "ext_data": "rule_id=51470081&menu_code=20181203001&material=105&product_id=6917916917760357259&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D13%26sellingPlaceId%3D",
+                    "obj_id": "17",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470081%22%2C%22title%22%3A%22%E8%BF%9E%E8%A1%A3%E8%A3%99%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226917916917760357259%22%7D&floorId=7946&slotId=3",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470081&title=连衣裙&product_id=6917916917760357259&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": null,
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "4",
+                "zindex": "17",
+                "text": "连衣裙",
+                "maxLines": "1",
+                "ellipsize": null,
+                "align": "center",
+                "fontSize": "24",
+                "fontFamily": null,
+                "fontColor": "#222222ff",
+                "fontLineHeight": null,
+                "strikethrough": "false",
+                "xgravity": "center",
+                "ygravity": "center"
+              },
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": "#ffffffff",
+                "alpha": null,
+                "componentId": "19",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "387",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470036",
+                    "title": "﻿男靴",
+                    "future_mode": "0",
+                    "product_id": "6918322793731381145"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=4&id=7946&code=nbsy-pltj&slotId=18&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470036",
+                    "ext_data": "rule_id=51470036&menu_code=20181203001&material=101&goodsId=6918322793731381145&product_id=6918322793731381145&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D18%26sellingPlaceId%3D",
+                    "obj_id": "19",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470036%22%2C%22title%22%3A%22%EF%BB%BF%E7%94%B7%E9%9D%B4%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918322793731381145%22%7D&floorId=7946&slotId=4",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470036&title=﻿男靴&product_id=6918322793731381145&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=4&id=7946&code=nbsy-pltj&slotId=18&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470036",
+                    "ext_data": "rule_id=51470036&menu_code=20181203001&material=101&goodsId=6918322793731381145&product_id=6918322793731381145&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D18%26sellingPlaceId%3D",
+                    "obj_id": "19",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "5",
+                "zindex": "19",
+                "imageUrl": "",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "20",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "387",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470036",
+                    "title": "﻿男靴",
+                    "future_mode": "0",
+                    "product_id": "6918322793731381145"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=4&id=7946&code=nbsy-pltj&slotId=18&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470036",
+                    "ext_data": "rule_id=51470036&menu_code=20181203001&material=103&goodsId=6918322793731381145&product_id=6918322793731381145&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D18%26sellingPlaceId%3D",
+                    "obj_id": "20",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470036%22%2C%22title%22%3A%22%EF%BB%BF%E7%94%B7%E9%9D%B4%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918322793731381145%22%7D&floorId=7946&slotId=4",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470036&title=﻿男靴&product_id=6918322793731381145&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=4&id=7946&code=nbsy-pltj&slotId=18&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470036",
+                    "ext_data": "rule_id=51470036&menu_code=20181203001&material=103&goodsId=6918322793731381145&product_id=6918322793731381145&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D18%26sellingPlaceId%3D",
+                    "obj_id": "20",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "5",
+                "zindex": "20",
+                "imageUrl": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/07/02/196/21e8012c-098a-46e9-a968-ae6931b0b900.jpg",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "21",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "387",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470036",
+                    "title": "﻿男靴",
+                    "future_mode": "0",
+                    "product_id": "6918322793731381145"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=4&id=7946&code=nbsy-pltj&slotId=18&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470036",
+                    "ext_data": "rule_id=51470036&menu_code=20181203001&material=101&goodsId=6918322793731381145&product_id=6918322793731381145&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D18%26sellingPlaceId%3D",
+                    "obj_id": "21",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470036%22%2C%22title%22%3A%22%EF%BB%BF%E7%94%B7%E9%9D%B4%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918322793731381145%22%7D&floorId=7946&slotId=4",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470036&title=﻿男靴&product_id=6918322793731381145&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=4&id=7946&code=nbsy-pltj&slotId=18&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470036",
+                    "ext_data": "rule_id=51470036&menu_code=20181203001&material=101&goodsId=6918322793731381145&product_id=6918322793731381145&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D18%26sellingPlaceId%3D",
+                    "obj_id": "21",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "5",
+                "zindex": "21",
+                "imageUrl": "http://h2.appsimg.com/b.appsimg.com/upload/mst/2019/12/04/72/mst_8dbe9444d2554e42fe5ca266f94b3751.png",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "label",
+              "lightArtImage": null,
+              "lightArtLabel": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "22",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "563",
+                  "w": "212",
+                  "h": "36"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470036",
+                    "title": "﻿男靴",
+                    "future_mode": "0",
+                    "product_id": "6918322793731381145"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=4&id=7946&code=nbsy-pltj&slotId=18&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470036",
+                    "ext_data": "rule_id=51470036&menu_code=20181203001&material=105&product_id=6918322793731381145&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D18%26sellingPlaceId%3D",
+                    "obj_id": "22",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470036%22%2C%22title%22%3A%22%EF%BB%BF%E7%94%B7%E9%9D%B4%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918322793731381145%22%7D&floorId=7946&slotId=4",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470036&title=﻿男靴&product_id=6918322793731381145&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": null,
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "5",
+                "zindex": "22",
+                "text": "﻿男靴",
+                "maxLines": "1",
+                "ellipsize": null,
+                "align": "center",
+                "fontSize": "24",
+                "fontFamily": null,
+                "fontColor": "#222222ff",
+                "fontLineHeight": null,
+                "strikethrough": "false",
+                "xgravity": "center",
+                "ygravity": "center"
+              },
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": "#ffffffff",
+                "alpha": null,
+                "componentId": "24",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "387",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470037",
+                    "title": "男休闲鞋",
+                    "future_mode": "0",
+                    "product_id": "6917921469441192665"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=5&id=7946&code=nbsy-pltj&slotId=23&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470037",
+                    "ext_data": "rule_id=51470037&menu_code=20181203001&material=101&goodsId=6917921469441192665&product_id=6917921469441192665&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D23%26sellingPlaceId%3D",
+                    "obj_id": "24",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470037%22%2C%22title%22%3A%22%E7%94%B7%E4%BC%91%E9%97%B2%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226917921469441192665%22%7D&floorId=7946&slotId=5",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470037&title=男休闲鞋&product_id=6917921469441192665&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=5&id=7946&code=nbsy-pltj&slotId=23&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470037",
+                    "ext_data": "rule_id=51470037&menu_code=20181203001&material=101&goodsId=6917921469441192665&product_id=6917921469441192665&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D23%26sellingPlaceId%3D",
+                    "obj_id": "24",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "6",
+                "zindex": "24",
+                "imageUrl": "",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "25",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "387",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470037",
+                    "title": "男休闲鞋",
+                    "future_mode": "0",
+                    "product_id": "6917921469441192665"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=5&id=7946&code=nbsy-pltj&slotId=23&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470037",
+                    "ext_data": "rule_id=51470037&menu_code=20181203001&material=103&goodsId=6917921469441192665&product_id=6917921469441192665&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D23%26sellingPlaceId%3D",
+                    "obj_id": "25",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470037%22%2C%22title%22%3A%22%E7%94%B7%E4%BC%91%E9%97%B2%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226917921469441192665%22%7D&floorId=7946&slotId=5",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470037&title=男休闲鞋&product_id=6917921469441192665&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=5&id=7946&code=nbsy-pltj&slotId=23&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470037",
+                    "ext_data": "rule_id=51470037&menu_code=20181203001&material=103&goodsId=6917921469441192665&product_id=6917921469441192665&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D23%26sellingPlaceId%3D",
+                    "obj_id": "25",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "6",
+                "zindex": "25",
+                "imageUrl": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2018/09/20/53/e8094099-81ad-4405-bfd4-eda49c33001d.jpg",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "26",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "387",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470037",
+                    "title": "男休闲鞋",
+                    "future_mode": "0",
+                    "product_id": "6917921469441192665"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=5&id=7946&code=nbsy-pltj&slotId=23&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470037",
+                    "ext_data": "rule_id=51470037&menu_code=20181203001&material=101&goodsId=6917921469441192665&product_id=6917921469441192665&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D23%26sellingPlaceId%3D",
+                    "obj_id": "26",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470037%22%2C%22title%22%3A%22%E7%94%B7%E4%BC%91%E9%97%B2%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226917921469441192665%22%7D&floorId=7946&slotId=5",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470037&title=男休闲鞋&product_id=6917921469441192665&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=5&id=7946&code=nbsy-pltj&slotId=23&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470037",
+                    "ext_data": "rule_id=51470037&menu_code=20181203001&material=101&goodsId=6917921469441192665&product_id=6917921469441192665&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D23%26sellingPlaceId%3D",
+                    "obj_id": "26",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "6",
+                "zindex": "26",
+                "imageUrl": "http://h2.appsimg.com/b.appsimg.com/upload/mst/2019/12/04/198/mst_ee8e334c618baf4582002311c1ae3849.png",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "label",
+              "lightArtImage": null,
+              "lightArtLabel": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "27",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "563",
+                  "w": "212",
+                  "h": "36"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470037",
+                    "title": "男休闲鞋",
+                    "future_mode": "0",
+                    "product_id": "6917921469441192665"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=5&id=7946&code=nbsy-pltj&slotId=23&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470037",
+                    "ext_data": "rule_id=51470037&menu_code=20181203001&material=105&product_id=6917921469441192665&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D23%26sellingPlaceId%3D",
+                    "obj_id": "27",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470037%22%2C%22title%22%3A%22%E7%94%B7%E4%BC%91%E9%97%B2%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226917921469441192665%22%7D&floorId=7946&slotId=5",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470037&title=男休闲鞋&product_id=6917921469441192665&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": null,
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "6",
+                "zindex": "27",
+                "text": "男休闲鞋",
+                "maxLines": "1",
+                "ellipsize": null,
+                "align": "center",
+                "fontSize": "24",
+                "fontFamily": null,
+                "fontColor": "#222222ff",
+                "fontLineHeight": null,
+                "strikethrough": "false",
+                "xgravity": "center",
+                "ygravity": "center"
+              },
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": "#ffffffff",
+                "alpha": null,
+                "componentId": "29",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "387",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470038",
+                    "title": "男商务鞋",
+                    "future_mode": "0",
+                    "product_id": "6918392113074947605"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=6&id=7946&code=nbsy-pltj&slotId=28&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470038",
+                    "ext_data": "rule_id=51470038&menu_code=20181203001&material=101&goodsId=6918392113074947605&product_id=6918392113074947605&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D28%26sellingPlaceId%3D",
+                    "obj_id": "29",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470038%22%2C%22title%22%3A%22%E7%94%B7%E5%95%86%E5%8A%A1%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918392113074947605%22%7D&floorId=7946&slotId=6",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470038&title=男商务鞋&product_id=6918392113074947605&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=6&id=7946&code=nbsy-pltj&slotId=28&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470038",
+                    "ext_data": "rule_id=51470038&menu_code=20181203001&material=101&goodsId=6918392113074947605&product_id=6918392113074947605&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D28%26sellingPlaceId%3D",
+                    "obj_id": "29",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "7",
+                "zindex": "29",
+                "imageUrl": "",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "30",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "387",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470038",
+                    "title": "男商务鞋",
+                    "future_mode": "0",
+                    "product_id": "6918392113074947605"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=6&id=7946&code=nbsy-pltj&slotId=28&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470038",
+                    "ext_data": "rule_id=51470038&menu_code=20181203001&material=103&goodsId=6918392113074947605&product_id=6918392113074947605&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D28%26sellingPlaceId%3D",
+                    "obj_id": "30",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470038%22%2C%22title%22%3A%22%E7%94%B7%E5%95%86%E5%8A%A1%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918392113074947605%22%7D&floorId=7946&slotId=6",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470038&title=男商务鞋&product_id=6918392113074947605&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=6&id=7946&code=nbsy-pltj&slotId=28&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470038",
+                    "ext_data": "rule_id=51470038&menu_code=20181203001&material=103&goodsId=6918392113074947605&product_id=6918392113074947605&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D28%26sellingPlaceId%3D",
+                    "obj_id": "30",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "7",
+                "zindex": "30",
+                "imageUrl": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/607681/2019/0820/142/6e957d2b-9629-470c-870c-2a7dbce47a10.jpg",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "31",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "387",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470038",
+                    "title": "男商务鞋",
+                    "future_mode": "0",
+                    "product_id": "6918392113074947605"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=6&id=7946&code=nbsy-pltj&slotId=28&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470038",
+                    "ext_data": "rule_id=51470038&menu_code=20181203001&material=101&goodsId=6918392113074947605&product_id=6918392113074947605&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D28%26sellingPlaceId%3D",
+                    "obj_id": "31",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470038%22%2C%22title%22%3A%22%E7%94%B7%E5%95%86%E5%8A%A1%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918392113074947605%22%7D&floorId=7946&slotId=6",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470038&title=男商务鞋&product_id=6918392113074947605&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=6&id=7946&code=nbsy-pltj&slotId=28&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470038",
+                    "ext_data": "rule_id=51470038&menu_code=20181203001&material=101&goodsId=6918392113074947605&product_id=6918392113074947605&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D28%26sellingPlaceId%3D",
+                    "obj_id": "31",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "7",
+                "zindex": "31",
+                "imageUrl": "http://h2.appsimg.com/b.appsimg.com/upload/mst/2019/12/04/108/mst_071f951a7eee7724f9c297e3801fe2b9.png",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "label",
+              "lightArtImage": null,
+              "lightArtLabel": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "32",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "563",
+                  "w": "212",
+                  "h": "36"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470038",
+                    "title": "男商务鞋",
+                    "future_mode": "0",
+                    "product_id": "6918392113074947605"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=6&id=7946&code=nbsy-pltj&slotId=28&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470038",
+                    "ext_data": "rule_id=51470038&menu_code=20181203001&material=105&product_id=6918392113074947605&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D28%26sellingPlaceId%3D",
+                    "obj_id": "32",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470038%22%2C%22title%22%3A%22%E7%94%B7%E5%95%86%E5%8A%A1%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918392113074947605%22%7D&floorId=7946&slotId=6",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470038&title=男商务鞋&product_id=6918392113074947605&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": null,
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "7",
+                "zindex": "32",
+                "text": "男商务鞋",
+                "maxLines": "1",
+                "ellipsize": null,
+                "align": "center",
+                "fontSize": "24",
+                "fontFamily": null,
+                "fontColor": "#222222ff",
+                "fontLineHeight": null,
+                "strikethrough": "false",
+                "xgravity": "center",
+                "ygravity": "center"
+              },
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": "#ffffffff",
+                "alpha": null,
+                "componentId": "34",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "620",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470039",
+                    "title": "男凉鞋",
+                    "future_mode": "0",
+                    "product_id": "6918192671136998427"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=7&id=7946&code=nbsy-pltj&slotId=33&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470039",
+                    "ext_data": "rule_id=51470039&menu_code=20181203001&material=101&goodsId=6918192671136998427&product_id=6918192671136998427&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D33%26sellingPlaceId%3D",
+                    "obj_id": "34",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470039%22%2C%22title%22%3A%22%E7%94%B7%E5%87%89%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918192671136998427%22%7D&floorId=7946&slotId=7",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470039&title=男凉鞋&product_id=6918192671136998427&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=7&id=7946&code=nbsy-pltj&slotId=33&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470039",
+                    "ext_data": "rule_id=51470039&menu_code=20181203001&material=101&goodsId=6918192671136998427&product_id=6918192671136998427&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D33%26sellingPlaceId%3D",
+                    "obj_id": "34",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "8",
+                "zindex": "34",
+                "imageUrl": "",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "35",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "620",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470039",
+                    "title": "男凉鞋",
+                    "future_mode": "0",
+                    "product_id": "6918192671136998427"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=7&id=7946&code=nbsy-pltj&slotId=33&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470039",
+                    "ext_data": "rule_id=51470039&menu_code=20181203001&material=103&goodsId=6918192671136998427&product_id=6918192671136998427&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D33%26sellingPlaceId%3D",
+                    "obj_id": "35",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470039%22%2C%22title%22%3A%22%E7%94%B7%E5%87%89%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918192671136998427%22%7D&floorId=7946&slotId=7",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470039&title=男凉鞋&product_id=6918192671136998427&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=7&id=7946&code=nbsy-pltj&slotId=33&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470039",
+                    "ext_data": "rule_id=51470039&menu_code=20181203001&material=103&goodsId=6918192671136998427&product_id=6918192671136998427&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D33%26sellingPlaceId%3D",
+                    "obj_id": "35",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "8",
+                "zindex": "35",
+                "imageUrl": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00603480/10000687/772706378-607499733070454784-607499733070458886-1.jpg",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "36",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "620",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470039",
+                    "title": "男凉鞋",
+                    "future_mode": "0",
+                    "product_id": "6918192671136998427"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=7&id=7946&code=nbsy-pltj&slotId=33&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470039",
+                    "ext_data": "rule_id=51470039&menu_code=20181203001&material=101&goodsId=6918192671136998427&product_id=6918192671136998427&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D33%26sellingPlaceId%3D",
+                    "obj_id": "36",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470039%22%2C%22title%22%3A%22%E7%94%B7%E5%87%89%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918192671136998427%22%7D&floorId=7946&slotId=7",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470039&title=男凉鞋&product_id=6918192671136998427&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=7&id=7946&code=nbsy-pltj&slotId=33&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470039",
+                    "ext_data": "rule_id=51470039&menu_code=20181203001&material=101&goodsId=6918192671136998427&product_id=6918192671136998427&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D33%26sellingPlaceId%3D",
+                    "obj_id": "36",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "8",
+                "zindex": "36",
+                "imageUrl": "http://h2.appsimg.com/b.appsimg.com/upload/mst/2019/12/04/83/mst_631189b8fd1d3d2f3564988e916dc323.png",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "label",
+              "lightArtImage": null,
+              "lightArtLabel": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "37",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "36",
+                  "t": "796",
+                  "w": "212",
+                  "h": "36"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470039",
+                    "title": "男凉鞋",
+                    "future_mode": "0",
+                    "product_id": "6918192671136998427"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=7&id=7946&code=nbsy-pltj&slotId=33&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470039",
+                    "ext_data": "rule_id=51470039&menu_code=20181203001&material=105&product_id=6918192671136998427&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D33%26sellingPlaceId%3D",
+                    "obj_id": "37",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470039%22%2C%22title%22%3A%22%E7%94%B7%E5%87%89%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918192671136998427%22%7D&floorId=7946&slotId=7",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470039&title=男凉鞋&product_id=6918192671136998427&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": null,
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "8",
+                "zindex": "37",
+                "text": "男凉鞋",
+                "maxLines": "1",
+                "ellipsize": null,
+                "align": "center",
+                "fontSize": "24",
+                "fontFamily": null,
+                "fontColor": "#222222ff",
+                "fontLineHeight": null,
+                "strikethrough": "false",
+                "xgravity": "center",
+                "ygravity": "center"
+              },
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": "#ffffffff",
+                "alpha": null,
+                "componentId": "39",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "620",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470040",
+                    "title": "女单鞋",
+                    "future_mode": "0",
+                    "product_id": "6918175579315548827"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=8&id=7946&code=nbsy-pltj&slotId=38&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470040",
+                    "ext_data": "rule_id=51470040&menu_code=20181203001&material=101&goodsId=6918175579315548827&product_id=6918175579315548827&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D38%26sellingPlaceId%3D",
+                    "obj_id": "39",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470040%22%2C%22title%22%3A%22%E5%A5%B3%E5%8D%95%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918175579315548827%22%7D&floorId=7946&slotId=8",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470040&title=女单鞋&product_id=6918175579315548827&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=8&id=7946&code=nbsy-pltj&slotId=38&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470040",
+                    "ext_data": "rule_id=51470040&menu_code=20181203001&material=101&goodsId=6918175579315548827&product_id=6918175579315548827&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D38%26sellingPlaceId%3D",
+                    "obj_id": "39",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "9",
+                "zindex": "39",
+                "imageUrl": "",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "40",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "620",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470040",
+                    "title": "女单鞋",
+                    "future_mode": "0",
+                    "product_id": "6918175579315548827"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=8&id=7946&code=nbsy-pltj&slotId=38&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470040",
+                    "ext_data": "rule_id=51470040&menu_code=20181203001&material=103&goodsId=6918175579315548827&product_id=6918175579315548827&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D38%26sellingPlaceId%3D",
+                    "obj_id": "40",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470040%22%2C%22title%22%3A%22%E5%A5%B3%E5%8D%95%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918175579315548827%22%7D&floorId=7946&slotId=8",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470040&title=女单鞋&product_id=6918175579315548827&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=8&id=7946&code=nbsy-pltj&slotId=38&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470040",
+                    "ext_data": "rule_id=51470040&menu_code=20181203001&material=103&goodsId=6918175579315548827&product_id=6918175579315548827&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D38%26sellingPlaceId%3D",
+                    "obj_id": "40",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "9",
+                "zindex": "40",
+                "imageUrl": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00603480/10000687/358196434-87615289316970496-1.jpg",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "41",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "620",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470040",
+                    "title": "女单鞋",
+                    "future_mode": "0",
+                    "product_id": "6918175579315548827"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=8&id=7946&code=nbsy-pltj&slotId=38&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470040",
+                    "ext_data": "rule_id=51470040&menu_code=20181203001&material=101&goodsId=6918175579315548827&product_id=6918175579315548827&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D38%26sellingPlaceId%3D",
+                    "obj_id": "41",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470040%22%2C%22title%22%3A%22%E5%A5%B3%E5%8D%95%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918175579315548827%22%7D&floorId=7946&slotId=8",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470040&title=女单鞋&product_id=6918175579315548827&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=8&id=7946&code=nbsy-pltj&slotId=38&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470040",
+                    "ext_data": "rule_id=51470040&menu_code=20181203001&material=101&goodsId=6918175579315548827&product_id=6918175579315548827&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D38%26sellingPlaceId%3D",
+                    "obj_id": "41",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "9",
+                "zindex": "41",
+                "imageUrl": "http://h2.appsimg.com/b.appsimg.com/upload/mst/2019/12/04/195/mst_d57b394f58e2b6099a85ff3737575530.png",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "label",
+              "lightArtImage": null,
+              "lightArtLabel": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "42",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "269",
+                  "t": "796",
+                  "w": "212",
+                  "h": "36"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470040",
+                    "title": "女单鞋",
+                    "future_mode": "0",
+                    "product_id": "6918175579315548827"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=8&id=7946&code=nbsy-pltj&slotId=38&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470040",
+                    "ext_data": "rule_id=51470040&menu_code=20181203001&material=105&product_id=6918175579315548827&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D38%26sellingPlaceId%3D",
+                    "obj_id": "42",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470040%22%2C%22title%22%3A%22%E5%A5%B3%E5%8D%95%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918175579315548827%22%7D&floorId=7946&slotId=8",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470040&title=女单鞋&product_id=6918175579315548827&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": null,
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "9",
+                "zindex": "42",
+                "text": "女单鞋",
+                "maxLines": "1",
+                "ellipsize": null,
+                "align": "center",
+                "fontSize": "24",
+                "fontFamily": null,
+                "fontColor": "#222222ff",
+                "fontLineHeight": null,
+                "strikethrough": "false",
+                "xgravity": "center",
+                "ygravity": "center"
+              },
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": "#ffffffff",
+                "alpha": null,
+                "componentId": "44",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "620",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470042",
+                    "title": "女休闲鞋",
+                    "future_mode": "0",
+                    "product_id": "6918122898131752542"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=9&id=7946&code=nbsy-pltj&slotId=43&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470042",
+                    "ext_data": "rule_id=51470042&menu_code=20181203001&material=101&goodsId=6918122898131752542&product_id=6918122898131752542&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D43%26sellingPlaceId%3D",
+                    "obj_id": "44",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470042%22%2C%22title%22%3A%22%E5%A5%B3%E4%BC%91%E9%97%B2%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918122898131752542%22%7D&floorId=7946&slotId=9",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470042&title=女休闲鞋&product_id=6918122898131752542&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=9&id=7946&code=nbsy-pltj&slotId=43&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470042",
+                    "ext_data": "rule_id=51470042&menu_code=20181203001&material=101&goodsId=6918122898131752542&product_id=6918122898131752542&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D43%26sellingPlaceId%3D",
+                    "obj_id": "44",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "10",
+                "zindex": "44",
+                "imageUrl": "",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "45",
+                "cornerRadius": {
+                  "lt": "6",
+                  "lb": "6",
+                  "rt": "6",
+                  "rb": "6"
+                },
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "620",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470042",
+                    "title": "女休闲鞋",
+                    "future_mode": "0",
+                    "product_id": "6918122898131752542"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=9&id=7946&code=nbsy-pltj&slotId=43&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470042",
+                    "ext_data": "rule_id=51470042&menu_code=20181203001&material=103&goodsId=6918122898131752542&product_id=6918122898131752542&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D43%26sellingPlaceId%3D",
+                    "obj_id": "45",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470042%22%2C%22title%22%3A%22%E5%A5%B3%E4%BC%91%E9%97%B2%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918122898131752542%22%7D&floorId=7946&slotId=9",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470042&title=女休闲鞋&product_id=6918122898131752542&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=9&id=7946&code=nbsy-pltj&slotId=43&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470042",
+                    "ext_data": "rule_id=51470042&menu_code=20181203001&material=103&goodsId=6918122898131752542&product_id=6918122898131752542&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D43%26sellingPlaceId%3D",
+                    "obj_id": "45",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "10",
+                "zindex": "45",
+                "imageUrl": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2016/09/01/145/a67ff457-fdf3-4470-8720-d4a2c2d98b9d.jpg",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "image",
+              "lightArtImage": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "46",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "620",
+                  "w": "212",
+                  "h": "212"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470042",
+                    "title": "女休闲鞋",
+                    "future_mode": "0",
+                    "product_id": "6918122898131752542"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=9&id=7946&code=nbsy-pltj&slotId=43&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470042",
+                    "ext_data": "rule_id=51470042&menu_code=20181203001&material=101&goodsId=6918122898131752542&product_id=6918122898131752542&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D43%26sellingPlaceId%3D",
+                    "obj_id": "46",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470042%22%2C%22title%22%3A%22%E5%A5%B3%E4%BC%91%E9%97%B2%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918122898131752542%22%7D&floorId=7946&slotId=9",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470042&title=女休闲鞋&product_id=6918122898131752542&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": {
+                    "obj_data": "sub_sn=9&id=7946&code=nbsy-pltj&slotId=43&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470042",
+                    "ext_data": "rule_id=51470042&menu_code=20181203001&material=101&goodsId=6918122898131752542&product_id=6918122898131752542&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D43%26sellingPlaceId%3D",
+                    "obj_id": "46",
+                    "obj_type": "5"
+                  },
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "10",
+                "zindex": "46",
+                "imageUrl": "http://h2.appsimg.com/b.appsimg.com/upload/mst/2019/12/04/82/mst_c9dd980737654eb9a60e6f03632a504e.png",
+                "defaultUrl": null,
+                "errorUrl": null,
+                "scaleType": "center"
+              },
+              "lightArtLabel": null,
+              "lightArtCountDown": null
+            }, {
+              "dataType": "label",
+              "lightArtImage": null,
+              "lightArtLabel": {
+                "dataType": null,
+                "backGroundImage": null,
+                "backGroundColor": null,
+                "alpha": null,
+                "componentId": "47",
+                "cornerRadius": null,
+                "layoutAlign": null,
+                "bounds": {
+                  "l": "502",
+                  "t": "796",
+                  "w": "212",
+                  "h": "36"
+                },
+                "action": {
+                  "targetAction": "60",
+                  "targetParam": {
+                    "rule_id": "51470042",
+                    "title": "女休闲鞋",
+                    "future_mode": "0",
+                    "product_id": "6918122898131752542"
+                  },
+                  "burypoint": {
+                    "obj_data": "sub_sn=9&id=7946&code=nbsy-pltj&slotId=43&source=pcmp",
+                    "biz_data": "tt=autolist&ti=51470042",
+                    "ext_data": "rule_id=51470042&menu_code=20181203001&material=105&product_id=6918122898131752542&burying_point=ver%3D1.0%26code%3D305003414385859557%26nodeId%3D43%26sellingPlaceId%3D",
+                    "obj_id": "47",
+                    "obj_type": "5"
+                  },
+                  "coupon": null,
+                  "href": "mojumper://jump?targetAction=60&targetParam=%7B%22rule_id%22%3A%2251470042%22%2C%22title%22%3A%22%E5%A5%B3%E4%BC%91%E9%97%B2%E9%9E%8B%22%2C%22future_mode%22%3A%220%22%2C%22product_id%22%3A%226918122898131752542%22%7D&floorId=7946&slotId=9",
+                  "business": {
+                    "type": "pcmp"
+                  },
+                  "viprouter": "viprouter://search/auto_product_list?rule_id=51470042&title=女休闲鞋&product_id=6918122898131752542&ab_test_id=&future_mode=0",
+                  "extraInfo": null,
+                  "exposure": null,
+                  "actionType": null,
+                  "data": null,
+                  "apoint": null
+                },
+                "index": "10",
+                "zindex": "47",
+                "text": "女休闲鞋",
+                "maxLines": "1",
+                "ellipsize": null,
+                "align": "center",
+                "fontSize": "24",
+                "fontFamily": null,
+                "fontColor": "#222222ff",
+                "fontLineHeight": null,
+                "strikethrough": "false",
+                "xgravity": "center",
+                "ygravity": "center"
+              },
+              "lightArtCountDown": null
+            }],
+            "groupId": null,
+            "itemList": null,
+            "slotList": null
+          }],
+          "code": "nbsy-pltj",
+          "type": "mo::slider",
+          "page": null,
+          "contentId": null,
+          "widgetSet": null,
+          "totlePage": null,
+          "column": null,
+          "protocol": null,
+          "floorType": null,
+          "widget": null
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100524219_2",
+        "data": {
+          "brand": {
+            "brand_id": "100524219",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/03/32/ias_157536673097477_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/25/68/ias_157725030035151_1135x545_85.jpg",
+            "title": "爱慕AIMER内衣&家居服专场",
+            "pms_text": "部分商品折上2.4折起",
+            "discount": "1折起",
+            "remain_days": "剩2天",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/2c9c61227368462982b1e00a4b119a6e/10000256/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100524219",
+              "target_type": "1",
+              "target_id": "100524219",
+              "brand_form": "2",
+              "brandpic": "168643896"
+            },
+            "st_ctx_expose": "0_100524219_-99_-99_-99_-99_168643896_-99",
+            "href": "viprouter://productlist/brand?brand_id=100524219&brand_name=%E7%88%B1%E6%85%95AIMER%E5%86%85%E8%A1%A3%26%E5%AE%B6%E5%B1%85%E6%9C%8D%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100524219",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100521857_2",
+        "data": {
+          "brand": {
+            "brand_id": "100521857",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/18/163/ias_157663587247478_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/20/0/ias_157682643830614_1135x545_85.jpg",
+            "title": "美国COACH&MK大牌包包专场",
+            "pms_text": "部分商品折上3.4折起",
+            "discount": "1.7折起",
+            "remain_days": "剩2天",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100521857",
+              "target_type": "1",
+              "target_id": "100521857",
+              "brand_form": "2",
+              "brandpic": "167833558"
+            },
+            "st_ctx_expose": "0_100521857_-99_-99_-99_-99_167833558_-99",
+            "href": "viprouter://productlist/brand?brand_id=100521857&brand_name=%E7%BE%8E%E5%9B%BDCOACH%26MK%E5%A4%A7%E7%89%8C%E5%8C%85%E5%8C%85%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100521857",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100527272_2",
+        "data": {
+          "brand": {
+            "brand_id": "100527272",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/79/ias_157741779081530_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/30/136/ias_157769897926079_1135x545_85.jpg",
+            "title": "法曼斯fomoce男女装专场",
+            "pms_text": "全场折上1.8折起",
+            "discount": "3.3折封顶",
+            "remain_days": "剩17时",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/02e7c1a53b4b41c9977ed146648b44d6/10012425/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100527272",
+              "target_type": "1",
+              "target_id": "100527272",
+              "brand_form": "2",
+              "brandpic": "169452207"
+            },
+            "st_ctx_expose": "0_100527272_-99_-99_-99_-99_169452207_-99",
+            "href": "viprouter://productlist/brand?brand_id=100527272&brand_name=%E6%B3%95%E6%9B%BC%E6%96%AFfomoce%E7%94%B7%E5%A5%B3%E8%A3%85%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100527272",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100476897_2",
+        "data": {
+          "brand": {
+            "brand_id": "100476897",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/30/184/ias_157769438237838_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/182/ias_157744968822026_1135x545_85.jpg",
+            "title": "知名腕表买手推荐专场",
+            "pms_text": "部分商品折上4折起",
+            "discount": "1.1折起",
+            "remain_days": "剩7天",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100476897",
+              "target_type": "1",
+              "target_id": "100476897",
+              "brand_form": "2",
+              "brandpic": "169164340"
+            },
+            "st_ctx_expose": "0_100476897_-99_-99_-99_-99_169164340_-99",
+            "href": "viprouter://productlist/brand?brand_id=100476897&brand_name=%E7%9F%A5%E5%90%8D%E8%85%95%E8%A1%A8%E4%B9%B0%E6%89%8B%E6%8E%A8%E8%8D%90%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100476897",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100530413_2",
+        "data": {
+          "brand": {
+            "brand_id": "100530413",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/29/192/ias_157758628088966_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/20/ias_157743366494054_1135x545_85.jpg",
+            "title": "梦金园珠宝--精选新年美饰特惠专场",
+            "pms_text": "部分商品折上8.5折",
+            "discount": "2折起",
+            "remain_days": "剩17时",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/edee9c3e940f42a0b2cc61199c2f8bcf/10029799/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100530413",
+              "target_type": "1",
+              "target_id": "100530413",
+              "brand_form": "2",
+              "brandpic": "169098305"
+            },
+            "st_ctx_expose": "0_100530413_-99_-99_-99_-99_169098305_-99",
+            "href": "viprouter://productlist/brand?brand_id=100530413&brand_name=%E6%A2%A6%E9%87%91%E5%9B%AD%E7%8F%A0%E5%AE%9D--%E7%B2%BE%E9%80%89%E6%96%B0%E5%B9%B4%E7%BE%8E%E9%A5%B0%E7%89%B9%E6%83%A0%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100530413",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100528206_2",
+        "data": {
+          "brand": {
+            "brand_id": "100528206",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/24/22/ias_157717808127620_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/174/ias_157743646988418_1135x545_85.jpg",
+            "title": "GXG KIDS男女童装爆款专场",
+            "pms_text": "部分商品折上3.4折起",
+            "discount": "1.2折起",
+            "remain_days": "剩1天",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7a7c3cbc3739430b955c72491161a63e/10007996/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100528206",
+              "target_type": "1",
+              "target_id": "100528206",
+              "brand_form": "2",
+              "brandpic": "169112699"
+            },
+            "st_ctx_expose": "0_100528206_-99_-99_-99_-99_169112699_-99",
+            "href": "viprouter://productlist/brand?brand_id=100528206&brand_name=GXG+KIDS%E7%94%B7%E5%A5%B3%E7%AB%A5%E8%A3%85%E7%88%86%E6%AC%BE%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100528206",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }, {
+        "floor_type": "brand",
+        "unique_id": "100514367_2",
+        "data": {
+          "brand": {
+            "brand_id": "100514367",
+            "corner_mark": [],
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/169/ias_157741451531817_1135x545_85.jpg",
+            "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/43/ias_157741750610669_1135x545_85.jpg",
+            "title": "香影xiangying冬装热卖女装专场",
+            "pms_text": "全场折上3.3折起",
+            "discount": "4.4折封顶",
+            "remain_days": "剩14天",
+            "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/00d2815f539742cc9723e15865043420/10005949/primary.png",
+            "national_flag": "",
+            "st_ctx_click": {
+              "brandType": "0",
+              "tsift": "1",
+              "channel_id": "49",
+              "channel_name": "今日推荐",
+              "brandId": "100514367",
+              "target_type": "1",
+              "target_id": "100514367",
+              "brand_form": "2",
+              "brandpic": "169034566"
+            },
+            "st_ctx_expose": "0_100514367_-99_-99_-99_-99_169034566_-99",
+            "href": "viprouter://productlist/brand?brand_id=100514367&brand_name=%E9%A6%99%E5%BD%B1xiangying%E5%86%AC%E8%A3%85%E7%83%AD%E5%8D%96%E5%A5%B3%E8%A3%85%E4%B8%93%E5%9C%BA",
+            "wormhole": {
+              "brand_id": "100514367",
+              "refer_index": "9",
+              "type": "brand_main",
+              "brand_type": "2"
+            },
+            "is_nuke": "0",
+            "topbrand_end_time": "-1",
+            "display_feedback": "0",
+            "bannerColor": "#F8F7F7"
+          },
+          "items": []
+        }
+      }]
+    }
+  }
+}

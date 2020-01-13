@@ -1,0 +1,995 @@
+{
+  "code": 1,
+  "data": {
+    "goodsBubbleShareList": [],
+    "goodsList": [
+      "6918001008100103955",
+      "6918245925746915027",
+      "6918277586354209363",
+      "6918250159696004819",
+      "6918296567487051027",
+      "6918365097823569107",
+      "6918556189930042899",
+      "6918394174624221011",
+      "6918221700412970963"
+    ],
+    "goodsRecommendList": [],
+    "items": [{
+        "goodsAvailable": "1",
+        "brandStoreId": "10032246",
+        "brandStoreName": "雪花秀",
+        "categoryId": "7477",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10032246&brand_id=1710612979",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918001008100103955",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918001008100103955",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1226/186/f5a21440-ecab-4d9e-8045-faa3c65d0ea2.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9fa06d5c88b44d28cdd55035cf5fe7c/10032246/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1226/186/f5a21440-ecab-4d9e-8045-faa3c65d0ea2.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【女神臻享】雪花秀滋盈肌本水乳精华面膜套装润颜乳液爽肤水",
+        "goodsPriceTag": {
+          "discount": "3.8折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1863",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "快抢价",
+          "priceSuffix": "",
+          "referPrice": "1016",
+          "salePrice": "700",
+          "tag": "fastPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "pmsGiftTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsGiftTips"
+          },
+          "pmsActivityTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsActivityTips"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 30,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "89",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710612979",
+        "spuId": "1310624177103769600",
+        "status": "1"
+      },
+      {
+        "goodsAvailable": "",
+        "brandStoreId": "10032246",
+        "brandStoreName": "雪花秀",
+        "categoryId": "7471",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10032246&brand_id=1710612979",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918245925746915027",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918245925746915027",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1227/153/2ec79eea-67f1-45ac-ae2f-df9014c6e990.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/16/1567393643821.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9fa06d5c88b44d28cdd55035cf5fe7c/10032246/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1227/153/2ec79eea-67f1-45ac-ae2f-df9014c6e990.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【润燥精华】雪花秀润致焕活肌底精华露60ml润燥面部精华",
+        "goodsPriceTag": {
+          "discount": "5.3折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1122",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "快抢价",
+          "priceSuffix": "",
+          "referPrice": "600",
+          "salePrice": "600",
+          "tag": "fastPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "pmsGiftTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsGiftTips"
+          },
+          "pmsActivityTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsActivityTips"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 30,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "64",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710612979",
+        "spuId": "223567864743763972",
+        "status": "1"
+      },
+      {
+        "goodsAvailable": "1",
+        "brandStoreId": "10032246",
+        "brandStoreName": "雪花秀",
+        "categoryId": "7477",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10032246&brand_id=1710612979",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918277586354209363",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918277586354209363",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1226/59/ef9930d7-bae4-4765-a9a9-173a2b8be70b.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/16/1567393643821.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9fa06d5c88b44d28cdd55035cf5fe7c/10032246/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1226/59/ef9930d7-bae4-4765-a9a9-173a2b8be70b.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【专柜爆款】雪花秀臻秀挚顔护肤套装爽肤水乳液水润滋养改善肤质",
+        "goodsPriceTag": {
+          "discount": "5.0折",
+          "fallingTagDiscount": "",
+          "marketPrice": "2930",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "快抢价",
+          "priceSuffix": "",
+          "referPrice": "1461",
+          "salePrice": "1460",
+          "tag": "fastPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "pmsGiftTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsGiftTips"
+          },
+          "pmsActivityTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsActivityTips"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 30,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "68",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710612979",
+        "spuId": "736978222262558720",
+        "status": "1"
+      },
+      {
+        "goodsAvailable": "1",
+        "brandStoreId": "10032246",
+        "brandStoreName": "雪花秀",
+        "categoryId": "1017",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10032246&brand_id=1710612979",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918250159696004819",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918250159696004819",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1014/24/9b238bde-2052-48dc-8164-3107844d2953_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9fa06d5c88b44d28cdd55035cf5fe7c/10032246/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "multiColor": {
+            "group": "rightLower",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/21/92bccb6b20574816096e8aafd910c37c-itemlist_color_icon@2x.png",
+            "sort": 1,
+            "tag": "multiColor"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1210/78/15cd9b59-bbc5-4f0b-938f-63876f603d8d.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【水乳二合一】雪花秀雪御活颜菁萃水150ml爽肤水紧致赋弹",
+        "goodsPriceTag": {
+          "discount": "5.6折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1008",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "折后价",
+          "priceSuffix": "",
+          "referPrice": "560",
+          "salePrice": "560",
+          "tag": "exclusivePrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {},
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 26,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "97",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710612979",
+        "spuId": "241300788276535297",
+        "status": "1"
+      },
+      {
+        "goodsAvailable": "",
+        "brandStoreId": "10032246",
+        "brandStoreName": "雪花秀",
+        "categoryId": "7477",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10032246&brand_id=1710612979",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918296567487051027",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918296567487051027",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1226/115/9d2d7fcb-2297-46a1-a12d-2febebd60079.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/175/1567393660571.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9fa06d5c88b44d28cdd55035cf5fe7c/10032246/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1226/115/9d2d7fcb-2297-46a1-a12d-2febebd60079.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【润燥一生推】雪花秀明星肌本护肤套装精华露爽肤水乳液保湿补水",
+        "goodsPriceTag": {
+          "discount": "7.5折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1927",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "快抢价",
+          "priceSuffix": "",
+          "referPrice": "1440",
+          "salePrice": "1440",
+          "tag": "fastPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "pmsGiftTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsGiftTips"
+          },
+          "pmsActivityTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsActivityTips"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 10,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "87",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710612979",
+        "spuId": "753303798166077440",
+        "status": "1"
+      },
+      {
+        "goodsAvailable": "1",
+        "brandStoreId": "10032246",
+        "brandStoreName": "雪花秀",
+        "categoryId": "7477",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10032246&brand_id=1710612979",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918365097823569107",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918365097823569107",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1227/40/a64b5031-0ad8-42c9-8ce5-a7571cd9c0b6.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "pdcCorner": {
+            "group": "rightUpper",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/16/1567393643821.png",
+            "sort": 1,
+            "tag": "pdcCorner"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9fa06d5c88b44d28cdd55035cf5fe7c/10032246/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "multiColor": {
+            "group": "rightLower",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/21/92bccb6b20574816096e8aafd910c37c-itemlist_color_icon@2x.png",
+            "sort": 1,
+            "tag": "multiColor"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1227/40/a64b5031-0ad8-42c9-8ce5-a7571cd9c0b6.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【人参水乳】雪花秀滋盈生人参水乳护肤套装补水保湿乳液爽肤水",
+        "goodsPriceTag": {
+          "discount": "5.7折",
+          "fallingTagDiscount": "",
+          "marketPrice": "2262",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "快抢价",
+          "priceSuffix": "",
+          "referPrice": "1300",
+          "salePrice": "1300",
+          "tag": "fastPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "pmsGiftTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsGiftTips"
+          },
+          "pmsActivityTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsActivityTips"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 10,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "63",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710612979",
+        "spuId": "732756097611898881",
+        "status": "1"
+      },
+      {
+        "goodsAvailable": "",
+        "brandStoreId": "10032246",
+        "brandStoreName": "雪花秀",
+        "categoryId": "7471",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10032246&brand_id=1710612979",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918556189930042899",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918556189930042899",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1226/95/0170b9d9-711d-455b-a8c5-4376103f6169.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9fa06d5c88b44d28cdd55035cf5fe7c/10032246/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1226/95/0170b9d9-711d-455b-a8c5-4376103f6169.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【限量版新年礼盒】雪花秀去黄保湿提亮120ml大容量打底精华",
+        "goodsPriceTag": {
+          "discount": "5.5折",
+          "fallingTagDiscount": "",
+          "marketPrice": "1772",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "快抢价",
+          "priceSuffix": "",
+          "referPrice": "980",
+          "salePrice": "980",
+          "tag": "fastPrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "pmsGiftTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsGiftTips"
+          },
+          "pmsActivityTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsActivityTips"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 30,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "90",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710612979",
+        "spuId": "721497187357650944",
+        "status": "1"
+      },
+      {
+        "goodsAvailable": "1",
+        "brandStoreId": "10032246",
+        "brandStoreName": "雪花秀",
+        "categoryId": "7477",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10032246&brand_id=1710612979",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918394174624221011",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918394174624221011",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1227/66/82b27ab3-51ba-47a3-8e3f-a7c8b034e65a_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9fa06d5c88b44d28cdd55035cf5fe7c/10032246/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/1227/106/38527a7c-be65-4a43-bbcd-7dfd37887d94.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【雪花秘盒】人气爆款面膜家族补水保湿修护 清洁毛孔滋养十长生",
+        "goodsPriceTag": {
+          "discount": "5.2折",
+          "fallingTagDiscount": "",
+          "marketPrice": "657",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "折后价",
+          "priceSuffix": "",
+          "referPrice": "399",
+          "salePrice": "339",
+          "tag": "exclusivePrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {},
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 10,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "9",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710612979",
+        "spuId": "1596321377227280384",
+        "status": "1"
+      },
+      {
+
+        "brandStoreId": "10032246",
+        "brandStoreName": "雪花秀",
+        "categoryId": "7499",
+        "goodsCampaignTags": {
+          "salesType3": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "salesType3"
+          },
+          "sales": {
+            "campaignId": "1710612979",
+            "campaignName": "唯品会好货精选",
+            "tag": "sales"
+          }
+        },
+        "goodsExtendTags": {
+          "campaignVipRouter": {
+            "msg": "viprouter://productlist/brand_landing_list?brand_store_sn=10032246&brand_id=1710612979",
+            "tag": "campaignVipRouter"
+          },
+          "goodsDetailVipRouter": {
+            "msg": "viprouter://productdetail/main?product_id=6918221700412970963",
+            "tag": "goodsDetailVipRouter"
+          }
+        },
+        "goodsId": "6918221700412970963",
+        "goodsImageTags": {
+          "image5": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/0625/158/a2f1def7-532a-47a1-9dca-bdbe79a7b800_420_531.jpg",
+            "sort": 1,
+            "tag": "image5"
+          },
+          "brandLogo1": {
+            "group": "leftUpper",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9fa06d5c88b44d28cdd55035cf5fe7c/10032246/primary.png",
+            "sort": 1,
+            "tag": "brandLogo1"
+          },
+          "squareImage1": {
+            "group": "salesQuery",
+            "image": "https://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/999999999/2019/0601/112/a625dcd5-32ed-41d3-b041-3335b385132b.jpg",
+            "sort": 1,
+            "tag": "squareImage1"
+          },
+          "goodsIsFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/66/6b16c25a83e3a0638e453d9460c0834e-itemlist_collect_pressed@2x.png",
+            "sort": 1,
+            "tag": "goodsIsFav"
+          },
+          "goodsIsNotFav": {
+            "group": "fav",
+            "image": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2019/04/03/177/464e15f11215c02248b19183d39963a2-itemlist_collect_normal@2x.png",
+            "sort": 2,
+            "tag": "goodsIsNotFav"
+          }
+        },
+        "goodsName": "【男士护肤】雪花秀男士致选礼盒强韧肌底护肤套装",
+        "goodsPriceTag": {
+          "discount": "8.5折",
+          "fallingTagDiscount": "",
+          "marketPrice": "897",
+          "ordinaryPricePrefix": "",
+          "ordinaryTag": "",
+          "pricePrefix": "折后价",
+          "priceSuffix": "",
+          "referPrice": "760",
+          "salePrice": "760",
+          "tag": "exclusivePrice",
+          "timeRange": {
+            "endTime": "0"
+          }
+        },
+        "goodsSellTags": {
+          "pmsGiftTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsGiftTips"
+          },
+          "pmsActivityTips": {
+            "group": "pms",
+            "image": "",
+            "msg": "买赠",
+            "sort": 50,
+            "tag": "pmsActivityTips"
+          }
+        },
+        "goodsStatus": "1",
+        "goodsStockTag": {
+          "fakeSaledNum": "",
+          "fakeSaledText": "",
+          "max": 10,
+          "min": 1,
+          "ptype": 0,
+          "saledPercent": "98",
+          "showStock": 11,
+          "type": 0
+        },
+        "salesId": "1710612979",
+        "spuId": "311950893542109203",
+        "status": "1"
+      }
+    ]
+  },
+  "msg": "success"
+}

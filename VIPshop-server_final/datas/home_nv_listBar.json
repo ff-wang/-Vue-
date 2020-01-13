@@ -1,0 +1,68 @@
+{
+  "code": 1,
+  "data": {
+  "items": [
+  {
+  "brand_store_sn": "10000145",
+  "name": "MO&Co."
+  },
+  {
+  "brand_store_sn": "10000812",
+  "name": "衣香丽影"
+  },
+  {
+  "brand_store_sn": "10007290",
+  "name": "伊芙丽"
+  },
+  {
+  "brand_store_sn": "10004433",
+  "name": "波司登"
+  },
+  {
+  "brand_store_sn": "10005743",
+  "name": "哥弟"
+  },
+  {
+  "brand_store_sn": "10000292",
+  "name": "百图"
+  },
+  {
+  "brand_store_sn": "10001112",
+  "name": "大嘴猴"
+  },
+  {
+  "brand_store_sn": "10004116",
+  "name": "森马"
+  },
+  {
+  "brand_store_sn": "10000956",
+  "name": "音儿"
+  },
+  {
+  "brand_store_sn": "10000957",
+  "name": "恩裳"
+  },
+  {
+  "brand_store_sn": "10016557",
+  "name": "米皇"
+  },
+  {
+  "brand_store_sn": "10004373",
+  "name": "斯尔丽"
+  },
+  {
+  "brand_store_sn": "10000955",
+  "name": "诗篇"
+  },
+  {
+  "brand_store_sn": "10012420",
+  "name": "维多拉斯"
+  },
+  {
+  "brand_store_sn": "10005540",
+  "name": "可可尼"
+  }
+  ]
+  },
+  "msg": "success"
+  }

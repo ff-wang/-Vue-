@@ -1,0 +1,682 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "items": [
+      "100511260",
+      "100530409",
+      "100511193",
+      "100451568",
+      "100525019",
+      "100527701",
+      "100524530",
+      "100517746",
+      "100524219",
+      "100523412",
+      "100494659",
+      "100530092",
+      "100527644",
+      "100524216",
+      "100530184",
+      "100530426",
+      "100530291",
+      "100523105",
+      "100530319",
+      "100521857",
+      "100476897",
+      "100476649",
+      "100524016",
+      "100470999",
+      "100514541",
+      "100487838",
+      "100494658",
+      "100513964",
+      "100478903",
+      "100511378",
+      "100522200",
+      "100521405"
+    ],
+    "brandInfo": {
+      "100451568": {
+        "activeIndexTips": "部分商品折上2.8折起",
+        "displayEndtime": 1577584800,
+        "salesNo": "100451568",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/26/183/ias_157733058360662_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/26/183/ias_157733058360662_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/26/183/ias_157733058360662.jpg",
+        "agio": "<span class=\"salebg2\">1.3</span>折起",
+        "salesName": "米皇羊绒精选好货-限时抢购专场",
+        "brandStoreSn": "10016557",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100451568.html",
+        "showTimeFrom": 1576807200,
+        "topFiveCountTime": 1577498400
+      },
+      "100470999": {
+        "activeIndexTips": "部分商品折上3.2折起",
+        "displayEndtime": 1577843940,
+        "salesNo": "100470999",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2019/12/19/11/ias_157673826141335_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2019/12/19/11/ias_157673826141335_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2019/12/19/11/ias_157673826141335.jpg",
+        "agio": "<span class=\"salebg2\">0.9</span>折起",
+        "salesName": "专柜大牌-沙驰satchi男女鞋包年终特卖专场",
+        "brandStoreSn": "10000689",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100470999.html",
+        "showTimeFrom": 1576634400,
+        "topFiveCountTime": 1577498400
+      },
+      "100476649": {
+        "activeIndexTips": "部分商品折上2.7折起",
+        "displayEndtime": 1577793600,
+        "salesNo": "100476649",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/17/130/ias_157658359411275_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/17/130/ias_157658359411275_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/17/130/ias_157658359411275.jpg",
+        "agio": "<span class=\"salebg2\">1</span>折起",
+        "salesName": "接吻猫KISSCAT集团女鞋包专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100476649.html",
+        "showTimeFrom": 1576634400,
+        "topFiveCountTime": 1577498400
+      },
+      "100476897": {
+        "activeIndexTips": "部分商品折上4折起",
+        "displayEndtime": 1577498399,
+        "salesNo": "100476897",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2019/12/24/4/ias_157717636154540_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2019/12/24/4/ias_157717636154540_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2019/12/24/4/ias_157717636154540.jpg",
+        "agio": "<span class=\"salebg2\">1.3</span>折起",
+        "salesName": "国际腕表买手推荐专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100476897.html",
+        "showTimeFrom": 1577325600,
+        "topFiveCountTime": 1577498400
+      },
+      "100478903": {
+        "activeIndexTips": "",
+        "displayEndtime": 1577793600,
+        "salesNo": "100478903",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2019/12/12/146/ias_157613475250948_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2019/12/12/146/ias_157613475250948_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2019/12/12/146/ias_157613475250948.jpg",
+        "agio": "<span class=\"salebg2\">1</span>折起",
+        "salesName": "森马Semir集团年终钜惠专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100478903.html",
+        "showTimeFrom": 1576288800,
+        "topFiveCountTime": 1577498400
+      },
+      "100487838": {
+        "activeIndexTips": "全场折上5.2折起",
+        "displayEndtime": 1577498400,
+        "salesNo": "100487838",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2019/12/23/123/ias_157708015346535_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2019/12/23/123/ias_157708015346535_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2019/12/23/123/ias_157708015346535.jpg",
+        "agio": "<span class=\"salebg2\">1.5</span>折起",
+        "salesName": "S.DEER女装专场",
+        "brandStoreSn": "10013967",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100487838.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100494658": {
+        "activeIndexTips": "部分商品折上4折起",
+        "displayEndtime": 1577635200,
+        "salesNo": "100494658",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/24/67/ias_157717781066382_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/24/67/ias_157717781066382_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/24/67/ias_157717781066382.jpg",
+        "agio": "<span class=\"salebg2\">0.7</span>折起",
+        "salesName": "彪马PUMA男女运动专场",
+        "brandStoreSn": "10000329",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100494658.html",
+        "showTimeFrom": 1577325600,
+        "topFiveCountTime": 1577498400
+      },
+      "100494659": {
+        "activeIndexTips": "全场折上4折起",
+        "displayEndtime": 1577793599,
+        "salesNo": "100494659",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/26/56/ias_157732520573921_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/26/56/ias_157732520573921_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/26/56/ias_157732520573921.jpg",
+        "agio": "<span class=\"salebg2\">1.1</span>折起",
+        "salesName": "耐克Nike男女运动专场",
+        "brandStoreSn": "10000630",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100494659.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100511193": {
+        "activeIndexTips": "部分商品折上2.5折起",
+        "displayEndtime": 1577671199,
+        "salesNo": "100511193",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2019/12/23/64/ias_157708556174695_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2019/12/23/64/ias_157708556174695_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2019/12/23/64/ias_157708556174695.jpg",
+        "agio": "<span class=\"salebg2\">0.6</span>折起",
+        "salesName": "暇步士&kenzo&armani junior&hugo boss&水孩儿-男女童专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100511193.html",
+        "showTimeFrom": 1577239200,
+        "topFiveCountTime": 1577498400
+      },
+      "100511260": {
+        "activeIndexTips": "",
+        "displayEndtime": 1577635200,
+        "salesNo": "100511260",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2019/12/27/84/ias_157741645687941_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2019/12/27/84/ias_157741645687941_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2019/12/27/84/ias_157741645687941.jpg",
+        "agio": "<span class=\"salebg2\">2.2</span>折起",
+        "salesName": "斯凯奇SKECHERS品牌专场",
+        "brandStoreSn": "10000721",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100511260.html",
+        "showTimeFrom": 1576375200,
+        "topFiveCountTime": 1577498400
+      },
+      "100511378": {
+        "activeIndexTips": "部分商品折上3折起",
+        "displayEndtime": 1577793600,
+        "salesNo": "100511378",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/26/132/ias_157734472774062_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/26/132/ias_157734472774062_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/26/132/ias_157734472774062.jpg",
+        "agio": "<span class=\"salebg2\">0.9</span>折起",
+        "salesName": "金利来goldlion男女鞋包专场",
+        "brandStoreSn": "10000466",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100511378.html",
+        "showTimeFrom": 1576634400,
+        "topFiveCountTime": 1577498400
+      },
+      "100513964": {
+        "activeIndexTips": "部分商品折上3折起",
+        "displayEndtime": 1577635200,
+        "salesNo": "100513964",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/26/199/ias_157732349342401_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/26/199/ias_157732349342401_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/26/199/ias_157732349342401.jpg",
+        "agio": "<span class=\"salebg2\">4</span>折封顶",
+        "salesName": "红豆集团保暖内衣&家居服钜惠专场",
+        "brandStoreSn": "10006562",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100513964.html",
+        "showTimeFrom": 1576202400,
+        "topFiveCountTime": 1577498400
+      },
+      "100514541": {
+        "activeIndexTips": "部分商品折上3.9折起",
+        "displayEndtime": 1579089600,
+        "salesNo": "100514541",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/12/159/ias_157615645651975_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/12/159/ias_157615645651975_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/12/159/ias_157615645651975.jpg",
+        "agio": "<span class=\"salebg2\">3.9</span>折封顶",
+        "salesName": "巴拉巴拉旗下巴帝巴帝童装",
+        "brandStoreSn": "10015023",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100514541.html",
+        "showTimeFrom": 1576202400,
+        "topFiveCountTime": 1577498400
+      },
+      "100517746": {
+        "activeIndexTips": "全场折上3.2折起",
+        "displayEndtime": 1577880000,
+        "salesNo": "100517746",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/25/107/ias_157725784568776_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/25/107/ias_157725784568776_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/25/107/ias_157725784568776.jpg",
+        "agio": "<span class=\"salebg2\">3</span>折封顶",
+        "salesName": "三彩女装爆款精选专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100517746.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100521405": {
+        "activeIndexTips": "部分商品折上1.7折起",
+        "displayEndtime": 1577635200,
+        "salesNo": "100521405",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/25/185/ias_157724643014856_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/25/185/ias_157724643014856_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/25/185/ias_157724643014856.jpg",
+        "agio": "<span class=\"salebg2\">5</span>折封顶",
+        "salesName": "骆驼CAMEL男女鞋专场",
+        "brandStoreSn": "10007920",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100521405.html",
+        "showTimeFrom": 1576634400,
+        "topFiveCountTime": 1577498400
+      },
+      "100521857": {
+        "activeIndexTips": "部分商品折上3.4折起",
+        "displayEndtime": 1577635200,
+        "salesNo": "100521857",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/20/0/ias_157682643830614_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/20/0/ias_157682643830614_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/20/0/ias_157682643830614.jpg",
+        "agio": "<span class=\"salebg2\">1.8</span>折起",
+        "salesName": "美国COACH&MK大牌包包专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100521857.html",
+        "showTimeFrom": 1576634400,
+        "topFiveCountTime": 1577498400
+      },
+      "100522200": {
+        "activeIndexTips": "",
+        "displayEndtime": 1577635200,
+        "salesNo": "100522200",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/18/59/ias_157663529386360_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/18/59/ias_157663529386360_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/18/59/ias_157663529386360.jpg",
+        "agio": "<span class=\"salebg2\">4.6</span>折封顶",
+        "salesName": "金利来goldlion爆款保暖内衣&羊毛专场",
+        "brandStoreSn": "10000466",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100522200.html",
+        "showTimeFrom": 1576634400,
+        "topFiveCountTime": 1577498400
+      },
+      "100523105": {
+        "activeIndexTips": "",
+        "displayEndtime": 1577635200,
+        "salesNo": "100523105",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/18/57/ias_157665953862114_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/18/57/ias_157665953862114_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/18/57/ias_157665953862114.jpg",
+        "agio": "<span class=\"salebg2\">1.4</span>折起",
+        "salesName": "欣贺艾薇AIVEI女装专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100523105.html",
+        "showTimeFrom": 1576720800,
+        "topFiveCountTime": 1577498400
+      },
+      "100523412": {
+        "activeIndexTips": "部分商品折上1.5折起",
+        "displayEndtime": 1580436000,
+        "salesNo": "100523412",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/27/3/ias_157741083929906_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/27/3/ias_157741083929906_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/27/3/ias_157741083929906.jpg",
+        "agio": "<span class=\"salebg2\">0.8</span>折起",
+        "salesName": "影儿时尚集团女装精选专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100523412.html",
+        "showTimeFrom": 1577066400,
+        "topFiveCountTime": 1577498400
+      },
+      "100524016": {
+        "activeIndexTips": "羽绒服低至199元",
+        "displayEndtime": 1577635200,
+        "salesNo": "100524016",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/20/112/ias_157682649792357_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/20/112/ias_157682649792357_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/20/112/ias_157682649792357.jpg",
+        "agio": "<span class=\"salebg2\">3.7</span>折封顶",
+        "salesName": "L'ALPINA阿尔皮纳袋鼠男装专场",
+        "brandStoreSn": "10021938",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100524016.html",
+        "showTimeFrom": 1576893600,
+        "topFiveCountTime": 1577498400
+      },
+      "100524216": {
+        "activeIndexTips": "部分商品折上3.5折起",
+        "displayEndtime": 1577635200,
+        "salesNo": "100524216",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2019/12/23/118/ias_157709155086933_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2019/12/23/118/ias_157709155086933_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2019/12/23/118/ias_157709155086933.jpg",
+        "agio": "<span class=\"salebg2\">1</span>折起",
+        "salesName": "GXG集团限时直降狂欢专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100524216.html",
+        "showTimeFrom": 1577239200,
+        "topFiveCountTime": 1577498400
+      },
+      "100524219": {
+        "activeIndexTips": "部分商品折上2.4折起",
+        "displayEndtime": 1577671200,
+        "salesNo": "100524219",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/25/86/ias_157725030151617_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/25/86/ias_157725030151617_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/25/86/ias_157725030151617.jpg",
+        "agio": "<span class=\"salebg2\">1</span>折起",
+        "salesName": "爱慕AIMER内衣&家居服专场",
+        "brandStoreSn": "10000256",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100524219.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100524530": {
+        "activeIndexTips": "部分商品折上3.3折起",
+        "displayEndtime": 1577757600,
+        "salesNo": "100524530",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/24/68/ias_157717464662951_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/24/68/ias_157717464662951_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/24/68/ias_157717464662951.jpg",
+        "agio": "<span class=\"salebg2\">3</span>折封顶",
+        "salesName": "卡美多Cameido女鞋专场",
+        "brandStoreSn": "10004891",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100524530.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100525019": {
+        "activeIndexTips": "",
+        "displayEndtime": 1577498399,
+        "salesNo": "100525019",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2019/12/25/9/ias_157726801077029_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2019/12/25/9/ias_157726801077029_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2019/12/25/9/ias_157726801077029.jpg",
+        "agio": "<span class=\"salebg2\">2.5</span>折起",
+        "salesName": "戴森DYSON海外生活电器专场",
+        "brandStoreSn": "10022166",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100525019.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100527644": {
+        "activeIndexTips": "部分商品折上2折起",
+        "displayEndtime": 1577793600,
+        "salesNo": "100527644",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/24/13/ias_157717369615734_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/24/13/ias_157717369615734_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/24/13/ias_157717369615734.jpg",
+        "agio": "<span class=\"salebg2\">0.7</span>折起",
+        "salesName": "百丽&他她&森达年终特卖专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100527644.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100527701": {
+        "activeIndexTips": "部分商品折上3.8折起",
+        "displayEndtime": 1577844000,
+        "salesNo": "100527701",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/26/162/ias_157732671641725_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/26/162/ias_157732671641725_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/26/162/ias_157732671641725.jpg",
+        "agio": "<span class=\"salebg2\">3.3</span>折封顶",
+        "salesName": "雪中飞男女羽绒特惠专场",
+        "brandStoreSn": "10025706",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100527701.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100530092": {
+        "activeIndexTips": "全场折上3.2折起",
+        "displayEndtime": 1577793600,
+        "salesNo": "100530092",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/27/128/ias_157740964059166_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/27/128/ias_157740964059166_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/27/128/ias_157740964059166.jpg",
+        "agio": "<span class=\"salebg2\">1.2</span>折起",
+        "salesName": "斐乐FILA&KOLON年终限时特卖专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100530092.html",
+        "showTimeFrom": 1577361600,
+        "topFiveCountTime": 1577498400
+      },
+      "100530184": {
+        "activeIndexTips": "全场折上2.5折起",
+        "displayEndtime": 1577793600,
+        "salesNo": "100530184",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/26/127/ias_157735100725875_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/26/127/ias_157735100725875_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/26/127/ias_157735100725875.jpg",
+        "agio": "<span class=\"salebg2\">1.2</span>折起",
+        "salesName": "ADIDAS 运动鞋服专场",
+        "brandStoreSn": "10000223",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100530184.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100530291": {
+        "activeIndexTips": "部分商品折上1.3折起",
+        "displayEndtime": 1577707200,
+        "salesNo": "100530291",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/26/9/ias_157735749428514_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/26/9/ias_157735749428514_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/26/9/ias_157735749428514.jpg",
+        "agio": "<span class=\"salebg2\">0.4</span>折起",
+        "salesName": "珂莱蒂尔koradior女装专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100530291.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100530319": {
+        "activeIndexTips": "全场折上4.4折起",
+        "displayEndtime": 1577843999,
+        "salesNo": "100530319",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/26/110/ias_157736007831853_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/26/110/ias_157736007831853_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/26/110/ias_157736007831853.jpg",
+        "agio": "<span class=\"salebg2\">2.2</span>折起",
+        "salesName": "MO&Co.edition女装专场",
+        "brandStoreSn": "10010012",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100530319.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100530409": {
+        "activeIndexTips": "部分商品折上5折起",
+        "displayEndtime": 1577671199,
+        "salesNo": "100530409",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2019/12/26/199/ias_157735395099328_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2019/12/26/199/ias_157735395099328_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2019/12/26/199/ias_157735395099328.jpg",
+        "agio": "<span class=\"salebg2\">5</span>折起",
+        "salesName": "六福珠宝-年末好货钜惠专场",
+        "brandStoreSn": "10010103",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100530409.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      },
+      "100530426": {
+        "activeIndexTips": "",
+        "displayEndtime": 1577757600,
+        "salesNo": "100530426",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2019/12/26/12/ias_157735689369370_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2019/12/26/12/ias_157735689369370_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2019/12/26/12/ias_157735689369370.jpg",
+        "agio": "<span class=\"salebg2\">1.5</span>折起",
+        "salesName": "波司登羽绒服-爆款集结限时闪降专场",
+        "brandStoreSn": "10004433",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [],
+        "link": "//list.vip.com/100530426.html",
+        "showTimeFrom": 1577412000,
+        "topFiveCountTime": 1577498400
+      }
+    }
+  }
+}

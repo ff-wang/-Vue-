@@ -1,0 +1,1211 @@
+{
+  "code": 1,
+  "msg": "success",
+  "data": {
+    "data": {
+      "load_more_method": "post",
+      "load_more_token": "eyJjaGFubmVsX2lkIjoiNTMiLCJ0c2lmdCI6IjAiLCJicmFuZF9vZmZzZXQiOiIzMCIsImJyYW5kX3JlZmVyX2luZGV4IjoiNyIsInRvcGljX2dyb3VwIjoiMCJ9",
+      "floor_list": [{
+          "floor_type": "brand",
+          "unique_id": "100515303_2",
+          "data": {
+            "brand": {
+              "brand_id": "100515303",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/50/ias_4b4e2398-0826-4db2-8cbb-a72fffa18198_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/28/162/ias_cd44b324-8168-4648-9441-5cab24602362_1135x545_85.jpg",
+              "title": "JNBY BY JNBY女童装精选专场",
+              "discount": "1.8折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/51706b88d0ab45bdaf606b06aabcef42/10006263/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100515303",
+                "target_type": "1",
+                "target_id": "100515303",
+                "brand_form": "2",
+                "brandpic": "163282483"
+              },
+              "st_ctx_expose": "0_100515303_-99_-99_-99_-99_163282483_-99",
+              "href": "viprouter://productlist/brand?brand_id=100515303&brand_name=JNBY+BY+JNBY女童装精选专场",
+              "wormhole": {
+                "brand_id": "100515303",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100327230_2",
+          "data": {
+            "brand": {
+              "brand_id": "100327230",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/23/89/ias_1a9642a0-547a-4052-9531-ce1a67927d6a_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/12/114/ias_ba939eef-8a89-4fca-80f0-5b2bbfdd2fee_1135x545_85.jpg",
+              "title": "Jordan童装特卖专场",
+              "discount": "6折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8f83e4efd4004ed4a7c16e7cb4a37aa7/10012552/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100327230",
+                "target_type": "1",
+                "target_id": "100327230",
+                "brand_form": "2",
+                "brandpic": "166378842"
+              },
+              "st_ctx_expose": "0_100327230_-99_-99_-99_-99_166378842_-99",
+              "href": "viprouter://productlist/brand?brand_id=100327230&brand_name=Jordan童装特卖专场",
+              "wormhole": {
+                "brand_id": "100327230",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100402349_2",
+          "data": {
+            "brand": {
+              "brand_id": "100402349",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/12/100/ias_99acd141-8df0-4c10-bb9f-2a6320d03f3e_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/12/179/ias_7c124549-ac22-460d-9a98-d5dade735035_1135x545_85.jpg",
+              "title": "ROBERTA DI CAMERINO女童装品质专场",
+              "discount": "4.2折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/989b4fff914248bf9499a11bf2a65726/10000638/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100402349",
+                "target_type": "1",
+                "target_id": "100402349",
+                "brand_form": "2",
+                "brandpic": "166412839"
+              },
+              "st_ctx_expose": "0_100402349_-99_-99_-99_-99_166412839_-99",
+              "href": "viprouter://productlist/brand?brand_id=100402349&brand_name=ROBERTA+DI+CAMERINO女童装品质专场",
+              "wormhole": {
+                "brand_id": "100402349",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100315539_2",
+          "data": {
+            "brand": {
+              "brand_id": "100315539",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/18/132/ias_9f516e6c-1edc-444c-af44-3ee51a8b2e55_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/18/194/ias_db2944f7-fc3f-4c14-8f0e-694c2cc12099_1135x545_85.jpg",
+              "title": "CICIE女童装专场",
+              "discount": "2折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/68ad4105d1cb407da5a8ea464d36def9/10029902/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100315539",
+                "target_type": "1",
+                "target_id": "100315539",
+                "brand_form": "2",
+                "brandpic": "167376952"
+              },
+              "st_ctx_expose": "0_100315539_-99_-99_-99_-99_167376952_-99",
+              "href": "viprouter://productlist/brand?brand_id=100315539&brand_name=CICIE女童装专场",
+              "wormhole": {
+                "brand_id": "100315539",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100327083_2",
+          "data": {
+            "brand": {
+              "brand_id": "100327083",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/61/ias_d633fa09-2f23-4d63-8255-f528720e359b_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/17/ias_75965947-5c73-4202-9bda-eeb0371c4d77_1135x545_85.jpg",
+              "title": "dme·kids男女童装品质专场",
+              "discount": "3.8折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/9ae544d698bf486e97ac26df47868253/10035710/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100327083",
+                "target_type": "1",
+                "target_id": "100327083",
+                "brand_form": "2",
+                "brandpic": "161962124"
+              },
+              "st_ctx_expose": "0_100327083_-99_-99_-99_-99_161962124_-99",
+              "href": "viprouter://productlist/brand?brand_id=100327083&brand_name=dme·kids男女童装品质专场",
+              "wormhole": {
+                "brand_id": "100327083",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100515339_2",
+          "data": {
+            "brand": {
+              "brand_id": "100515339",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/81/ias_a91b5bd9-94b4-4e7a-9bb1-f464ed35a1e4_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/173/ias_01ef176e-2b1e-44f7-a4cf-3021f8e347ea_1135x545_85.jpg",
+              "title": "E-LAND KIDS男女童装特卖专场",
+              "discount": "2.2折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/af8cf9de2af54c8899f3a8ac51a2a242/10020078/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100515339",
+                "target_type": "1",
+                "target_id": "100515339",
+                "brand_form": "2",
+                "brandpic": "161957792"
+              },
+              "st_ctx_expose": "0_100515339_-99_-99_-99_-99_161957792_-99",
+              "href": "viprouter://productlist/brand?brand_id=100515339&brand_name=E-LAND+KIDS男女童装特卖专场",
+              "wormhole": {
+                "brand_id": "100515339",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100359618_2",
+          "data": {
+            "brand": {
+              "brand_id": "100359618",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/07/85/ias_9986bd36-8f9f-41a0-adeb-cfea0c2954d2_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/07/100/ias_15639343-e50d-41ee-bb3b-3bfd76ea9d55_1135x545_85.jpg",
+              "title": "法国KENZO童装暖冬特卖专场",
+              "pms_text": "部分商品折上3.4折起",
+              "discount": "1.2折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/0f0f14fefaa7424bab3e85ccf45b5ede/10014329/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100359618",
+                "target_type": "1",
+                "target_id": "100359618",
+                "brand_form": "2",
+                "brandpic": "165451184"
+              },
+              "st_ctx_expose": "0_100359618_-99_-99_-99_-99_165451184_-99",
+              "href": "viprouter://productlist/brand?brand_id=100359618&brand_name=法国KENZO童装暖冬特卖专场",
+              "wormhole": {
+                "brand_id": "100359618",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100383112_2",
+          "data": {
+            "brand": {
+              "brand_id": "100383112",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/53/ias_7791e1e5-cf56-40e0-b5fe-47fe8382b5aa_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/53/ias_7791e1e5-cf56-40e0-b5fe-47fe8382b5aa_1135x545_85.jpg",
+              "title": "未来之星童装品质专场",
+              "discount": "5折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/716e80ee284749028450e2a64a818220/10012724/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100383112",
+                "target_type": "1",
+                "target_id": "100383112",
+                "brand_form": "2",
+                "brandpic": "161967760"
+              },
+              "st_ctx_expose": "0_100383112_-99_-99_-99_-99_161967760_-99",
+              "href": "viprouter://productlist/brand?brand_id=100383112&brand_name=未来之星童装品质专场",
+              "wormhole": {
+                "brand_id": "100383112",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100315630_2",
+          "data": {
+            "brand": {
+              "brand_id": "100315630",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/28/51/ias_1778c763-2d39-4d17-894e-6d9487a28265_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/31/4/ias_30b38e6d-b02a-4ac8-8bc8-d29186618120_1135x545_85.jpg",
+              "title": "8ēM男女童装特卖专场",
+              "pms_text": "部分商品折上5.3折起",
+              "discount": "2.1折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/a8706ddd88b8471a92ac35c80fda0727/10035816/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100315630",
+                "target_type": "1",
+                "target_id": "100315630",
+                "brand_form": "2",
+                "brandpic": "157150141"
+              },
+              "st_ctx_expose": "0_100315630_-99_-99_-99_-99_157150141_-99",
+              "href": "viprouter://productlist/brand?brand_id=100315630&brand_name=8ēM男女童装特卖专场",
+              "wormhole": {
+                "brand_id": "100315630",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100382882_2",
+          "data": {
+            "brand": {
+              "brand_id": "100382882",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/10/91/ias_98951a88-10a4-4e34-a937-876dfe273bc1_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/05/3/ias_ed2c1585-0fa5-48ba-8342-d1e38ebb3656_1135x545_85.jpg",
+              "title": "MY LITTLE PONY女童装专场",
+              "discount": "0.9折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/ea45864ec3e34020b41a6d74346800d7/10028492/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100382882",
+                "target_type": "1",
+                "target_id": "100382882",
+                "brand_form": "2",
+                "brandpic": "164927417"
+              },
+              "st_ctx_expose": "0_100382882_-99_-99_-99_-99_164927417_-99",
+              "href": "viprouter://productlist/brand?brand_id=100382882&brand_name=MY+LITTLE+PONY女童装专场",
+              "wormhole": {
+                "brand_id": "100382882",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100515335_2",
+          "data": {
+            "brand": {
+              "brand_id": "100515335",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/09/4/ias_d6317012-a25d-49a7-bac1-963b0b641ea6_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/09/171/ias_f3f679a3-3565-47f5-a5b3-67bb9f30d6ac_1135x545_85.jpg",
+              "title": "快活熊女童装精选专场",
+              "discount": "4.9折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/496d833ae32a4033942bbda397cdaff5/10031211/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100515335",
+                "target_type": "1",
+                "target_id": "100515335",
+                "brand_form": "2",
+                "brandpic": "165788857"
+              },
+              "st_ctx_expose": "0_100515335_-99_-99_-99_-99_165788857_-99",
+              "href": "viprouter://productlist/brand?brand_id=100515335&brand_name=快活熊女童装精选专场",
+              "wormhole": {
+                "brand_id": "100515335",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100328746_2",
+          "data": {
+            "brand": {
+              "brand_id": "100328746",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/04/11/ias_be9e0cf9-4e16-454a-b429-85b1ed090343_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/28/126/ias_bb4c3809-570a-4332-bd40-314beb88a6be_1135x545_85.jpg",
+              "title": "Fred&Ginger男女童装精选专场",
+              "discount": "4.4折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/459de563bfab462db0ebb19413cb3df4/10033458/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100328746",
+                "target_type": "1",
+                "target_id": "100328746",
+                "brand_form": "2",
+                "brandpic": "163283880"
+              },
+              "st_ctx_expose": "0_100328746_-99_-99_-99_-99_163283880_-99",
+              "href": "viprouter://productlist/brand?brand_id=100328746&brand_name=Fred&Ginger男女童装精选专场",
+              "wormhole": {
+                "brand_id": "100328746",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100405262_2",
+          "data": {
+            "brand": {
+              "brand_id": "100405262",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/25/99/ias_157723747386044_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/08/177/ias_157049918739448_1135x545_85.jpg",
+              "title": "milkmile婴幼服饰专场",
+              "discount": "4.8折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/af6b893fe17f4c508125c1e70aa3fa19/10038596/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100405262",
+                "target_type": "1",
+                "target_id": "100405262",
+                "brand_form": "2",
+                "brandpic": "120216554"
+              },
+              "st_ctx_expose": "0_100405262_-99_-99_-99_-99_120216554_-99",
+              "href": "viprouter://productlist/brand?brand_id=100405262&brand_name=milkmile婴幼服饰专场",
+              "wormhole": {
+                "brand_id": "100405262",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100480534_2",
+          "data": {
+            "brand": {
+              "brand_id": "100480534",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/19/88/ias_ef49c1ce-9769-46d6-8119-1013882fbdbf_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/28/78/ias_6e1b7fb0-9508-4614-8e7e-db6b7e543d99_1135x545_85.jpg",
+              "title": "Paw in Paw童装专场",
+              "discount": "2.6折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/bc18ffb940c740759f32387761002677/10020077/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100480534",
+                "target_type": "1",
+                "target_id": "100480534",
+                "brand_form": "2",
+                "brandpic": "163215468"
+              },
+              "st_ctx_expose": "0_100480534_-99_-99_-99_-99_163215468_-99",
+              "href": "viprouter://productlist/brand?brand_id=100480534&brand_name=Paw+in++Paw童装专场",
+              "wormhole": {
+                "brand_id": "100480534",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100515124_2",
+          "data": {
+            "brand": {
+              "brand_id": "100515124",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/27/153/ias_e6f17e62-9f09-4e6c-a8f4-432a7dfd4a7b_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/27/67/ias_a3b3f335-d1b6-4fae-bdc9-1f41ec266779_1135x545_85.jpg",
+              "title": "little MO&Co.男女童装品质专场",
+              "discount": "2.3折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7e9f28dd4f654b8a8623116f2e31bba9/10028187/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100515124",
+                "target_type": "1",
+                "target_id": "100515124",
+                "brand_form": "2",
+                "brandpic": "162721855"
+              },
+              "st_ctx_expose": "0_100515124_-99_-99_-99_-99_162721855_-99",
+              "href": "viprouter://productlist/brand?brand_id=100515124&brand_name=little+MO&Co.男女童装品质专场",
+              "wormhole": {
+                "brand_id": "100515124",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100493037_2",
+          "data": {
+            "brand": {
+              "brand_id": "100493037",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/31/124/ias_6fd75811-0808-4004-a748-9b45a640232e_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/31/184/ias_e4eaaa4d-1cd2-4e3c-9116-814d55f866c0_1135x545_85.jpg",
+              "title": "乐高Lego积木拼插精选专场",
+              "discount": "5.3折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/0d17b54ce64a46c5a2f382e1d8252200/10000536/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100493037",
+                "target_type": "1",
+                "target_id": "100493037",
+                "brand_form": "2",
+                "brandpic": "157148486"
+              },
+              "st_ctx_expose": "0_100493037_-99_-99_-99_-99_157148486_-99",
+              "href": "viprouter://productlist/brand?brand_id=100493037&brand_name=乐高Lego积木拼插精选专场",
+              "wormhole": {
+                "brand_id": "100493037",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100515136_2",
+          "data": {
+            "brand": {
+              "brand_id": "100515136",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/90/ias_0de9f037-6579-41d1-9bd3-18626e0aff86_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/28/161/ias_ee60853c-dba5-4ece-a37d-38efe19bfad4_1135x545_85.jpg",
+              "title": "马拉丁M.LATIN男女童装特卖专场",
+              "discount": "1.9折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/981648998317405e8ec44c787ac30050/10007979/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100515136",
+                "target_type": "1",
+                "target_id": "100515136",
+                "brand_form": "2",
+                "brandpic": "163208223"
+              },
+              "st_ctx_expose": "0_100515136_-99_-99_-99_-99_163208223_-99",
+              "href": "viprouter://productlist/brand?brand_id=100515136&brand_name=马拉丁M.LATIN男女童装特卖专场",
+              "wormhole": {
+                "brand_id": "100515136",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100382341_2",
+          "data": {
+            "brand": {
+              "brand_id": "100382341",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/11/37/ias_a2e3d922-1f8d-4673-aae3-f0e723244613_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/11/37/ias_a2e3d922-1f8d-4673-aae3-f0e723244613_1135x545_85.jpg",
+              "title": "LEVI'S特卖专场",
+              "discount": "2.5折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/a2decbeba7a34d7986e93ae1607a68c0/10000127/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100382341",
+                "target_type": "1",
+                "target_id": "100382341",
+                "brand_form": "2",
+                "brandpic": "165972504"
+              },
+              "st_ctx_expose": "0_100382341_-99_-99_-99_-99_165972504_-99",
+              "href": "viprouter://productlist/brand?brand_id=100382341&brand_name=LEVI'S特卖专场",
+              "wormhole": {
+                "brand_id": "100382341",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100528470_2",
+          "data": {
+            "brand": {
+              "brand_id": "100528470",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/03/88/ias_448c5311-7d9c-499b-b45b-b07f5f63ac2f_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/03/88/ias_448c5311-7d9c-499b-b45b-b07f5f63ac2f_1135x545_85.jpg",
+              "title": "乖乖熊运动户外暖冬特卖专场",
+              "discount": "5折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/9444a6c16c8a49439b4a4d61d2166779/10016129/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100528470",
+                "target_type": "1",
+                "target_id": "100528470",
+                "brand_form": "2",
+                "brandpic": "164627058"
+              },
+              "st_ctx_expose": "0_100528470_-99_-99_-99_-99_164627058_-99",
+              "href": "viprouter://productlist/brand?brand_id=100528470&brand_name=乖乖熊运动户外暖冬特卖专场",
+              "wormhole": {
+                "brand_id": "100528470",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100325134_2",
+          "data": {
+            "brand": {
+              "brand_id": "100325134",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/52/ias_16099b43-2685-4109-849d-1e3c5da41749_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/78/ias_a16794ad-af0d-414c-9b18-71ceec3f572d_1135x545_85.jpg",
+              "title": "babycare母婴用品特卖专场",
+              "discount": "5折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/1898cfbeb328421ab17b8937bb0e9aa3/10027344/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100325134",
+                "target_type": "1",
+                "target_id": "100325134",
+                "brand_form": "2",
+                "brandpic": "162082030"
+              },
+              "st_ctx_expose": "0_100325134_-99_-99_-99_-99_162082030_-99",
+              "href": "viprouter://productlist/brand?brand_id=100325134&brand_name=babycare母婴用品特卖专场",
+              "wormhole": {
+                "brand_id": "100325134",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100327199_2",
+          "data": {
+            "brand": {
+              "brand_id": "100327199",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/48/ias_5e1a9809-06a8-4088-a200-78b5e46c2f34_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/82/ias_b37b171d-fe7e-4d6e-9a43-ef7ab7257cf3_1135x545_85.jpg",
+              "title": "Petit main童装品质专场",
+              "discount": "2.9折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b2e61e82f0994e31bf2e061f230c7ff4/10036667/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100327199",
+                "target_type": "1",
+                "target_id": "100327199",
+                "brand_form": "2",
+                "brandpic": "161951608"
+              },
+              "st_ctx_expose": "0_100327199_-99_-99_-99_-99_161951608_-99",
+              "href": "viprouter://productlist/brand?brand_id=100327199&brand_name=Petit+main童装品质专场",
+              "wormhole": {
+                "brand_id": "100327199",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100484769_2",
+          "data": {
+            "brand": {
+              "brand_id": "100484769",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/29/157/ias_53bd56df-6914-4619-bc91-3e21aefe93eb_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/29/75/ias_9ef2e97c-e3e5-4cdb-8577-e6b89c443266_1135x545_85.jpg",
+              "title": "马卡乐MARCOLOR童装童鞋品质专场",
+              "discount": "3.6折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/4abcf473bd4e42459b125eaa29276aa9/10027541/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100484769",
+                "target_type": "1",
+                "target_id": "100484769",
+                "brand_form": "2",
+                "brandpic": "163509914"
+              },
+              "st_ctx_expose": "0_100484769_-99_-99_-99_-99_163509914_-99",
+              "href": "viprouter://productlist/brand?brand_id=100484769&brand_name=马卡乐MARCOLOR童装童鞋品质专场",
+              "wormhole": {
+                "brand_id": "100484769",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100517114_2",
+          "data": {
+            "brand": {
+              "brand_id": "100517114",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/02/21/ias_b656460e-45af-4c24-8491-c7096661d138_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/02/65/ias_b1b6518b-53d2-4493-aaca-2adf8738b598_1135x545_85.jpg",
+              "title": "哈·贝比/英氏/戴维贝拉等哈衣/爬服专场",
+              "discount": "0.7折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100517114",
+                "target_type": "1",
+                "target_id": "100517114",
+                "brand_form": "2",
+                "brandpic": "164350444"
+              },
+              "st_ctx_expose": "0_100517114_-99_-99_-99_-99_164350444_-99",
+              "href": "viprouter://productlist/brand?brand_id=100517114&brand_name=哈·贝比/英氏/戴维贝拉等哈衣/爬服专场",
+              "wormhole": {
+                "brand_id": "100517114",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100327215_2",
+          "data": {
+            "brand": {
+              "brand_id": "100327215",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/15/77/ias_cc595d38-3181-453a-9a32-223a5a4fae33_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/28/93/ias_6f03c7ea-f14a-4561-978c-f0773ced0035_1135x545_85.jpg",
+              "title": "Kappa Kids童装童鞋专场",
+              "discount": "3折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/1fe896291201473181d4d5ade6653865/10013819/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100327215",
+                "target_type": "1",
+                "target_id": "100327215",
+                "brand_form": "2",
+                "brandpic": "163230967"
+              },
+              "st_ctx_expose": "0_100327215_-99_-99_-99_-99_163230967_-99",
+              "href": "viprouter://productlist/brand?brand_id=100327215&brand_name=Kappa+Kids童装童鞋专场",
+              "wormhole": {
+                "brand_id": "100327215",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100316491_2",
+          "data": {
+            "brand": {
+              "brand_id": "100316491",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/27/159/ias_daaa2f5c-7b58-4ecd-bc82-0156a88c7ac0_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/27/134/ias_15d3c5e7-086d-4880-96c6-3fcadc587522_1135x545_85.jpg",
+              "title": "爱法贝Alphabet男女童装精选专场",
+              "discount": "4折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/60a6b826014e4df2a4427cd46b85382c/10004911/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100316491",
+                "target_type": "1",
+                "target_id": "100316491",
+                "brand_form": "2",
+                "brandpic": "162817947"
+              },
+              "st_ctx_expose": "0_100316491_-99_-99_-99_-99_162817947_-99",
+              "href": "viprouter://productlist/brand?brand_id=100316491&brand_name=爱法贝Alphabet男女童装精选专场",
+              "wormhole": {
+                "brand_id": "100316491",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100404214_2",
+          "data": {
+            "brand": {
+              "brand_id": "100404214",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/21/191/ias_157164049989739_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/21/39/ias_157164049968465_1135x545_85.jpg",
+              "title": "kids.ing/江博士/ginoble童鞋专场",
+              "discount": "2折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100404214",
+                "target_type": "1",
+                "target_id": "100404214",
+                "brand_form": "2",
+                "brandpic": "147350858"
+              },
+              "st_ctx_expose": "0_100404214_-99_-99_-99_-99_147350858_-99",
+              "href": "viprouter://productlist/brand?brand_id=100404214&brand_name=kids.ing/江博士/ginoble童鞋专场",
+              "wormhole": {
+                "brand_id": "100404214",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100328429_2",
+          "data": {
+            "brand": {
+              "brand_id": "100328429",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/10/ias_46e8ea9d-1b22-477d-8d30-fb9c763260ff_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/10/ias_46e8ea9d-1b22-477d-8d30-fb9c763260ff_1135x545_85.jpg",
+              "title": "史努比SNOOPY童装专场",
+              "discount": "5折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/e319647f8a794f6fac0e53a7bfbc4be3/10000708/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100328429",
+                "target_type": "1",
+                "target_id": "100328429",
+                "brand_form": "2",
+                "brandpic": "161960830"
+              },
+              "st_ctx_expose": "0_100328429_-99_-99_-99_-99_161960830_-99",
+              "href": "viprouter://productlist/brand?brand_id=100328429&brand_name=史努比SNOOPY童装专场",
+              "wormhole": {
+                "brand_id": "100328429",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100380284_2",
+          "data": {
+            "brand": {
+              "brand_id": "100380284",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/141/ias_3f4e5174-8417-48d5-9af4-cf3f60e0f163_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/47/ias_07b5758a-5474-4e10-af04-726f6d52e1f6_1135x545_85.jpg",
+              "title": "HUGO BOSS品质专场",
+              "discount": "1折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/2cfc41a7d9fa4e0cb66515d39d0cadd6/10000090/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100380284",
+                "target_type": "1",
+                "target_id": "100380284",
+                "brand_form": "2",
+                "brandpic": "162426046"
+              },
+              "st_ctx_expose": "0_100380284_-99_-99_-99_-99_162426046_-99",
+              "href": "viprouter://productlist/brand?brand_id=100380284&brand_name=HUGO+BOSS品质专场",
+              "wormhole": {
+                "brand_id": "100380284",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100315634_2",
+          "data": {
+            "brand": {
+              "brand_id": "100315634",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/20/119/ias_01de3430-ecea-4ae7-b0f1-39be0a306784_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/20/39/ias_8a0c7ef3-406e-4467-a246-1fb90c030b9a_1135x545_85.jpg",
+              "title": "瓢虫之家男女童装特卖专场",
+              "discount": "3.6折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/c43496a730784a09a6d3766838465988/10024692/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100315634",
+                "target_type": "1",
+                "target_id": "100315634",
+                "brand_form": "2",
+                "brandpic": "167920639"
+              },
+              "st_ctx_expose": "0_100315634_-99_-99_-99_-99_167920639_-99",
+              "href": "viprouter://productlist/brand?brand_id=100315634&brand_name=瓢虫之家男女童装特卖专场",
+              "wormhole": {
+                "brand_id": "100315634",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100315971_2",
+          "data": {
+            "brand": {
+              "brand_id": "100315971",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/20/169/ias_b9dda46e-80e1-47ff-a49f-b8ade35fb124_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/13/122/ias_c4ff4b84-cb50-4d9d-a334-d1bb43a50ee6_1135x545_85.jpg",
+              "title": "JELISPOON婴幼服饰品质专场",
+              "discount": "2.1折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/5757cd4569534526ab4c3e09a22fb403/10020703/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "53",
+                "channel_name": "母婴",
+                "brandId": "100315971",
+                "target_type": "1",
+                "target_id": "100315971",
+                "brand_form": "2",
+                "brandpic": "166530098"
+              },
+              "st_ctx_expose": "0_100315971_-99_-99_-99_-99_166530098_-99",
+              "href": "viprouter://productlist/brand?brand_id=100315971&brand_name=JELISPOON婴幼服饰品质专场",
+              "wormhole": {
+                "brand_id": "100315971",
+                "refer_index": "7",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        }
+      ]
+    }
+  }
+}

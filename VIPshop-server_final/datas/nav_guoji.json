@@ -1,0 +1,1197 @@
+{
+  "code": 1,
+  "msg": "success",
+  "data": {
+    "data": {
+      "load_more_method": "post",
+      "load_more_token": "eyJjaGFubmVsX2lkIjoiNjIiLCJ0c2lmdCI6IjAiLCJicmFuZF9vZmZzZXQiOiIzMCIsImJyYW5kX3JlZmVyX2luZGV4IjoiOSIsInRvcGljX2dyb3VwIjoiMCJ9",
+      "floor_list": [{
+          "floor_type": "brand",
+          "unique_id": "100296824_2",
+          "data": {
+            "brand": {
+              "brand_id": "100296824",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/28/167/ias_122c6e5b-3866-433b-8f6f-c45361445cb2_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/28/178/ias_0e0e3cdb-c663-45c3-b7b0-e9608a2428d2_1135x545_85.jpg",
+              "title": "悦诗风吟Innisfree护肤彩妆专场",
+              "discount": "5.8折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/affe512985844dc8a9388891c210f5fc/10020735/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100296824",
+                "target_type": "1",
+                "target_id": "100296824",
+                "brand_form": "2",
+                "brandpic": "163271319"
+              },
+              "st_ctx_expose": "0_100296824_-99_-99_-99_-99_163271319_-99",
+              "href": "viprouter://productlist/brand?brand_id=100296824&brand_name=悦诗风吟Innisfree护肤彩妆专场",
+              "wormhole": {
+                "brand_id": "100296824",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100339045_2",
+          "data": {
+            "brand": {
+              "brand_id": "100339045",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/25/102/ias_8b450dbb-107d-4137-b502-1075e41f3e1b_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/13/83/ias_4d22f119-c867-41e4-b8c3-06e1f594f099_1135x545_85.jpg",
+              "title": "coach/万宝龙男包专场",
+              "discount": "1.8折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100339045",
+                "target_type": "1",
+                "target_id": "100339045",
+                "brand_form": "2",
+                "brandpic": "159590265"
+              },
+              "st_ctx_expose": "0_100339045_-99_-99_-99_-99_159590265_-99",
+              "href": "viprouter://productlist/brand?brand_id=100339045&brand_name=coach/万宝龙男包专场",
+              "wormhole": {
+                "brand_id": "100339045",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100296705_2",
+          "data": {
+            "brand": {
+              "brand_id": "100296705",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/190/ias_e7c34553-f85c-4650-baf0-9d6f8fc9dc91_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/16/142/ias_406b6140-afe8-4612-8b52-3279b46be514_1135x545_85.jpg",
+              "title": "施华洛世奇珠宝饰品精选专场",
+              "discount": "2.1折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/d1984bca03ff4eaf8eff34b40ff652c3/10000702/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100296705",
+                "target_type": "1",
+                "target_id": "100296705",
+                "brand_form": "2",
+                "brandpic": "136817317"
+              },
+              "st_ctx_expose": "0_100296705_-99_-99_-99_-99_136817317_-99",
+              "href": "viprouter://productlist/brand?brand_id=100296705&brand_name=施华洛世奇珠宝饰品精选专场",
+              "wormhole": {
+                "brand_id": "100296705",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100295764_2",
+          "data": {
+            "brand": {
+              "brand_id": "100295764",
+              "corner_mark": [],
+              "image": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2018/08/03/184/1533282800983_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/08/30/103/ias_e735e675-ae44-4062-8f3d-a6ad2519e8d9_1135x545_85.jpg",
+              "title": "迪奥Dior彩妆品质专场",
+              "discount": "4.8折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/4edb5eebc43743e7916ee1f8ee810c64/10000359/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100295764",
+                "target_type": "1",
+                "target_id": "100295764",
+                "brand_form": "2",
+                "brandpic": ""
+              },
+              "st_ctx_expose": "0_100295764_-99_-99_-99_-99__-99",
+              "href": "viprouter://productlist/brand?brand_id=100295764&brand_name=迪奥Dior彩妆品质专场",
+              "wormhole": {
+                "brand_id": "100295764",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100466981_2",
+          "data": {
+            "brand": {
+              "brand_id": "100466981",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/143/ias_041f8eca-c858-49bd-bacc-f62ba0941baf_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/24/68/ias_fb823041-4542-4a79-aa8b-463942d615ad_1135x545_85.jpg",
+              "title": "apm MONACO珠宝饰品精选专场",
+              "discount": "2.1折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/171ac6db3142486b9ee4ed46e218d0ad/10030950/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100466981",
+                "target_type": "1",
+                "target_id": "100466981",
+                "brand_form": "2",
+                "brandpic": "168541338"
+              },
+              "st_ctx_expose": "0_100466981_-99_-99_-99_-99_168541338_-99",
+              "href": "viprouter://productlist/brand?brand_id=100466981&brand_name=apm+MONACO珠宝饰品精选专场",
+              "wormhole": {
+                "brand_id": "100466981",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100296809_2",
+          "data": {
+            "brand": {
+              "brand_id": "100296809",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/12/106/ias_59b8fe78-ab55-4311-8134-3ec84fb074a4_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/15/12/ias_cee85ca8-7c6d-4998-8640-38908a7baa1f_1135x545_85.jpg",
+              "title": "法国娇兰Guerlain护肤彩妆专场",
+              "discount": "5.6折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/d54fa58d9e74434ca6907b34f0ff1c13/10000454/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100296809",
+                "target_type": "1",
+                "target_id": "100296809",
+                "brand_form": "2",
+                "brandpic": "134912378"
+              },
+              "st_ctx_expose": "0_100296809_-99_-99_-99_-99_134912378_-99",
+              "href": "viprouter://productlist/brand?brand_id=100296809&brand_name=法国娇兰Guerlain护肤彩妆专场",
+              "wormhole": {
+                "brand_id": "100296809",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100424330_2",
+          "data": {
+            "brand": {
+              "brand_id": "100424330",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/13/51/ias_395a813b-599e-47ac-8984-0680001a733a_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/16/141/ias_4614bdf3-1d3a-4ab9-8904-93433d670bd5_1135x545_85.jpg",
+              "title": "德国HECH营养食品特卖专场",
+              "discount": "2.9折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/65d034ed716344b7a7d310d5d03b1fa6/10028243/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100424330",
+                "target_type": "1",
+                "target_id": "100424330",
+                "brand_form": "2",
+                "brandpic": "136592262"
+              },
+              "st_ctx_expose": "0_100424330_-99_-99_-99_-99_136592262_-99",
+              "href": "viprouter://productlist/brand?brand_id=100424330&brand_name=德国HECH营养食品特卖专场",
+              "wormhole": {
+                "brand_id": "100424330",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100296795_2",
+          "data": {
+            "brand": {
+              "brand_id": "100296795",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/03/44/ias_76cead6f-4128-4380-a60d-f61de8ca7341_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/16/111/ias_5032e710-0519-48bc-a410-3d201fc5dd32_1135x545_85.jpg",
+              "title": "虎牌/ZOJIRUSHI水壶水杯专场",
+              "discount": "2.6折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100296795",
+                "target_type": "1",
+                "target_id": "100296795",
+                "brand_form": "2",
+                "brandpic": "136860645"
+              },
+              "st_ctx_expose": "0_100296795_-99_-99_-99_-99_136860645_-99",
+              "href": "viprouter://productlist/brand?brand_id=100296795&brand_name=虎牌/ZOJIRUSHI水壶水杯专场",
+              "wormhole": {
+                "brand_id": "100296795",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100484654_2",
+          "data": {
+            "brand": {
+              "brand_id": "100484654",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/07/39/ias_3229575b-7e5b-4087-b93c-70aca2334cb9_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/07/63/ias_5f3eb2f2-3f3a-4fdb-85cc-c8437d569c7c_1135x545_85.jpg",
+              "title": "Armani/BURBERRY等男性香水专场",
+              "discount": "2.4折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100484654",
+                "target_type": "1",
+                "target_id": "100484654",
+                "brand_form": "2",
+                "brandpic": "165443186"
+              },
+              "st_ctx_expose": "0_100484654_-99_-99_-99_-99_165443186_-99",
+              "href": "viprouter://productlist/brand?brand_id=100484654&brand_name=Armani/BURBERRY等男性香水专场",
+              "wormhole": {
+                "brand_id": "100484654",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100424345_2",
+          "data": {
+            "brand": {
+              "brand_id": "100424345",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/10/6/ias_2a7ba19b-e307-42be-b997-8f8bf9760017_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/15/179/ias_202e0736-c054-454d-8e4c-2e2e53829b41_1135x545_85.jpg",
+              "title": "日本POLA精选专场",
+              "discount": "6.4折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/68a0b02ff7444f128672f03e6555ecd6/10028663/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100424345",
+                "target_type": "1",
+                "target_id": "100424345",
+                "brand_form": "2",
+                "brandpic": "135464387"
+              },
+              "st_ctx_expose": "0_100424345_-99_-99_-99_-99_135464387_-99",
+              "href": "viprouter://productlist/brand?brand_id=100424345&brand_name=日本POLA精选专场",
+              "wormhole": {
+                "brand_id": "100424345",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100296765_2",
+          "data": {
+            "brand": {
+              "brand_id": "100296765",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/01/115/ias_d94bfab3-b761-473a-86aa-3ddc2bba2693_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/01/28/ias_666d18b7-87a4-4025-99e8-a0731f4353b1_1135x545_85.jpg",
+              "title": "膳魔师THERMOS水壶水杯特卖专场",
+              "discount": "2.7折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/39560dc9c497419fa4d291a295d84127/10006631/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100296765",
+                "target_type": "1",
+                "target_id": "100296765",
+                "brand_form": "2",
+                "brandpic": "163900438"
+              },
+              "st_ctx_expose": "0_100296765_-99_-99_-99_-99_163900438_-99",
+              "href": "viprouter://productlist/brand?brand_id=100296765&brand_name=膳魔师THERMOS水壶水杯特卖专场",
+              "wormhole": {
+                "brand_id": "100296765",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100319354_2",
+          "data": {
+            "brand": {
+              "brand_id": "100319354",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/28/104/ias_daf8992b-3eaf-4bed-89e2-660d522a8923_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/15/196/ias_6fa0822a-1e0e-477e-ba48-637370a1f306_1135x545_85.jpg",
+              "title": "Healthy Care保养护肤特卖专场",
+              "discount": "3折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6256d1fb2ecf4fd5a2d344b51e92cfce/10020902/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100319354",
+                "target_type": "1",
+                "target_id": "100319354",
+                "brand_form": "2",
+                "brandpic": "134912289"
+              },
+              "st_ctx_expose": "0_100319354_-99_-99_-99_-99_134912289_-99",
+              "href": "viprouter://productlist/brand?brand_id=100319354&brand_name=Healthy+Care保养护肤特卖专场",
+              "wormhole": {
+                "brand_id": "100319354",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100296798_2",
+          "data": {
+            "brand": {
+              "brand_id": "100296798",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/27/97/ias_006206d2-2378-455f-9f53-6fca5e53dd3d_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/07/20/ias_59719894-9867-4162-96c9-6827a20d8e3e_1135x545_85.jpg",
+              "title": "多品牌品牌联促专场",
+              "discount": "2折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100296798",
+                "target_type": "1",
+                "target_id": "100296798",
+                "brand_form": "2",
+                "brandpic": "158371099"
+              },
+              "st_ctx_expose": "0_100296798_-99_-99_-99_-99_158371099_-99",
+              "href": "viprouter://productlist/brand?brand_id=100296798&brand_name=多品牌品牌联促专场",
+              "wormhole": {
+                "brand_id": "100296798",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100296706_2",
+          "data": {
+            "brand": {
+              "brand_id": "100296706",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/16/75/ias_cef3f1a1-791f-4b8b-ba2b-3617a98b5d84_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/16/151/ias_ab24772a-5b2f-4091-9ccd-e8da825e44dc_1135x545_85.jpg",
+              "title": "菲拉格慕FERRAGAMO精选专场",
+              "discount": "2.2折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/674aa6c356ae4627925b622200e1c057/10000388/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100296706",
+                "target_type": "1",
+                "target_id": "100296706",
+                "brand_form": "2",
+                "brandpic": "167216616"
+              },
+              "st_ctx_expose": "0_100296706_-99_-99_-99_-99_167216616_-99",
+              "href": "viprouter://productlist/brand?brand_id=100296706&brand_name=菲拉格慕FERRAGAMO精选专场",
+              "wormhole": {
+                "brand_id": "100296706",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100337628_2",
+          "data": {
+            "brand": {
+              "brand_id": "100337628",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/127/ias_a043def2-53b3-48d5-8a49-02bbfdf9c84e_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/15/33/ias_08898e29-23a8-404e-ba71-aaccda003110_1135x545_85.jpg",
+              "title": "馥露迪雅等手足护理专场",
+              "discount": "2.7折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100337628",
+                "target_type": "1",
+                "target_id": "100337628",
+                "brand_form": "2",
+                "brandpic": "135888457"
+              },
+              "st_ctx_expose": "0_100337628_-99_-99_-99_-99_135888457_-99",
+              "href": "viprouter://productlist/brand?brand_id=100337628&brand_name=馥露迪雅等手足护理专场",
+              "wormhole": {
+                "brand_id": "100337628",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100338324_2",
+          "data": {
+            "brand": {
+              "brand_id": "100338324",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/27/37/ias_1f351a6e-8a25-4d30-9768-cae52d1f3116_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/15/124/ias_caeabd2f-9554-4a5b-a54a-a1ae5a159614_1135x545_85.jpg",
+              "title": "思薇娜/Mistine等眼妆专场",
+              "discount": "1.3折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100338324",
+                "target_type": "1",
+                "target_id": "100338324",
+                "brand_form": "2",
+                "brandpic": "135348876"
+              },
+              "st_ctx_expose": "0_100338324_-99_-99_-99_-99_135348876_-99",
+              "href": "viprouter://productlist/brand?brand_id=100338324&brand_name=思薇娜/Mistine等眼妆专场",
+              "wormhole": {
+                "brand_id": "100338324",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100349718_2",
+          "data": {
+            "brand": {
+              "brand_id": "100349718",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/03/61/ias_f9fe4664-b759-4e88-a294-da9f35884590_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/15/57/ias_cdb9f71f-ebe2-4e95-9261-40425018814d_1135x545_85.jpg",
+              "title": "飞利浦/戴森/ReFa等电器专场",
+              "discount": "1.9折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100349718",
+                "target_type": "1",
+                "target_id": "100349718",
+                "brand_form": "2",
+                "brandpic": "135347889"
+              },
+              "st_ctx_expose": "0_100349718_-99_-99_-99_-99_135347889_-99",
+              "href": "viprouter://productlist/brand?brand_id=100349718&brand_name=飞利浦/戴森/ReFa等电器专场",
+              "wormhole": {
+                "brand_id": "100349718",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100465915_2",
+          "data": {
+            "brand": {
+              "brand_id": "100465915",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/18/114/ias_06d8daac-d52f-41e6-8afd-35ef20ccc8c0_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/18/57/ias_40d82da1-e196-4ce3-805f-715875d8d145_1135x545_85.jpg",
+              "title": "MCM女包特卖专场",
+              "discount": "4.4折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6d30b486d4c04d719957beecee216413/10004644/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100465915",
+                "target_type": "1",
+                "target_id": "100465915",
+                "brand_form": "2",
+                "brandpic": "167385296"
+              },
+              "st_ctx_expose": "0_100465915_-99_-99_-99_-99_167385296_-99",
+              "href": "viprouter://productlist/brand?brand_id=100465915&brand_name=MCM女包特卖专场",
+              "wormhole": {
+                "brand_id": "100465915",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100280321_2",
+          "data": {
+            "brand": {
+              "brand_id": "100280321",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/22/88/ias_fa228701-de59-4296-b4e9-058bbebd1789_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/22/108/ias_8e74a73f-75f9-4361-a548-60d3d75abdd2_1135x545_85.jpg",
+              "title": "MUJI/NIVEA/菊正宗护肤彩妆专场",
+              "discount": "3.1折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100280321",
+                "target_type": "1",
+                "target_id": "100280321",
+                "brand_form": "2",
+                "brandpic": "168157951"
+              },
+              "st_ctx_expose": "0_100280321_-99_-99_-99_-99_168157951_-99",
+              "href": "viprouter://productlist/brand?brand_id=100280321&brand_name=MUJI/NIVEA/菊正宗护肤彩妆专场",
+              "wormhole": {
+                "brand_id": "100280321",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100476038_2",
+          "data": {
+            "brand": {
+              "brand_id": "100476038",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/03/115/ias_b083918d-92eb-444a-b3d2-be88e19048d3_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/15/125/ias_57a37248-5964-44aa-ad08-16914720a7b8_1135x545_85.jpg",
+              "title": "雅诗兰黛/兰蔻/娇兰等粉底液/膏专场",
+              "discount": "1.9折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100476038",
+                "target_type": "1",
+                "target_id": "100476038",
+                "brand_form": "2",
+                "brandpic": "135052772"
+              },
+              "st_ctx_expose": "0_100476038_-99_-99_-99_-99_135052772_-99",
+              "href": "viprouter://productlist/brand?brand_id=100476038&brand_name=雅诗兰黛/兰蔻/娇兰等粉底液/膏专场",
+              "wormhole": {
+                "brand_id": "100476038",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100476019_2",
+          "data": {
+            "brand": {
+              "brand_id": "100476019",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/48/ias_7aaa9436-13fa-4836-98e3-988ad47d6db3_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/27/5/ias_3fec0155-f707-41a9-842d-5fda482000fc_1135x545_85.jpg",
+              "title": "城野医生/科颜氏/兰蔻等精华专场",
+              "discount": "1.9折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100476019",
+                "target_type": "1",
+                "target_id": "100476019",
+                "brand_form": "2",
+                "brandpic": "169102923"
+              },
+              "st_ctx_expose": "0_100476019_-99_-99_-99_-99_169102923_-99",
+              "href": "viprouter://productlist/brand?brand_id=100476019&brand_name=城野医生/科颜氏/兰蔻等精华专场",
+              "wormhole": {
+                "brand_id": "100476019",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100282129_2",
+          "data": {
+            "brand": {
+              "brand_id": "100282129",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/24/181/ias_d1c4cb49-0bca-4096-ac54-bc5d15e53957_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/19/138/ias_67427f7a-4ed7-453b-bd03-f2f2a3700e01_1135x545_85.jpg",
+              "title": "那绯澜/花王/玉肌等个人护理专场",
+              "discount": "1.8折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100282129",
+                "target_type": "1",
+                "target_id": "100282129",
+                "brand_form": "2",
+                "brandpic": "160613101"
+              },
+              "st_ctx_expose": "0_100282129_-99_-99_-99_-99_160613101_-99",
+              "href": "viprouter://productlist/brand?brand_id=100282129&brand_name=那绯澜/花王/玉肌等个人护理专场",
+              "wormhole": {
+                "brand_id": "100282129",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100462076_2",
+          "data": {
+            "brand": {
+              "brand_id": "100462076",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/48/ias_5f0abf69-da6f-4368-8f3e-bf821d14b38e_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/01/16/ias_ad057783-3893-4a46-81a0-4bf718e82e8e_1135x545_85.jpg",
+              "title": "COACH男女包专场",
+              "pms_text": "部分商品折上4.9折起",
+              "discount": "1.9折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6be3cb462a38441fb277118af5960bbb/10025557/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100462076",
+                "target_type": "1",
+                "target_id": "100462076",
+                "brand_form": "2",
+                "brandpic": "157526902"
+              },
+              "st_ctx_expose": "0_100462076_-99_-99_-99_-99_157526902_-99",
+              "href": "viprouter://productlist/brand?brand_id=100462076&brand_name=COACH男女包专场",
+              "wormhole": {
+                "brand_id": "100462076",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100296833_2",
+          "data": {
+            "brand": {
+              "brand_id": "100296833",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/84/ias_741b1047-0a7f-4a88-ba58-228f41c6d145_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/16/23/ias_540f1dca-df99-4bf8-ba6f-0359c56082ed_1135x545_85.jpg",
+              "title": "Calvin Klein品质专场",
+              "discount": "2.2折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/960be746b10941e19d68a95a71e24fbc/10000484/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100296833",
+                "target_type": "1",
+                "target_id": "100296833",
+                "brand_form": "2",
+                "brandpic": "136818599"
+              },
+              "st_ctx_expose": "0_100296833_-99_-99_-99_-99_136818599_-99",
+              "href": "viprouter://productlist/brand?brand_id=100296833&brand_name=Calvin+Klein品质专场",
+              "wormhole": {
+                "brand_id": "100296833",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100296690_2",
+          "data": {
+            "brand": {
+              "brand_id": "100296690",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/31/158/ias_b02193b7-3926-4bb9-8732-249bafc87f78_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/16/185/ias_888558fe-d2cc-4d9e-b2c6-9c1c15c80b14_1135x545_85.jpg",
+              "title": "资生堂Shiseido护肤个护精选专场",
+              "discount": "4.1折起",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8700be9f44204bad82774e85c9f4a38b/10000855/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100296690",
+                "target_type": "1",
+                "target_id": "100296690",
+                "brand_form": "2",
+                "brandpic": "136634468"
+              },
+              "st_ctx_expose": "0_100296690_-99_-99_-99_-99_136634468_-99",
+              "href": "viprouter://productlist/brand?brand_id=100296690&brand_name=资生堂Shiseido护肤个护精选专场",
+              "wormhole": {
+                "brand_id": "100296690",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100476025_2",
+          "data": {
+            "brand": {
+              "brand_id": "100476025",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/14/103/ias_f072cbd8-cc2d-4452-8b6a-d2c47c44fa53_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/14/38/ias_b65cd644-5a5c-45bf-951c-ef48a9f81b95_1135x545_85.jpg",
+              "title": "卡诗/那绯澜/呂RYO/ogx等洗发水专场",
+              "discount": "2.6折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100476025",
+                "target_type": "1",
+                "target_id": "100476025",
+                "brand_form": "2",
+                "brandpic": "166883131"
+              },
+              "st_ctx_expose": "0_100476025_-99_-99_-99_-99_166883131_-99",
+              "href": "viprouter://productlist/brand?brand_id=100476025&brand_name=卡诗/那绯澜/呂RYO/ogx等洗发水专场",
+              "wormhole": {
+                "brand_id": "100476025",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100527527_2",
+          "data": {
+            "brand": {
+              "brand_id": "100527527",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/26/33/ias_cfb4a785-96ac-441a-8570-5d481942a8f0_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/23/71/ias_b3976955-9e66-49eb-b10e-496b77ece54f_1135x545_85.jpg",
+              "title": "DANIEL WELLINGTON钟表专场",
+              "discount": "3折封顶",
+              "logo": "http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8839154cc338499e91963fc51271e0ee/10020526/primary.png",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100527527",
+                "target_type": "1",
+                "target_id": "100527527",
+                "brand_form": "2",
+                "brandpic": "168318527"
+              },
+              "st_ctx_expose": "0_100527527_-99_-99_-99_-99_168318527_-99",
+              "href": "viprouter://productlist/brand?brand_id=100527527&brand_name=DANIEL+WELLINGTON钟表专场",
+              "wormhole": {
+                "brand_id": "100527527",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100337117_2",
+          "data": {
+            "brand": {
+              "brand_id": "100337117",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/28/12/ias_34d613c7-53f8-4d1b-a33f-4d1d863f5582_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/18/94/ias_79214b63-0b31-4fbc-8939-66b81506ab7b_1135x545_85.jpg",
+              "title": "多品牌进口营养补充品品质专场",
+              "discount": "2.6折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100337117",
+                "target_type": "1",
+                "target_id": "100337117",
+                "brand_form": "2",
+                "brandpic": "160390146"
+              },
+              "st_ctx_expose": "0_100337117_-99_-99_-99_-99_160390146_-99",
+              "href": "viprouter://productlist/brand?brand_id=100337117&brand_name=多品牌进口营养补充品品质专场",
+              "wormhole": {
+                "brand_id": "100337117",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100296790_2",
+          "data": {
+            "brand": {
+              "brand_id": "100296790",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/12/03/167/ias_b93794c3-2d05-4aea-bfd6-c4d35df4c7e4_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/10/16/66/ias_d3c18b2b-ddfd-4fd7-bcf8-202555e1b43b_1135x545_85.jpg",
+              "title": "G&M/ROSIEN/趣乐活等化妆品专场",
+              "discount": "2.5折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100296790",
+                "target_type": "1",
+                "target_id": "100296790",
+                "brand_form": "2",
+                "brandpic": "137964623"
+              },
+              "st_ctx_expose": "0_100296790_-99_-99_-99_-99_137964623_-99",
+              "href": "viprouter://productlist/brand?brand_id=100296790&brand_name=G&M/ROSIEN/趣乐活等化妆品专场",
+              "wormhole": {
+                "brand_id": "100296790",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        },
+        {
+          "floor_type": "brand",
+          "unique_id": "100296840_2",
+          "data": {
+            "brand": {
+              "brand_id": "100296840",
+              "corner_mark": [],
+              "image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/29/91/ias_309a7f21-a9c2-4015-a677-1518961981ae_1135x545_85.jpg",
+              "brand_image": "https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2019/11/20/158/ias_80e5d492-4fa9-478b-9d4b-b6cb11e3fea7_1135x545_85.jpg",
+              "title": "Dior/YSL/CHANEL等彩妆专场",
+              "discount": "3.1折起",
+              "national_flag": "",
+              "st_ctx_click": {
+                "brandType": "0",
+                "tsift": "0",
+                "channel_id": "62",
+                "channel_name": "国际",
+                "brandId": "100296840",
+                "target_type": "1",
+                "target_id": "100296840",
+                "brand_form": "2",
+                "brandpic": "160749593"
+              },
+              "st_ctx_expose": "0_100296840_-99_-99_-99_-99_160749593_-99",
+              "href": "viprouter://productlist/brand?brand_id=100296840&brand_name=Dior/YSL/CHANEL等彩妆专场",
+              "wormhole": {
+                "brand_id": "100296840",
+                "refer_index": "9",
+                "type": "brand_main",
+                "brand_type": "2"
+              },
+              "is_nuke": "0",
+              "topbrand_end_time": "-1",
+              "display_feedback": "0",
+              "bannerColor": "#F8F7F7"
+            },
+            "items": []
+          }
+        }
+      ]
+    }
+  }
+}
